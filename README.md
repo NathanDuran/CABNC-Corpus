@@ -21,7 +21,7 @@ cabnc_utilities.py script contains various helper functions for loading/saving a
 
 ## Data Format
 The original transcripts have had all disfluency and annotation characters removed. For example '|', '◉', '=', '@'.
-The metadata headers and utterance timestamps (marked with '$#9633;') have also been removed.
+The metadata headers and utterance timestamps (marked with '&#9633;') have also been removed.
 
 Utterance marked with '0', i.e. silence/no transcription have been removed.
 
