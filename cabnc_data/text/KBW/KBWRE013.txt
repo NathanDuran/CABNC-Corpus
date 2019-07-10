@@ -1,0 +1,170 @@
+PS087|Did James put sand in your eye Oh dear Was that an accident You're always getting sand in your eye aren't you I think you must rub your hands in your eyes or something.
+PS088|I did And it didn't come out properly.
+PS087|No Did Lily help you.
+PS088|No.
+PS087|Gwen.
+PS088|No.
+PS087|Oh Just you.
+PS088|Yes.
+PS087|Is it still in there now.
+PS088|What.
+PS087|Is it still in your eye now.
+PS088|Yeah.
+PS087|Oh dear If you blink a lot that helps to wash it out.
+PS088|No.
+PS087|Blink a lot cos it helps to wash it out.
+PS088|put water.
+PS087|Well it's a bit tricky to put water in your eye Just blink a lot cos that helps That wa.
+PS088|No.
+PS087|that washes your eye anyway Here they are look.
+PS088|Oh we go past them.
+PS087|That's right I'm turning round here look Quick.
+PS0XR|Are you going to go round.
+PS087|Be quick.
+PS0XR|Eh.
+PS087|Who's gon na go round He can climb through the middle Have you had a good morning.
+PS0XR|Erm we discovered we could have come through this road here.
+PS087|Oh.
+PS0XR|instead of going on that grass.
+PS087|That would have been quicker would it.
+PS0XR|I think yes we're going to have to go back that way It depends which way you're coming.
+PS087|Have you had a good morning sir.
+PS0XR|That was quite quick I was there before it.
+PS087|It is it's not very far Did you have to wait for ages.
+PS0XR|No I had a good look and some of his class came to wave to me.
+PS087|Oh.
+PS0XR|Isn't it amazing how they know you Eh.
+PS087|I expect he said there's my grandma.
+PS0XR|Yeah.
+PS088|Where's that car.
+PS0XR|What car love Hello Timothy How are you.
+PS087|Anybody else going home today for lunch.
+PS0XR|Yes there's ano somebody behind Who was it Er he knew who it was didn't you.
+PS089|I don't know who it was.
+PS0XR|No but somebody came behind us didn't they Cos they'd brought a little dog to be walked.
+PS087|Have you had a good swim.
+PS0XR|We left his things There was no point in bringing.
+PS087|No no point in bringing swimming things now Did you have a good swim Christopher.
+PS0XR|Did you have a good swim Donkeys nod their heads.
+PS087|Bit silent.
+PS0XR|He's nodding his head.
+PS087|What have you done this morning Swimming.
+PS089|Mummy when I swam swimmed.
+PS087|Yeah.
+PS089|it wasn't very long.
+PS087|It wasn't very long.
+PS089|No.
+PS087|Oh Why was that then.
+PS089|Anyway it was very cold.
+PS087|Was it.
+PS0XR|Oh dear Have they got it warmed up.
+PS087|Did you get out and warm up.
+PS088|Mum why are we going this way.
+PS089|The out was even colder.
+PS0XR|Oh dear That's a shame isn't it.
+PS088|Why are we going this way.
+PS087|I hope it's not.
+PS089|When I got in the pool it was very cold going round the edge.
+PS087|Yeah.
+PS088|Mummy why are we going this way.
+PS0XR|We're going to Tesco's.
+PS087|We're going to Tesco's He's not got himself sorted out Tim He's a bit bit erm.
+PS0XR|Oh poor thing he's a mixing him up are you.
+PS087|bit baffled aren't you Tim.
+PS0XR|Course he's baffled Anybody would be baffled Look at that woman silly.
+PS089|That's where Gemma lives down there.
+PS087|Yes that's right Well you say silly thing but how else is she gon na get across that road.
+PS0XR|Got no other way has she Cos.
+PS087|Cos they've not exactly put.
+PS0XR|er the the to that bus stop Except there seems to be.
+PS087|they've not stuck an underpass or anything have they And it's a pretty horrendous road.
+PS0XR|a lot of people coming cars on it when she did.
+PS087|Well there are always a lot of cars on it.
+PS0XR|Yeah.
+PS087|So there's no no chance Don't believe in zebra crossings in Redditch We haven't got any you know.
+PS0XR|No I know we haven't.
+PS087|Those pelican crossings that we've got one or two of those We could have one of those I think we'll have a mass trip to the toilet before we go into the cafe.
+PS0XR|Oh we'd better yes Yeah I thought I'd gone before I came out of my house but I had a feeling when I nearly got to their school that I ought to have again.
+PS087|You want to go again.
+PS0XR|Yeah.
+PS087|it's even better there look.
+PS087|There you are.
+PS089|When it goes straight on there it looks like you're reversing backwards.
+PS087|It does doesn't it But I hadn't really It was a bit cheating.
+PS089|What.
+PS087|It was a bit cheating Right what do we need Just money and us don't we.
+PS089|Are we allowed.
+PS087|Yeah Mr didn't decide.
+PS089|Mum I need to wash.
+PS087|to take your patches off your trousers again today.
+PS089|No.
+PS087|Good.
+PS0XR|get out.
+PS089|I'm going to wash my hands cos I've got glue on me.
+PS087|Oh right What have you been doing then Sticking glue.
+PS089|Gluing.
+PS087|glue Glueing what.
+PS0XR|Are you unbuttoned yet.
+PS087|Do you want some help.
+PS0XR|Oh he's unplugged now.
+PS087|Ooh Somebody else coming Right Are we all locked up.
+PS089|Mum.
+PS088|Oh dear.
+PS089|That car's called E K W.
+PS087|Are you alright Having troubles.
+PS089|E K W.
+PS087|You what.
+PS089|E K W that car is.
+PS087|E K W There's E J W there With a J.
+PS089|Where.
+PS087|Here.
+PS0XR|What did what did Christopher and Timothy give you then.
+PS087|For my birthday.
+PS0XR|Yeah.
+PS087|I got some biscuit cutters.
+PS0XR|Is that what you got.
+PS087|Mm.
+PS0XR|Ooh that.
+PS087|Dinosaur shapes and gingerbread men shapes.
+PS0XR|Oh.
+PS087|So we've got to make biscuits all afternoon.
+PS089|I gave you gingerbread big man.
+PS087|Yes you did.
+PS089|And Tim gave you dinosaurs.
+PS087|That's right.
+PS089|And daddy gave you the family.
+PS087|That's right.
+PS088|Oh oy.
+PS087|We're all going to the toilet first.
+PS089|Where's grandma going.
+PS087|She's examining what she's going to eat.
+PS087|Did you all go swimming or were there a lot of you not going today.
+PS089|Not very many.
+PS0XR|Thank you.
+PS089|went Mum.
+PS087|Mm.
+PS089|went.
+PS087|Who went Mark went.
+PS089|Mm.
+PS087|Good Have you done any reading or anything like that.
+PS0XR|Is he alright in there Dorothy.
+PS087|Well I hope so Sorry do you want to.
+PS089|Mum why do you.
+PS087|you have one.
+PS0XR|No you're alright no I'll look and see what the man's doing He's alright.
+KBWPSUN|Oh.
+PS087|You just carry on in this one look.
+KBWPSUN|Oh okay.
+PS087|Don't worry about our family We'll all go in to the one.
+PS088|I've taken my coat off.
+PS087|Oh you've taken your coat off Right He's taken his coat off.
+PS088|How do you lock it.
+PS087|No we don't need to lock it come on There's only us and a lady in here and she won't be coming.
+PS088|Think there's someone else gon na come.
+PS087|Is there Well grandma will sort them out Is there anything coming.
+PS088|No.
+PS087|No You're alright are you.
+PS088|Yeah.
+PS087|When did you wee Did you wee at at nursery.
+PS088|Yeah Er er er before I I went.
+PS087|Right Right Would you like to tell grandma Ask her if she'll do your face for you cos you're a mess While I just go to the toilet.

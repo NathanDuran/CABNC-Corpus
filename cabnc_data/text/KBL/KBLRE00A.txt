@@ -1,0 +1,174 @@
+PS06A|So go on then.
+PS06H|No no you can go through.
+PS06A|No go in and talk to them Hello.
+PS06A|Ooh hello.
+PS06A|Hiya Trudy.
+PS06A|Hello.
+PS06A|Hello Connie How are.
+PS06B|Hello.
+PS06A|you How are dear.
+PS06B|Well I'm in better once I've been very very poorly indeed.
+KBLPSUN|You enjoyed it I hope.
+PS06B|But very.
+PS06A|Is your hearing aid on.
+PS06B|No I'm looking for my two daughters They're supposed to have.
+PS06H|But they won't be.
+PS06B|appeared.
+PS06A|Erm it's rabi what is it today Friday.
+PS06H|Friday.
+PS06A|Well didn't one come yesterday.
+PS06B|Yes.
+PS06A|Connie.
+PS06B|Yeah and erm the other one was supposed to come Thursday.
+PS06H|One's coming tomorrow.
+PS06B|And then there's another one coming Saturday.
+PS06H|Yeah tomorrow.
+PS06D|Hello.
+PS06B|Take take.
+PS06A|Hello Lily.
+PS06D|Hello.
+PS06H|And then you're going away for the weekend.
+PS06B|Yes.
+PS06H|Yes.
+PS06B|I'm going away.
+PS06B|for the weekend.
+PS06A|Sorry.
+PS06H|Yeah.
+PS06B|Yes.
+PS06D|You getting one of your good home.
+PS06B|So I sit here and wait.
+PS06H|You sit here and wai ooh they're not coming today.
+PS06B|No.
+PS06H|No.
+PS06B|And er you know those I've got two other bags yo.
+PS06H|Yeah your two handbags.
+PS06B|They're upstairs in the tower.
+PS06H|Alright.
+PS06B|And they got the cough the be er sweets in.
+PS06H|Right okay I'll go and try and sort that out for you then alright.
+PS06B|What dear.
+PS06H|I'll sort that out for you.
+PS06B|Right.
+PS06H|Okay.
+PS06B|I keep coughing like that.
+PS06H|Oh alright then.
+PS06D|Are you in charge or.
+PS06H|Yes Mary.
+PS06C|Th the fire the those feet are catching in that it's not being used you might just as well switch it off.
+PS06H|The little fire over there.
+PS06C|Yes.
+PS06H|Alright then.
+PS06B|See I meet other people's.
+PS06H|Mm.
+PS06B|er children.
+PS06H|Alright.
+PS06B|Yes.
+PS06H|Okay.
+PS06B|You got sweets is it.
+PS06D|Would you know she got a box of tissues by her bed.
+PS06H|Alright.
+PS06D|You don't.
+PS06H|No no no It's not you No.
+PS06D|Alright.
+PS06H|Yeah A box of tissues near by the bed I'll go and have a look in a minute okay.
+PS06D|If you don't mi only I bought a box she hasn't got any I just wonder I I'll get some more.
+PS06H|I see yes She does ask for some sometimes She says can I have a tissue so.
+PS06D|And she hasn't got a box by her bed cos I bought her some the other day and she doesn't know.
+PS06H|Right.
+PS06H|Okay.
+PS06D|What's what's the joke You can hear a joke and see the funny side can't you Only I asked her just now.
+PS06H|Yeah.
+PS06D|said where's your tissues.
+PS06H|Yeah.
+PS06D|I don't know And I just wondered are they by her bed that's all.
+PS06H|Right.
+PS06H|Sorry I've been laughing in the kitchen you see that's what it is.
+PS06D|That's alright.
+PS06H|It's not.
+PS06D|No.
+PS06H|you.
+PS06D|No alright.
+PS06H|Right I've just got ta turn this off here.
+PS06D|Only I just thought you know is she getting any then I'll.
+PS06H|Yeah.
+PS06D|I think I'll bring get some.
+PS06H|Yeah.
+PS06D|more.
+PS06H|I'll go and have a look now okay.
+PS06D|If you don't mind.
+PS06H|Right You alright Ivy.
+KBLPSUN|Eh.
+PS06H|You alright.
+KBLPSUN|No I can't breathe.
+PS06H|Your alright.
+KBLPSUN|Ooh Christ ain't you cold Eh Oh dear.
+PS06H|I know I've been working.
+KBLPSUN|I know.
+PS06H|You alright.
+KBLPSUN|No I'm not I can't breathe.
+PS06H|I'll have a word with Fiona.
+PS06A|Turn that.
+KBLPSUN|Will you Thank.
+PS06H|Yep.
+PS06A|down.
+KBLPSUN|you.
+PS06H|Yeah I've turned it off Trudy.
+PS06A|Did you Oh bless you love.
+PS06H|Yep.
+PS06A|I don't think that we need it on.
+PS06H|Are you alright Mary.
+PS06F|Mm.
+PS06H|I turned it off for you.
+KBLPSUN|Yeah just a bit.
+PS06H|You alright.
+PS06F|Yes dear Thank you.
+PS06H|Good I'm not here for the weekend now.
+PS06F|Ya I thought you was gon na say I'm not here.
+PS06H|I am here.
+PS06F|But I'm not.
+PS06H|No I'm not here for the weekend so I'll.
+PS06F|Go.
+PS06H|see you all on.
+PS06F|are you go gon na be away are you fo for a day or whatever.
+PS06H|Well it's my break.
+PS06F|Yeah.
+KBLPSUN|You need.
+PS06H|Yeah.
+KBLPSUN|it dear.
+PS06H|Oh I do don't I.
+KBLPSUN|Yes you do.
+PS06H|I do work very hard.
+PS06A|You deserve it do you.
+PS06H|I do.
+PS06F|Yes you do.
+PS06A|Well we hope you enjoy it.
+PS06H|Thank you very much Trudy.
+PS06F|Been nice won't it for you.
+PS06H|Yeah So I'll be back on Monday.
+PS06F|Okay dear.
+PS06H|Alright I'll see you.
+PS06F|We'll miss you Yes.
+PS06H|Ah will you.
+PS06F|Yes course we will.
+PS06H|Ah That's nice That's very nice Alright Olive.
+PS06E|Alright dear.
+PS06H|Okay I'll see you on Monday.
+PS06E|Ooh ooh ooh And you're co.
+PS06H|Am I cold.
+PS06E|Ooh no.
+PS06H|Everyone thinks I'm cold.
+KBLPSUN|Oh what's this.
+PS06E|Dear dear What's this Something to.
+PS06H|This Oh this is Cherry's.
+PS06E|to hear with or.
+PS06H|No it's just Cherry's I'm borrowing it for a while.
+PS06E|Oh I see Well.
+PS06H|Yeah Okay.
+PS06E|Yeah.
+PS06A|Can you see Fiona.
+PS06H|Okay I'll go and get Fiona Fiona Ivy wants to see you.
+PS06G|Ivy.
+PS06H|Yeah.
+PS06G|What about.
+PS06H|Shall I stop it Or shall I.
+PS06A|Yes.

@@ -1,0 +1,3860 @@
+{
+    "dataset": "cabnc_KE5",
+    "num_dialogues": 3,
+    "dialogues": [
+        {
+            "dialogue_id": "KE5RE001",
+            "num_utterances": 28,
+            "utterances": [
+                {
+                    "speaker": "PS0X2",
+                    "text": "We are watching the brides of Christ probably never ever to be seen again in the year two thousand and fifty six Janice is writing away on her pad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Shaun's sitting cross legged.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "And Darren looks like an oversized leprechaun all dressed in green and ready to go meanwhile I'm reporting this excellent news to you guys if you are listening out there from the national library association er er er er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "we ee ee ee ee ee.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "hello hello.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "What does.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "that word mean in the year twenty five twenty thousand Oh I've got to phone my ma.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Blik blik slogger logger a.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Masturbate explain masturbate.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "by the way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Well if you take a.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "and cross it with a fuel injection between her and nitro oxide.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "And take with crystals from the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "you'll put it with a box of speed with about seven hundred leggings twelve per hour.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I'd like you to ring us back up in the past and ask us tell us if there's a war and how often you have sex in them days.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "We do it seven days a seven seven times a day seven times a week in the year nineteen ninety two.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Excluding bank holiday Mondays.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "fifty two weeks a year.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "excluding bank holiday Mondays.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "and Christmas Day.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "excluding bank holiday Mondays and Christmas Day.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "all too pissed.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Thank you very much for listening and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "this is er er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I should work for the B B C shouldn't I as a news reporter.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "this is Nigel.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "That's a burp you may not experience that word from where you come from.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yes by the year two thousand and fifty six comes burps may be anonymous.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        },
+        {
+            "dialogue_id": "KE5RE002",
+            "num_utterances": 366,
+            "utterances": [
+                {
+                    "speaker": "PS0X4",
+                    "text": "Smells alright but there you go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Here mum how am I supposed to get that hi fi up to Reggie's house when I can't remember the way through that fucking maze of flats with you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well I'll come with you that's no trouble.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "wants that one but I'm gon na get him a little one to go on there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Next time I see him I'll probably see him tomorrow no I you usually see him round town so I say I'll arrange a time.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "that's if he still wants it I suppose he does.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Oh he hit the flag old.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "time bastard.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Did any one see the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "from that van yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "All Joanne said was did you catch up with Wayne weren't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "oh it does add a bit more cleanliness to it Wayne mind you the rice is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "are you well you eat it the way you want to do it and I'll eat it all up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh ya ya ya ya.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "nice and rich ha.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "oh ya ya ya ya.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "now I've got the mini ones I can play some new chords you see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "oh ya ya ya ya oh ya ya ya.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "it's called a midi.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "ya ya oh ya ya ya.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I know what it's called but I would like it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "da ya da ya.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Best get a stand for it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Oh have you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I'll fix that how you gon na put my fence up for me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Mm mm mm where's it got to be.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Is this on an employed basis in n it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "In what way employed basis Because I can't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Am I being employed to put this fence up for you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I haven't got any money if that's what you're after.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I hope.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "That's what employment means don't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well I've got no money Wayne don't forget I'm still on sick pay until next week then I get me full week's money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "That's true that's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "and I've helped you as much as I possibly can in the past a few weeks to the best of my ability.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "If you don't get a job I will get a job for the time being and you want me to take some money off your bill you can get rid of some of that rubbish out in that fucking shed in the back of that van.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Don't wan na.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "No mum's giving you a fair what she say.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Claire.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I want them sheds cleared out cos I want to get that garden sorted out for the summer.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "There's piss all jobs in there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I know er well where the path is the only problem is where the edge finishes at the other end at the bottom end right there's gon na be a gap there and I wan na close that gap off somehow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Where.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "At the bot where the edge is right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "It'd been there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "right near the gate.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "look.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "where the gate supposed to be.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Hang on let me show let me find a bit of bloody paper here silly bloody arse.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "You'd have to dig a couple of holes and you'd have to concrete the bugger in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "it won't just sit there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Right that's the path right this is where the edge finishes yeah this is the front edge yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "This is the path coming up to the house and you've got the green like that between there and there there's a gap I don't know how I'm gon na do that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No I don't know what the fuck you're on about here it's upside down where's the house.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "There's the house right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "there's the window.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "that's the path.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "and that's the path green to the alleyway.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "and this is the path coming onto the big main path.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Oh right yeah I get you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "right this is the edge.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "and it stops about there between there and that path is a gap.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "That's alright just do it straight down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "right yeah but that means there's gon na be ground on this side what I want to do is come as close as I can to this path don't worry about this.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "You've got a gate there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well I I might just block it off get another piece of wood and put it in there and just nail that fucking lot up and block off completely otherwise Nick's if Nicholas is playing in the garden he'll be out of there like a shot so you're gon na get one post there say one in the middle and one at the end.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Stop the fucking cats coming and shitting in the garden.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "And you've got the gate out there repair that put it up somehow well it's only a temporary job.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "get some gates probably down the dump or something.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well if you get through some of that rubbish that's beginning to smell.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "You talk to him about that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "It's beginning to smell.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "if you can make arrangements maybe we can sort something out between us.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "There's loads of shit out there got to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "nearly all of it's got ta go really there's two gas fires out there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "If we can flog them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "we might be able to bloody flog them to somebody Wayne.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Ah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "get a couple of.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I'd flog my necklace first I'm so fucking skint.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "You flogged it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh Alfie might buy a fire off you dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I doubt it I wouldn't er bother asking him.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah well you don't need to put concrete in it because if you can little bit with a sledgehammer.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "If you have to put concrete in concrete you have to cement it in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well it's only a bloody temporary job in n it You want a sledgehammer don't you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Oh yeah while I think of it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "while I think of it you owe Maggie thirty one pound ninety five P I've paid thirty pound for you up to now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Thirty one you might as well say thirty two quid.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Talk of Maggie when you see her tomorrow say Wayne said he's not gon na give you any more money until he gets his videos back cos she's got two of my videos my Razor video and my in X S.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well I'll just ask her for your videos first.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Just say Wayne said can he have his videos and if she don't cough them up in the week say you don't get any more money until he gets his videos back.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well I asked her how much you owed and she said thirty one ninety five.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Say thirty two quid dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "No that's right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah well it's only a couple of bloody pennies short of money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Wayne wanted to know what you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Thirty quid whoop fucking new man.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well it was sixty.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "See really all you need to do is pull it you've got two posts how high do you want to go with the posts about that high Which is about what four foot That's all you've got to go so them poles have got to be cut down to five foot two five foots four four five foots.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "First thing to do is level the fucking ground off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well the spade Martin has got the spade.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Yeah and they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "That spade's crap it fucking bows.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Oh what else was I gon na say Oh do you want to stay in the social club.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Well I did say that yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well what what what.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well what for.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Snap.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Well if there are any trips I can get them cheaper can't I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "You get them cheaper anyway without being in the Social.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No you won't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yes you will oh yes you will I fucking see to that seeing as they couldn't even send me a fucking get well card.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It's only fifteen P a week it's not exactly expensive.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "No but it all adds up I was sitting there the other day adding up your things.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Right now you can discuss with Wayne about the sheds.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I don't want to worry about sheds for now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "As I say I was sitting there adding it up a pound for this and a pound for that and your meal a fiver for Maggie I'm twenty pound short off you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah was cutting house keep short.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah alright alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "We're not having a go at you Wayne we're just talking dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "See I was just adding it up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "you know it's a hell of a bloody whack out when you you know when you're short.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Especially rent week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Oh I'm bored I suppose that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "will it take us to granddad's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Let me ask him he's driving the damn thing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Well it'll take fucking ages and it'll be very uncomfortable for you whoever's sitting in the back.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "It'll be me because I can stretch me legs out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It'll be very uncomfortable sat in the back.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "What's in the back there at the moment.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "A couple of cushions it's very low to the floor as well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Is it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "and there's a lot of holes in that floor if you fell through it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah can you get three in the front.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Mm mm no way hos.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "No way oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Bless you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Squashed me and Martin in the front I keep hitting his leg when I fucking change gear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Bless you now you see now straight away I've asked him a simple question he's given me a simple straightforward answer.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "And we've said bless you three times.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Best to wait until get a car.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "and now now it's eliminated you see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "That's a point when we gon na get this fucking car off of John.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "When I get a hundred and eighty quid.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I said I've just gone back.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Will you shut up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Shut up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Bless you stupid mummy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Shut up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I suppose that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "the fucking.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "no let him renew.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Let him renew Wayne cos our phone bill.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "our phone bill I can't afford it any more.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "you be ten P a time.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I'm gon na move it back over here.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Bless you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Is Shaun there please it's Wayne how dare you hello hello I'm sorry to trouble you there's an ostrich on your phone line.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "You'll be on our bloody phone line if you don't move your ass.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Bless you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Ah Oh wow amazing you going out with or yeah no I've got.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "yeah so before seven well yeah alright you alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "He's right next door to Reggie's flats when you go down and pick him up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "you can do that for me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Ask if she was.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "what was you gon na say dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "What was you gon na say dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "What what was you gon na say.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "ah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Chris.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "yeah alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "bolting puppy dog.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah I know that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "He had to go to Wales son went to Wales to pick it up yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "something to do with Joanne's family or something she was on about.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh I don't know about that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "something on about it's got a it's one of them little square Welsh terriers.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Welsh terrier.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "he brought it in this morning.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Is that thing recording.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Yeah I ain't said nothing to Wayne.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "He'd soon fucking hear you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "How much you said you swear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I'm sneezing more than anything.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "What's it all about then really Speaking just normal conversation.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah just to tape the conversation.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Yeah but if you're having.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "It might be something private Wayne.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It doesn't matter.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah it does matter to us.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "It does matter to us.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "it does to me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Well I'd known if you said anything private and I wipe it off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "No something you er something you've got to be very careful of because that can also be discriminating in in a court.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No she said to me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Ah you mean might say something privately here not knowing that switched on and it might be about somebody else and that person might know that person er with the evidence.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I don't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "you never no oh use at work by all means yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "But she said to ask people.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I'd love to do her work.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "tell them that you're recording out of common courtesy as was but I didn't think you two would mind because it's well I don't know interesting interesting talking to you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Might of done mightn't we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "things like that I don't know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Really exciting that is in n it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "What time you going out When your.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "way to the fox.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "twenty to six.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Twenty to seven.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "As I said you could take that down Reggie's then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I haven't got petrol mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well you're going down there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I've got to drive down there and back up here then I've got to go to Darren's then I've.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well how long you gon na be.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "got to drive back home again.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "When you gon na do that then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Well I can drive to Shaun's then go Darren's then leave the van there and then pick drive us back home again but I won't have enough to go backwards and forwards backwards and forwards all the bloody time it's nearly on zippo.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I say Reggie's on the way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah that means coming back over here don't it I'm not driving around like with my fucking hi fi in the back.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Oh I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "What like you're going out to a pool.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "in it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Yeah our.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "got to come anyway er I don't know if I've got enough money to bloody pay him it's a bad week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "your bad week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "these days.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "if I pay him I won't be able to pay the Provident bloke tomorrow night.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "money mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I don't care.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "See what I mean.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "What.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "When you say things like that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Well there you go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "that's personal in this family.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "They say it's anonymous they just log it on computer and it's just to show people in the future what we spoke like in the nineties.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "We speak like motherfuckers.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Didn't say that into Tom.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I know what we do mother.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "er him don't shout in my bloody ear hole cor does he shout.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "will do the apple and pears at number ten.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "erm how am I gon na pay the Provi bloke tomorrow darling.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "do the jock strap.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I can't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Lend us ten grand mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I didn't even pay Chris today cos I didn't have enough money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Don't look at me I can't give you no more bloody loot.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Lend us forty million.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Ha ha he wants fifty four pound fifty today.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I can't even have a bet on on Saturday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Oh what a sheer catastrophe that is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "It fucking is I like backing me ponies.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I've a.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "today erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Dirty little sod.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "sat here with Marcus and I said oh I got a got a flash and he say I got a flash or something.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Dirty sod.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "it's like it's either king or knight something knights or kings something has won a race.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Just what.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Just watch I'll put the Teletext on out of all the races there was one there King's Fountain first it had it had only just come first and I'd switched it on I went wow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "King's Fountain.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I don't think it were.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "It didn't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It did I'll show you don't piss me off mate.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh wait a minute I shall see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "cos I'll have you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I shall tell you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "three three six three.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "That's what I want there it is look King's Fountain.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "four six.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Weird in n it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Have you got a pound coin I can borrow of you dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I owe you a pound yeah I can't give it to you dear because I've still got exactly a ten pound note dear and I'm waiting for the pools lady dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Cos I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Now as soon as she arrives dear I give you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I put one in here last night.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "your pound dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Oh it's just dropped did you hear that go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Now quick do you know we're fucking shaking mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "No it's thirteen hours I want.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "He reckons if he wants any more money when he comes round here tell him.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "tell him there's scrap.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I'll tell him.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Yeah you know why don't you because that side bits down the back he probably thinks you've been bloody fiddling with it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "You can't no way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Well he said if he accuses me of fiddling with the telly I'll punch his fucking.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "all you have all you have to say to him is dad's back at work he's not been using the telly.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "He's done that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "and that's it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I was gon na say kiss my arse motherfucker.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Yes that's it exactly him as well is there nothing on rehearsals.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "oh that crap Brinley dinner time oh she's gone to look at.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh fucking hell.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "a Metro I told her if she sees one she likes get it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Don't keep telling me I don't want to fucking know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Too late Tom come in and said he see Angie right up the Wale Road.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "It's discreet this.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "I'm telling Wayne.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Well I'm not interested.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Fucking Brinley's a big fucking tart as far as I'm concerned there are young man are you coming to discover us with young Sam.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Get the fuck out of here how's he gon na get six quid for a ticket Exactly for a start.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Sam might pay exactly I pay for it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Who wants to go to a poxy fucking disco anyway it's crap.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "You always say you like discos.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah but not with a bunch of old fucking faggots running around.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "There won't be old faggots there's new faggots coming down from Salisbury.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "get in with their walking stick.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "oh no they won't in that case he'd hold a fucking dinner and dance he wouldn't hold a disco.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It'll be full of old faggots and dickheads.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Not from my head office there won't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "That's right the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "and big fat girls.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "There's Tom though he's with us hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Lucky bastard.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "How old are you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "I shall be forty nine this July.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I told them all you're forty seven.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Oh thank you very much.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "She said how old's your dad and father then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X4",
+                    "text": "Are we talking about Poppa.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Fuck knows forty eight I think I don't know forty eight forty seven.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "behave.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Please please.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I've got to go to the loo in a minute anyway after I steal one of your cigarettes notice the word cigarettes instead of the word fags oh I don't know I think I'll go and sell my body might make a couple of quid and leg it down the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I get it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "hockedy pockedy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "the Rock of Gibraltar.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "You ain't been better your missus.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Good evening.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "How are you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well if you say yes to my first question I'll answer you can I have ten thousand pounds.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X3",
+                    "text": "Well that's that then alright then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        },
+        {
+            "dialogue_id": "KE5RE003",
+            "num_utterances": 154,
+            "utterances": [
+                {
+                    "speaker": "PS0X2",
+                    "text": "There's Nigel aah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Aah Nigel aah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Have a race with a Lada today Martin got seventy five out of this on the motorway.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "I told you not to fucking thrash the bollocks out of it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Was it thrashing the bollocks out of it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Only do fifty Wayne you fucking blow the bastard engine up you'll fucking get a sore.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "I would think so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "no no.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "look out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Whey.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Fucking idiot what you doing Oh listen.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "You stupid guy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "let's be good citizens shall we and let everyone through.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Here are race that fucking whore and get her out the bloody way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Let's all be very good citizens and kill everyone man fucking stupid cunt.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "fucking stupid bastard.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Very bastard very bastard.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "There you go don't get struck out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X7",
+                    "text": "drop me down tomorrow right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Oneo'clock out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X7",
+                    "text": "No you pick me up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "yeah outside.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X7",
+                    "text": "bye now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I won't be able to drive this tonight it's got no fucking petrol in it what a cunt stressed out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "have you got any more money left Fucking slap another fiver on the bitch.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "You'd never slap anyone.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No it's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "come on you Lada shit get out the fucking way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Yeah what you doing man.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Look at this he's fucking after me look.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "do you want me to take you home.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Please.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Don't say please just say yes let's go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Fucking old man.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Fucking kill.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I love it when a plan doesn't work how dry I am how dry I am nobody knows how dry I am will you get me whisky for me Da la dan dan get off and milk it hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "It's not our milkman is it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Fucking hell mate where you going you prick Fucking arms off in a minute.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "hooray sorry love sorry I'm a laugh today I'm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "in a good mood today.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "well I'm not quite sure.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Virgil Virgil what are you doing driving a vehicle I didn't know you could drive haven't seen me drive motherfucker get her in here and fuck her shit.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "nice white ones use Persil Get off and milk it hooray go on pop in for a pint wife won't mind go on pop in for a pint wife won't mind hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "What's this stupid boy doing mummy mummy as well oh look at him he's fucking hard he walks like a hard man.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Oh he's having a test isn't he.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Take him on the outside.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "take him on the outside take him on the inside take him on the outside inside outside let him through outside inside in squeeze them between the lot of them look.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "this lane is faster than your lane no my lane is faster than yours leg it what the fuck's going on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Queue.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Queue queue barny magrew leg it run leg it I know a short cut it's a long shot but it might just work.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Don't go over the roundabout that way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No I was gon na go through Crin to the fucking tunnel at Cricket's Way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "You can't the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "blew up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "So got through there it goes we slip in them trees here you are you can drive through that other open path and out he other side whey.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "It's illegal.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Who gives a shit Hooray I what a boy you can go to King Arthur's from here.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Fly.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Let's fly along wings I'm waiting for sex oh yeah Stuart looking out they're the banana boy's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "yeah fucking Doris move you fat bitch.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Trying to cut you up the arse.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Trying to cut up a Lada get over this thing now and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "fuck is your bollocks I'm going on the second lane hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Hooray okay go on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "lovely lovely.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Lovely lovely.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "Oh I can't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "to shoot his loaf I don't think he's brushed up on his cream that he dropped look.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Look at the state of her.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "he dropped all his porridge that was fucking well crafty ah the indicators are still going oh you stupid man keep going.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "hey ho and off we go with a run legged run run run hey ho and off we go la la la la la ninety nine mate please with a flake and lots of sauce revenging boys revenge of the giant cucumber lotion.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Oh everybody out quick get out hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I've had this I've had this tape on since I've left my house.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "some of this lot ain't happening.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "god.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "stop here and now turn round now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Does he stall it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No he doesn't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "No he doesn't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "See you tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Okay my little sweetness bye bye have I told you lately that I love you oh yeah hurry up cos I've got ta get out of here I've got to boot it is there anything behind.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "I don't know squash it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I mean is there anything your way over there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Shut up kid.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "It ain't that loud mate it's only a fucking seven fifty.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Wake up mate er cos you'll have a slippy fan belt for supper I suppose you wan na go home now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "No you've got another six years whey.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Look out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Fucking shit herself.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "it's fucking hot in there mate.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "er it's probably a load of noisy engine on there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "like crunching the gear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "oh dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Ha great turbo.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Watch out mind that granny.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Whey shit.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Get over you twat.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Stop me with.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "in reverse.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "No stop it doing a fucking hundred mile an hour you cunt.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "shit man a hundred and twenty.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Fucking hey must be lunatics it's only a single lane carriageway hurar hurar and it's a one way street dead end fucking inverted brain leg it of the moon the sun.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "What's this what.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "This is how the British speak nowadays during the nineties it's a load of bullshit teach us more proper English bitch was that Tom Oh bastard.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Shit get over this side.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Groan that gear box crunch it well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Do it georgdi off the ground.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "hand brake skidded down the hill.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "what did you do that for mate Oh a caterpillar ran out the road in front of me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "which one the bloke or the dog.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "watch it mate I'm gon na have.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "they all queue up they're not gon na let me out though the bastards.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "one nil.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Seven nil.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Oh god I'm getting them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "wow what fucking happened there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Hit that fucking bollard.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I was looking at that bloke in the Metro going fuck me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KE5PSUN",
+                    "text": "aah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "He wasn't impressed.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Ooh he's turning round hey he's coming hey.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "he's flying up behind.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "He ain't he's pissed off you won't catch me I'll be gone I mean ee ah what you doing I haven't got no petrol to fucking drive round the town you cunt.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "So.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "the old dear's hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "I wan na watch fucking Neighbours in a minute.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Oh shut up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Watch Neighbours.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Gaybours everybody needs a gaybour get some money for petrol I'll be round the town later on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Phone later on ah Ron Ron later later on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "about elevenish.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Eleven.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Fuck off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "don't look like he's allowed to see her.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Ain't she going to work I'll pick her up from work.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Go on then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "My god.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Who's that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "the town'll be.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Oh dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Could of made that if I had a Lamborgini.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "pulled up my mum last night she's been going fucking apeshit on me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "Yeah so I won't be getting any money off of her.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Shortie'll give us some money for petrol he's thick.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "Ain't got any money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "Never fucking has.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "some one stoned it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X5",
+                    "text": "They did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X2",
+                    "text": "fucking Ghostbusters look hooray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X6",
+                    "text": "That's the one we went to London ther.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        }
+    ]
+}

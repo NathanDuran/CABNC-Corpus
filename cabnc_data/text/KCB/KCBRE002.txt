@@ -1,0 +1,26 @@
+PS0DX|Excuse me.
+KCBPSUN|Can I help you please.
+PS0DX|Six pound of granary flour please.
+KCBPSUN|Okay.
+KCBPSUN|This bag is for the granary George.
+KCBPSUN|No.
+KCBPSUN|One six five please.
+PS0DX|Had a change round.
+KCBPSUN|Yeah.
+PS0DX|Oh.
+PS0DX|Is that to fool the staff or fool the customers.
+KCBPSUN|Both I think.
+PS0DX|Both is it Er er er.
+KCBPSUN|Twenty one ninety two please.
+PS0DX|One I've got the two anyway fifty sixty eighty eighty five.
+KCBPSUN|That's it Exactly.
+PS0DX|Exactly isn't it.
+KCBPSUN|That's a miracle.
+PS0DX|Cleaned me out.
+KCBPSUN|You worked that out didn't you.
+PS0DX|I know I hadn't No I hadn't.
+PS0DX|Cleaned me out completely there are.
+KCBPSUN|That's what we're like.
+PS0DX|Cheerio.
+KCBPSUN|Okay then Bye.
+PS0DX|Bye bye.

@@ -1,0 +1,845 @@
+{
+    "dataset": "cabnc_KB4",
+    "num_dialogues": 1,
+    "dialogues": [
+        {
+            "dialogue_id": "KB4RE000",
+            "num_utterances": 119,
+            "utterances": [
+                {
+                    "speaker": "PS1CS",
+                    "text": "It was actually.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "to my deaf mute son.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CV",
+                    "text": "Everyone shuts up now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "That'll be a good dictionary when it comes out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CV",
+                    "text": "Is that what they're doing it for.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KB4PSUN",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Spoken English not.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "What bollocks and things like that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "not not like them you know in the ord in the ordinary dictionary it's all the sort of.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "Hairy minge.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "yeah you can imagine looking through the book Oh look hairy minge.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "The er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "Cuddling.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "College style vocabulary.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Like eh oop You never see that in the dictionary.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Eh oop Eh oop lad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "You're never likely to either.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "the new one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Not you won't either.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "It'll be in that one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "You'll get fucking hell Things like that The the Whitstable dictionary.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "bollocks you cunt That's it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Dave Dave I'm gon na miss old Dave really for his words of wisdom.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "I'm gon na miss him.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "And Les.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "He's a nice bloke No Les's a pain in the arse Dave's alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "please.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Er Les's alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "He's alright he's just a pain on and on and on and on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "When I was at Tesco's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "Oh I yeah Me me and Jock used to wind him up I'd say shut up Jock He'd say why I'd say shut up shush He said why I said cos Les Les is gon na tell us a Tesco's story otherwise.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "You little cunts you You young bastards You don't know what it's like to work When we was here when it was Oh dear.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CV",
+                    "text": "You.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Take my my super mini out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "With the L plates on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Yeah L plates on They're not being used though.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Got ta learn to Got ta learn to drive first.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Here Tracy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CV",
+                    "text": "What.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Martin at work When he found out you got a mini he said where does Tracey sit In the back and Darren sits in the front.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "That was Jim weren't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "And Jim said it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CV",
+                    "text": "Tell them to shut their mouths.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "I will.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CS",
+                    "text": "Tracey in the back and Darren in the front.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Well he said you can't both can't get in the front of that ooh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Cheer up Mandy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Cheer up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "I'm alright Just thinking of the things I got ta do when I get home.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "I put an agenda in my head you know What I'm got ta do first and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "What have you got ta do then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "I got ta clean the kitchen Do the rest of the washing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Oh I better start getting the dinner ready for tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "hoover through Do the bathroom.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Sort Hannah's clothes out in her wardrobe and get all them sorted See what I need to get her.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Is this today's I wan na see what they say about Spurs after yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Cor I bet that nearly deafens them when they listen to that tape and he's squawking on it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Bloody thing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Wonder if they'd accept a parrot with it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "I doubt it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "No Oh well Not even if we squashed it into the cassette case.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Wouldn't be that lucky Couldn't be that lucky You'd have to be really lucky wouldn't you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Blimey they said a lot about Spurs.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "What.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "They're only seventh off the bottom.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Who.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Spurs.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Where's Liverpool.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Halfway down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "What's Arsenal Fifth aren't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Fourth now aren't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Fourth.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Are they fourth Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "After winning yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Fucking ten points behind though.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "What you what they don't realize in this paper is that Spurs have got about three games down on everyone else.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Oh well they wouldn't would they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "Well no If we win them three games that we got in hand then we'll be up to about sixth place.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "If There's a big if.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "They're ain't doing so well at the moment are they They've hit a bad patch.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Is there anything in there about Gary Lineker's baby.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "I don't know I was just gon na have a look.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "No Just he's er said thank you over the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "on the telly For all the cards and that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "I reckon that's wrong in n it That bloke there That bloke the council are paying all that on his mortgage He's moved into a council house now perching.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Get out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "That new tyre law comes in soon dun n it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "That what.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "New tyre law.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "First of Feb First of erm first of November it came in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Why.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Mm I'd better check my two back ones then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "They're alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Are they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Well they were.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Right come on then shit box.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Does him good to stir him up now and again.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CU",
+                    "text": "There's a difference between stirring him up and aggravating him dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Well that is agg that is stirring him up in n it He's well stirred up Suppose I'd better do the washing up Put two more tyres on Cambridge the other day.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "On the back I had them erm two little ones on there Got two proper ones on there now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "I had them down there look they were on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CR",
+                    "text": "See you later.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Go careful.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CP",
+                    "text": "Yeah I know I seen them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        }
+    ]
+}

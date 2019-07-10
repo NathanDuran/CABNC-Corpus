@@ -1,0 +1,8 @@
+PS05X|Right do you want to go to the garden centre at Mottingham.
+PS101|Where's the garden centre.
+PS05X|Other end of Mottingham Lane.
+PS05X|Oh thank you yes.
+PS05X|Oh hang on a minute my wallet.
+PS101|I've got some money.
+PS05X|I've only got three thank you.
+PS05X|Yeah thanks.

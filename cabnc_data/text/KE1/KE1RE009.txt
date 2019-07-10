@@ -1,0 +1,15 @@
+PS0TV|From your mum and dad or from work.
+PS0TU|No from somewhere else.
+PS0TV|Who.
+PS0TU|Another source.
+PS0TV|Who.
+PS0TU|No I have to go.
+PS0TV|Tell me who Your granddad.
+PS0TU|No.
+PS0TV|Who.
+PS0TU|Look I just have to go Okay.
+PS0TV|Fine.
+PS0TV|Cheerio.
+PS0TU|Right see you.
+PS0TV|Bye.
+PS0TU|Bye.

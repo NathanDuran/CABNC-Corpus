@@ -1,0 +1,6 @@
+PS05X|Her birthday's the fourteenth Do you know which day of the week that is.
+PS101|I know the first is a Monday.
+PS05X|So the fifteenth will be a Monday So the fourteenth will be a Sunday.
+PS101|How long have you been working on that.
+PS05X|Saturday She finishes in August did you say.
+PS05X|Right Thank you Thank you.

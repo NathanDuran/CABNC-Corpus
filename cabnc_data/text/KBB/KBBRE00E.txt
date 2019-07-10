@@ -1,0 +1,40 @@
+KBBPSUN|Are you ready for coffee yet.
+PS03S|Yes or something stronger.
+PS03T|Well well do wha say what you want.
+PS03S|Er show me the menu.
+PS03T|Don't be silly No you can have er can ha it's a bit early to have a drink.
+PS03S|Well coffee then.
+PS03T|You have coffee with a drop of er.
+PS03S|With a dash.
+PS03T|whisky in.
+PS03S|Coffee and a dash.
+PS03T|Is that all.
+PS03S|Yeah From now on it's.
+PS03T|Don't be silly Ooh Stop it Don't throw these er.
+PS03S|No They're all i in the throwing I throw nothing away.
+PS03T|brochures away from the hotels I want these.
+PS03S|I don't throw anything away.
+PS03T|Cos we might go back there.
+PS03S|Which one's that.
+PS03T|That er Lakeside.
+PS03S|Yes but i well it's an easy ride and I'd go there.
+PS03T|Oh.
+PS03S|Int it.
+PS03T|That's enough to video this Abu Dhabi Which do you like.
+PS03S|Abu Dhabi.
+PS03T|This one Yes well that nice.
+PS03S|We well which.
+PS03T|one with the lovely lounge Well they're both nice lounges but overlooking the sea.
+PS03S|Oh er the second one.
+PS03T|Meridian.
+PS03S|The second one we went to.
+PS03T|Yes the second one.
+PS03S|Well if that's your choice it's your choice Who am I to de descent against it.
+PS03T|Don't know where all these bits of tinsel keep coming from.
+PS03S|From the Christmas decorations From under the Welsh dresser I suppose.
+PS03T|I know that I'll get your coffee then.
+PS03S|Well I thought you'd never ask.
+PS03T|I did ask Don't be silly I've got make a fresh lot You didn't remind me about the steamer with the puddings did you.
+PS03S|No.
+PS03T|Well you should have.
+PS03S|Well yo I wanted to make you a timer Yo we got plenty of clocks we can plug in from.

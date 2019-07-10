@@ -1,0 +1,13 @@
+PS05X|Hello.
+PS05X|Thank you very much.
+KBKPSUN|Sign.
+PS05X|Yes sure Right just this anywhere.
+KBKPSUN|sign it.
+PS05X|Right what is this Datapost.
+KBKPSUN|No.
+PS05X|Similar sort of thing is it.
+PS05X|Thank you.
+KBKPSUN|Lovely.
+PS05X|Thank you very much.
+KBKPSUN|Thank you Bye.
+PS05X|Bye.

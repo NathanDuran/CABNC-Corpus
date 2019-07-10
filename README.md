@@ -2,39 +2,42 @@
 Utilities for Processing the [CABNC Corpus](https://ca.talkbank.org/access/CABNC.html) 
 available from [TalkBank](https://talkbank.org/).
 CABNC is a conversation analytic re-transcription of naturalistic conversations from a subcorpus of the British National Corpus
- and contains around 4.2 million words in 1436 separate conversations
-
+and contains around 4.2 million words in 1436 separate conversations.
+The utilities process the original transcripts into plain text or json formats and remove disfluency and other annotation characters.
+The intent is to create a more machine-readable format for NLP and computational modelling tasks.
 
 ## Scripts
-cabnc_to_json.py script processes the 14 dialogues from the original .cha format into .json files using the format
-outlined below.
+cabnc_to_json.py script processes the dialogues from the original .cha format into .json files using the format
+outlined below. Each dialogue set (KB0, KB1 etc) is output as a separate .json file.
 This format is intended to facilitate annotation of the dialogue using the 
 [Conversation Analysis Schema](https://nathanduran.github.io/CA-Schema/)
 and [Dialogue tagger](https://github.com/NathanDuran/CA-Dialogue-Tagger).
 
-cabnc_to_text.py processes the 14 dialogues from the original .cha format into plain text files,
+cabnc_to_text.py processes the dialogues from the original .cha format into plain text files,
 with one line per-utterance, using the format outlined below.
+Setting the *utterance_only* flag to true will remove the speaker label from the output text files.
 
 cabnc_utilities.py script contains various helper functions for loading/saving and processing the data.
 
 ## Data Format
 The original transcripts have had all disfluency and annotation characters removed. For example '|', '◉', '=', '@'.
-The metadata 'headers' have also been removed.
+The metadata headers and utterance timestamps (marked with '$#9633;') have also been removed.
 
-Any sentences that are continued on another line by the same speaker (marked with '+') have been
-concatenated to form complete uninterrupted sentences.
+Utterance marked with '0', i.e. silence/no transcription have been removed.
+
+In the original transcripts contractions (I'll, Haven't etc) were split into separate tokens i.e I and 'll or Have and n't.
+These have been concatenated to form the original contraction. This is to maintain grammatically correct sentences and 
+it is trivial to re-tokenise the contractions.
 
 Certain words, such as swear words or names, were redacted in the original transcripts and replaced with *'xxx'*.
-These have been raplaced with an *\<unk\>* token.
+These have been replaced with an *\<unk\>* token.
 
 ### Example Text Format
-ERI|didn't they, didn't you ever hear that they, they found an entire woolly mammoth, frozen.
+PS0X8|But they said wet and windy but that wasn't there was it.
 
-JAC|yeah, and they ate it.
+PS0X9|I think that was more up North.
 
-ERI|an entire one though.
-
-JAC|yeah.
+PS0X8|Oh up North right.
 
 ### Example JSON Format
 The following is an example of the JSON format for the SCoSE corpus.

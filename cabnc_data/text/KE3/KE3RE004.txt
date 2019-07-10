@@ -1,0 +1,22 @@
+PS0V6|Grandma will turn on the radio.
+PS0V7|Wait a minute.
+PS0V5|No leave it off Christine.
+PS0V7|Got your lights on.
+PS0V5|No we're not even away yet.
+PS0V7|Oh.
+PS0V5|I'm putting my belt on.
+PS0V7|Thanks for taking me down anyway.
+PS0V5|Oh that's no trouble it's practically on the way so.
+PS0V7|I'm keeping your seat warm for you Tony.
+PS0V4|Okay.
+PS0V4|If things had turned out differently I'd been driving you down here.
+PS0V5|Ah never mind it won't be long.
+PS0V4|No it won't be long saying that a year ago.
+PS0V7|I think half of its nerves.
+PS0V4|Yeah.
+PS0V5|It's all nerves.
+PS0V7|It's like you the first time weren't it.
+PS0V4|Yeah.
+PS0V5|Oh come on don't play me up we'll have to check this.
+PS0V7|Got a bit cold have you Jack.
+PS0V5|Yeah cold and damp that's the two things that it doesn't like.

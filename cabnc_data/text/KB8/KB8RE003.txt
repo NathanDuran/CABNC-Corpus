@@ -1,0 +1,594 @@
+PS14B|Jim there's a letter here addressed to Mrs S do you think it must be Shirley It says inside your Sealink travellers cheques Why would Shirley use our address do you think Unless they've sent for two lots and used used this address for one Right Er well I'll just put it up there I better go Where are we Right see you shortly Bye Have you all got your lunch boxes.
+PS14H|Me me.
+PS14B|Have you got everything Richard Right Okay let's go.
+PS14H|I have Now you're.
+PS14B|Ooh Should have.
+PS14N|Ah Ah.
+PS14B|brought my umbrella I think Look at the sky.
+PS14N|Don't.
+PS14B|Come along Don't fiddle along in the middle.
+PS14H|No No.
+PS14B|of the ro mind the puddle Oh.
+PS14H|Ah Ah.
+PS14B|You'll have soaking wet socks in school.
+PS14H|I didn't notice it.
+PS14N|Ann.
+PS14B|What love.
+PS14N|What's that thing.
+PS14B|I'll let you see this Oh Can you see this.
+PS14N|Aha.
+PS14B|Come on Twinkle You're losing your socks Rebecca.
+PS14H|Rebecca you're losing your socks.
+PS14B|If you trip up with two hands in your pockets Amy you'll have nothing to stop you falling on your nose.
+PS14E|What.
+PS14H|Amy.
+PS14B|Where is she.
+PS14D|It'd be funny if she did fall on her nose.
+PS14D|She'll have a flat nose.
+PS14B|A flat nose.
+PS14D|Like Miss if you don't do hard work you'll get a flat face.
+PS14E|Yeah I know No I mean.
+PS14D|She won't have a flat face she'll have a flat nose.
+PS14E|I mean not likely.
+PS14B|How do you get a flat face if you don't do hard work.
+PS14D|I don't know And she's just joking with us to get us working.
+PS14B|Oh I see I see.
+PS14B|Er stop here we'll we'll cross here look.
+PS14E|I wonder why she likes me.
+PS14B|Right Line up to cross the road.
+PS14H|Aha.
+PS14E|After school can we see the river again.
+PS14H|Urgh Urgh.
+PS14B|Yes Right cross now.
+PS14E|And see if the water has passed that line.
+PS14B|Pardon.
+PS14E|Can't wait to see if the water has passed.
+PS14B|Oh it those huge puddles along the path sometimes take ages to clear away The weather man said dry today look at it Doesn't look as if it's going to be dry to me.
+PS14F|Look It's a little.
+PS14H|I know.
+PS14F|island.
+PS14E|So I need to stay a bit later.
+PS14F|After we've been to the river tonight.
+PS14E|That's what I've just asked Yes.
+PS14B|Yes You can have a look at the river toni it's right.
+PS14E|He asked.
+PS14B|it's right down Matthew.
+PS14E|He hasn't seen the river on a Saturday.
+PS14B|I don't think it's time to go across now Cos it's er nearly nineo'clock That's not Dorothy's car it no it isn't.
+PS14B|Mm Who ran in front of a car.
+PS14F|The new.
+PS14B|Who.
+PS14F|The new girl.
+PS14B|The new girl in your class Oh Who's the new girl in your class.
+PS14F|Du n no.
+PS14B|Just stop here a minute Look there's a car reversing Wait a minute till this car.
+PS14H|Why.
+PS14B|gets out onto the road.
+KB8PSUN|Is it okay.
+PS14D|Bye Ann See you tomorrow.
+PS14B|Wait a minute.
+PS14H|Bye.
+PS14B|Rebecca you can't cross yet.
+PS14B|Is anyone going to decide which way the cars are going here.
+PS14F|She's in there and then this one.
+PS14B|Right I can go oh.
+PS14E|Our car conked out on the way to school.
+PS14B|Did it Where.
+PS14E|At in we'd just turned round the corner and it conked out.
+PS14B|Oh.
+PS14E|But we got it started again.
+PS14B|Right you can cross now Bye.
+KB8PSUG|Bye.
+PS14B|Amy.
+KB8PSUG|Bye.
+PS14B|Bye Matthew Bye.
+KB8PSUG|Bye.
+PS14B|Rebecca I'll come this way I think they're just going in.
+KB8PSUN|Oh.
+PS14B|Hello.
+KB8PSUN|Morning.
+PS14B|Bye Richard Morning Cathy Morning.
+KB8PSUN|Morning.
+PS14B|Brenda Oh.
+KB8PSUN|Hello.
+PS14B|Hello.
+KB8PSUN|It's not a nice morning is it.
+PS14B|It isn't.
+PS14B|Hello everyone.
+KB8PSUN|I was listening to the radio.
+PS14B|Were you What did you hear.
+PS14N|Er just songs Do you know.
+PS14B|Pardon.
+KB8PSUN|what.
+PS14B|Songs Wait a minute Hold on Hold on.
+KB8PSUN|You know what I hear on on the radio.
+PS14B|There are no cars coming Aha.
+KB8PSUN|cos she's in Scotland now.
+PS14B|That's right Well.
+KB8PSUN|And I got's coming And I got.
+PS14B|Have you.
+KB8PSUN|a badge with it.
+PS14B|Oh Yes Well I'll see you tonight because I know granny.
+KB8PSUN|No I'm not going.
+PS14B|No I know granny Jean's collecting you but granny.
+KB8PSUN|I'm not coming later.
+PS14B|Jean usually comes and stands beside me anyway.
+KB8PSUN|Oh yes.
+PS14B|See you later pet.
+KB8PSUN|Give me a kiss.
+PS14B|Go straight in cos they've just gone in.
+KB8PSUN|Have a nice day dear.
+KB8PSUN|Hello.
+PS14B|Hello.
+KB8PSUN|Ooh.
+KB8PSUN|Quickly.
+PS14B|Bye Martin Hello.
+KB8PSUN|Oh hello.
+KB8PSUN|Off to see Jim.
+PS14B|I am Yes Hello Ooh.
+PS14C|What you doing.
+PS14B|Er oh right There we are.
+PS14B|A piece of paper And how are all of you this morning.
+KB8PSUN|What.
+PS14B|Is Bryony any better Oh.
+PS14L|Yes.
+PS14B|There we are.
+PS14L|They're all home.
+PS14B|Oh There isn't much room.
+PS14L|Not too bad at all They all slept for twelve nearly twelve hours Saturday.
+PS14B|Wow.
+PS14L|night Yes So all be.
+PS14B|Aren't you good Thank you.
+PS14N|I I've got up too early.
+PS14B|You got up too early.
+PS14L|No you didn't you got up just right.
+PS14B|No You were very very good mummy says.
+PS14L|Ah we were pleased daddy and I.
+PS14B|I bet you were.
+PS14L|Well we've got up this morning we've and I said to Trevor have the kids been up in the night Cos I thought have I slept through everything.
+PS14L|and er.
+PS14L|left him with the lot But no.
+PS14B|Are they still alri.
+PS14L|They got to bed at ten to seven they were shattered.
+PS14B|er well you had a busy day yesterday didn't you This morning.
+PS14N|Mm.
+PS14B|I'm going to go to the hairdressers so Jim's going to look after you I won't be away very long.
+PS14L|Say that's fine.
+PS14N|That's fine.
+PS14L|Yes.
+PS14N|Where's Jim go and say.
+PS14B|I'm going to the hairdressers cos I usually go today don't I.
+PS14N|No.
+PS14B|But you're here today instead So instead of going this afternoon I'm going this morning while Jim's at home before he goes to work.
+PS14N|Oh I'm going to look after the house.
+PS14B|You're going you're.
+PS14L|No that's.
+PS14B|going to look after Jim how about that.
+PS14L|Jim needs a lot of looking after.
+PS14B|Right Oh Get this seat belt off.
+PS14B|this.
+PS14B|car seat off my ni.
+PS14L|looking at him since half past nine and.
+PS14B|Oh.
+PS14L|Now watch the puddles No Ah Straight through the puddles in.
+PS14B|Oh dear.
+PS14L|James In this house One.
+PS14B|Oh ho your.
+PS14L|two if I get to three I'm going to be cross.
+PS14B|Come along Richard Your brother's being naughty he's run away up the street look Where's Bryony Oh sta Bryony stay there I'll lift you over the puddle Don't come through it.
+PS14H|Jump over the puddle.
+PS14B|Right Richard Wait a minute.
+PS14L|Right In this house this time.
+PS14B|No you're not going to run away.
+PS14L|so you can and see Jim.
+PS14B|Come and see Jim.
+PS14L|your bottom.
+KB8PSUN|Yes.
+PS14L|In you go.
+PS14B|You go to mummy while I close the other car door look.
+PS14L|And I'll er.
+PS14L|Go In Why don't you.
+PS14B|In you go.
+PS14L|get in Do you want to get a smack bottom.
+PS14B|In you go Go and find Jim can you.
+PS14L|Just stop running away I'll I'm not chasing after him.
+PS14B|Cathy Dorothy James You've decided to come back have you Ja er we Got you Aargh You thought you were going to escape Didn't you.
+KB8PSUN|I'm.
+PS14B|Get in that house.
+KB8PSUN|I'll fall.
+PS14B|Wipe your feet Clever boy.
+KB8PSUN|Who is that.
+PS14B|Wipe your feet Feet wiped Come on Wipe your feet.
+KB8PSUN|Ah.
+PS14B|Er feet wiped please Clever boy Show me how you do it Com oh Very very good Oh Very good indeed There we are In you go find Jim Go and say good morning to Jim Have you said good morning Jim.
+KB8PSUN|Where where's this letter.
+PS14C|Go and say hello.
+PS14B|Where's what letter.
+KB8PSUN|I'm doing a picture.
+PS14B|You're doing a picture are you.
+PS14N|There You're at work.
+KB8PSUN|And I've erm a letter to draw.
+PS14B|you're at work already.
+PS14N|Er you're very nicely you're very.
+KB8PSUN|And I have a letter to draw.
+PS14N|nicely.
+PS14B|You're doing it very nicely She's drawing a picture mummy very nicely.
+PS14L|Right Well the thing.
+PS14B|What are you doing Richard.
+PS14L|the thing I'm gon na concentrate on with you now is sto to stop you running away.
+PS14N|Mine It's mine.
+PS14L|So that's what you're going to be getting.
+PS14N|That's mine.
+PS14L|smacked bottoms for now.
+PS14N|That's mine.
+PS14L|Not much else just running away.
+PS14B|It's what Bryony.
+PS14N|It's.
+PS14B|It's what.
+KB8PSUN|A I've drawed a letter.
+PS14N|That's that It's that one.
+PS14B|That's that one Yes What are you drawing.
+PS14L|What are you doing.
+PS14N|I'm doing a picture.
+PS14B|Yes but what a what.
+KB8PSUN|Mummy I'm drawing a.
+PS14B|are you drawing a picture of.
+PS14N|Mm A picture.
+KB8PSUN|I I'm drawing we've drawn a circle.
+PS14B|You've drawn a circle.
+KB8PSUN|Mm We we're drawing that.
+PS14N|I'm drawing a picture.
+KB8PSUN|I've.
+PS14B|You're drawing a circle as well.
+PS14B|What colour is this circle.
+KB8PSUN|Erm wait till I've done I haven't drawn it.
+PS14N|I've done a orange circle.
+PS14B|You've drawn a.
+PS14B|Yes that's right That's.
+PS14N|Yeah.
+PS14B|orange That's an orange circle.
+PS14L|Could you give these to Trevor to go on the buggy tonight please.
+PS14B|Oh yes.
+PS14L|Cos he's.
+PS14B|Right.
+PS14L|collecting them.
+PS14C|Cor.
+PS14B|Will.
+PS14L|And.
+KB8PSUN|Ann.
+PS14B|I put.
+PS14L|I've got them for for er see if.
+PS14B|Put those.
+PS14L|they've been a pain.
+PS14B|at that end look Yeah.
+KB8PSUN|Look at our picture.
+PS14L|It's erm.
+PS14C|That's a beautiful picture James.
+PS14L|I have to freeze it er defrost it in the kitchen.
+PS14L|the night.
+PS14C|You've.
+PS14B|Right.
+PS14C|drawn me a.
+PS14B|No problem.
+PS14C|bee Was it.
+PS14B|No problem.
+PS14N|Nearly.
+PS14L|And Martin you remembered.
+KB8PSUN|It's just there.
+PS14L|going to his mum's.
+KB8PSUN|I'll do it again.
+PS14B|Yes.
+PS14C|And James did it Well you're very clever.
+PS14B|She cos she.
+PS14C|boys.
+PS14H|No Ah.
+PS14B|when she's been at the school gate she comes.
+PS14N|What's this.
+PS14B|and stands with me anyway usually.
+PS14N|What colour is this.
+PS14B|so I'll see her.
+PS14C|Mm What.
+PS14B|Why.
+PS14C|So if you put it up there.
+PS14B|There you are.
+PS14C|Okay There you are.
+PS14L|I wonder what's brought this change of heart.
+PS14N|You have that.
+KB8PSUN|Mummy see what she needs.
+PS14B|What time have you to be in Clackmannan.
+PS14L|Twoo'clock But I've got ta go.
+PS14B|Oh.
+PS14L|back into the.
+PS14B|Aha.
+PS14C|The er the roads up right up to Ashington is closed.
+PS14L|I wonder if I'll get o through Longhurst okay.
+PS14C|Well you should do but it never mentions that.
+PS14L|I'm wondering whether to go the A one way or Longhurst way I mean there's no easy way to get there.
+PS14C|Th they never mentioned.
+KB8PSUN|You have that.
+PS14N|And you have those.
+PS14B|Well there's no well there is a there is a bit between er Ocken and er Widdrington isn't there There's quite a bit.
+PS14L|Yeah.
+PS14C|there.
+PS14L|I'll go the A one way I think.
+PS14B|Aha.
+PS14C|But they've mentioned that but it was.
+PS14B|You've made clean.
+PS14C|but it was quite funny yesterday when I went to.
+PS14B|Let's have a look.
+PS14C|Ashington.
+PS14L|Yeah.
+PS14B|Oh You have done green and red yes.
+PS14C|No but they never mentioned.
+PS14B|That's a beautiful picture.
+PS14L|He's brought Goldilocks Ann erm can he bring it home please because he reads it at night before he goes to bed And if he doesn't he goes mad.
+PS14H|I read I went.
+PS14L|Cos that's his favourite book.
+PS14B|Oh You should have left your Goldilocks at home and just choosed mine.
+PS14L|Oh You see.
+PS14H|Mm.
+PS14B|And then we wouldn't you wouldn't forget.
+PS14H|I wan na read this one.
+PS14L|He feels a bit at grief cos he didn't.
+PS14H|I didn't.
+KB8PSUN|That one.
+PS14L|James had an extra Goldilocks.
+PS14C|Oh dear me.
+PS14L|story yesterday last night.
+PS14C|Let's have your picture.
+PS14B|Because what.
+PS14L|James had an extra Goldilocks story.
+PS14C|Right the tissues.
+PS14L|yesterday so he's brought it with him it's Ja it's his book.
+PS14B|Oh I see.
+PS14C|Where are the tissues.
+PS14B|Is that your book today The tissues In the kitchen I think.
+PS14B|What time.
+PS14H|And and use the use.
+PS14C|Billy Goats Gruff.
+PS14H|and use the your home.
+PS14C|Upstairs Billy Goats Gruff Ann.
+PS14H|A and erm.
+PS14B|Pardon.
+PS14C|I'm talking to.
+PS14B|The Three Billy Goats Gruff.
+PS14C|Where will it be.
+PS14B|I don't know where it it should be.
+PS14C|You've got a runny nose Richard.
+PS14L|Give us a kiss.
+PS14B|The Three Billy Goats Gruff.
+PS14L|Yeah I know that.
+PS14B|should be with all the books I read it to them yesterday afternoon We practised didn't we.
+PS14C|I don't know You.
+PS14B|Cos when we went to nursery yesterday morning Jim all the children.
+KB8PSUN|Mine.
+PS14B|sat on the floor for this story.
+PS14N|Erm.
+KB8PSUN|Mine.
+PS14B|And these three wouldn't cos they're used to sitting on the chair arm Aren't you But we we'd better practise sitting on the floor for stories so that you're ready for nursery when you go.
+PS14C|Have to sit on the floor.
+PS14L|Well if practise that.
+PS14B|properly in May.
+PS14L|I'll practise them not running off.
+PS14N|I wan na see those.
+PS14L|Right well give us a kiss then.
+PS14H|No.
+PS14L|See you tomorrow.
+KB8PSUN|trousers.
+PS14B|Oh no Ja oh.
+PS14C|It's alright cos Ann's.
+PS14C|Come and see what Ann's got.
+PS14B|James this ho this hole in the corner near the.
+PS14B|door is being stuffed.
+PS14C|mummy.
+PS14B|with all kinds of things I bet that's where half my crayons are.
+KB8PSUN|Yes it's in the front room.
+PS14C|Yes it's in the front room.
+PS14B|Look no Richard I don't want things stuffing down that hole Put it in the bin Clever boy.
+PS14B|Come and say to mummy look cos she's in a hurry.
+PS14H|I want to come with you.
+PS14C|Yes well say tarrah to mummy first then.
+PS14B|Come are you coming to the door.
+PS14H|Well I'll I'll just.
+PS14B|Well pu i alright put it in the bin quickly then come and say to mummy Hurry up Hurry up Hurry up Diddle ee dee dee That's it.
+PS14C|go and say tarrah to mummy.
+KB8PSUN|Er no.
+PS14B|Oh ho.
+PS14L|James doesn't Oh ho.
+PS14B|Oh What a polite boy.
+PS14L|I know.
+PS14C|mummy.
+PS14L|Go on then give me a.
+KB8PSUN|No.
+PS14L|I've got to open that without that in.
+PS14C|Tarrah mummy.
+PS14H|I want Beethoven music We want Beethoven.
+PS14C|You want Beethoven music.
+PS14B|You want Beethov.
+PS14C|Oh alright.
+PS14H|I want.
+PS14B|Who wants Beethoven music.
+PS14C|Richard and James.
+PS14B|Oh right if.
+PS14N|Richard and James.
+PS14B|alright you can have Beethoven music I'm going to go and wave to your mummy seeing as no one else will.
+PS14H|She's gone mummy.
+PS14B|Horrible lot I'll wave to you.
+PS14L|Oh.
+PS14B|They're too busy jumping around wanting Beethoven music.
+PS14L|I wonder if up to them you know.
+PS14B|Well they don't like Elvis.
+PS14L|No they don't.
+PS14B|James doesn't anyway He switched it off Are you staying at your mum's tonight.
+PS14L|No I'm staying at Christopher's.
+PS14B|Oh Aha.
+PS14L|She's not been any more so I'll have to go round to.
+PS14B|Aha.
+PS14L|And then he'll be.
+PS14B|How long's your mother going to stay.
+PS14L|Few weeks.
+PS14B|Don't look like that.
+PS14L|Well.
+PS14B|Oh.
+PS14L|But the thing is my mum's an and and Trevor's Aunty Edna have started writing to each other and have become friends so we'll see you again at Christmas she'll say to aunty Edna So they've both invited themselves again.
+PS14B|Oh God.
+PS14L|And my mum's going to on holiday to Wales she thinks this summer.
+PS14B|Aha.
+PS14L|which I'm really pleased about cos she's never done that before in Wales.
+PS14B|Yes.
+PS14L|But she might be going with a friend and I think she's planning on meeting up with Aunty Edna So it's gon na be a conspiracy against him.
+PS14B|Aunty Edna's Trevor's Aunty Edna i that's right.
+PS14L|Yes.
+PS14B|yes Oh well.
+PS14L|But they're lovely separately Put them together and I think we've lost out.
+PS14B|Oh well.
+PS14L|Martin still calls her Aunty Yakky Da.
+PS14B|O hang on I can't hear you What.
+PS14L|Martin still calls her Aunty Yakky Da.
+PS14B|Aunty Yakky Da Yakky Da Right I'll see you on.
+PS14L|Monday.
+PS14B|Monday Bye.
+PS14L|Bye.
+PS14N|We we just we we're having a look at Beethoven's music.
+PS14B|Yo you're not having a look at Beethoven music you're listening to Beethoven music.
+PS14N|We're lis we're listening.
+PS14C|And then they want Mozart music on they said.
+PS14B|Who wants Mozart.
+PS14H|After after.
+PS14C|Richard.
+PS14H|Beethoven's.
+PS14C|did.
+PS14B|After Beethoven what.
+PS14B|You want Mozart music do you.
+PS14H|After Beethoven.
+PS14B|I see.
+PS14N|Me ee.
+KB8PSUN|And er and.
+PS14B|And Bryony's going to play the piano at the same time.
+PS14H|Yeah No.
+PS14B|is she.
+PS14N|He says he's gon na.
+PS14B|Pardon.
+PS14H|Ah I am.
+PS14C|Those begonias are doing quite well now look.
+PS14B|Ooh yes They've sprouted up.
+PS14H|That's erm Billy Goat Gruff.
+PS14B|Richard what Yes That's Billy Goat Gruff Look at these begonias.
+PS14H|Oh.
+PS14N|I want to see the Billy Goat Gruff.
+PS14B|They're growing bigger aren't they.
+PS14N|Billy Goat Gruff.
+PS14C|Mind the door darling.
+PS14B|I think that umbrella tree's going to have to be thrown out.
+PS14N|Hello Anna.
+PS14B|Hello Bryony.
+PS14N|Look.
+PS14C|Come on You can come and.
+PS14B|Yes I'm in here as well.
+PS14C|Whatd' ya have.
+PS14B|Well.
+PS14C|to do.
+PS14H|The very.
+PS14C|Billy Goats Gruff.
+PS14B|How can you listen to music and listen to the Three Billy Goats Gruff at the same time.
+PS14N|Once upon a time Once upon a time.
+PS14C|Once upon a time.
+PS14B|Why don't you save the story for when I go to the hairdresser.
+PS14C|there was three billy goats.
+PS14B|Cos I'll be going out in.
+PS14N|Hello.
+PS14B|in what.
+PS14C|I made some coffee.
+PS14B|Have you Oh thank you.
+PS14C|One fine day in the Bluesberry Woods.
+PS14B|Right Jim's made me some coffee so while you have the story.
+KB8PSUN|Yes yes.
+KB8PSUN|Me.
+PS14B|I'll go and drink my coffee.
+PS14C|and at the bridge lived three billy goats gruff.
+KB8PSUN|Look what I've got.
+PS14N|I founded you.
+PS14B|You found it for me What is it you've found for me.
+PS14N|Erm a card.
+PS14B|Oh my Mother's Day Card That's the one from Jim What are you doing.
+PS14C|Yeah.
+PS14B|Right take come and have your milk and biscuits I've got it ready.
+PS14B|Come along Bryony.
+PS14N|I want that off.
+PS14C|Alright I'll turn it off then.
+PS14B|Jim put it off.
+PS14C|Don't touch Go with Ann.
+PS14B|Come along then It's ready.
+PS14C|Come and get your biscuits.
+PS14B|Cos I've got to go out in a few minutes.
+KB8PSUN|I know I wa I want this.
+PS14B|Come along James.
+PS14C|Won't this work.
+KB8PSUN|What are you doing this.
+PS14B|What am I doing I'm get I've going to give you your milk and biscuits.
+KB8PSUN|What have you got in your hand.
+PS14B|What have I got in my hand I've got a a tape recorder in my hand Right let's have you at the table.
+PS14B|Well Bryony wants to sit in her own chair today so you sit on your own chair.
+PS14H|No I don't want to sit there.
+PS14B|Well she might want to swap later.
+PS14H|I don't.
+PS14B|You don't wa.
+PS14H|wan na go on my chair.
+PS14B|You don't want to go on your chair You haven't sat in your own chair all this week.
+PS14H|I don't wan na sit on that.
+PS14B|Come on Clever boy Cos I've got to go out in ten minutes I'm going to get my hair done and you're going to look after Jim aren't you Come along Up you jump Let's see how quickly you can jump up off the floor Let's see if you can jump up.
+PS14C|Well where's my coffee then.
+PS14B|I thought you'd had yours when you made mine I'll make you.
+PS14C|I made yours and mine but you never.
+PS14H|I'm.
+PS14B|brought mine.
+PS14H|finishing my cup.
+PS14B|Oh Sorry I didn't think it was in there Let's see how quickly Richard can.
+PS14H|No.
+PS14B|jump up see if he can jump up before I count three One two.
+PS14H|No.
+PS14B|three Oh He.
+PS14C|Yeah.
+PS14B|can't Come on Twinkle up you come Oh.
+PS14H|No No.
+PS14B|You're going to have a squawk are you.
+PS14H|No.
+PS14B|Don't you want this nice biscuit.
+PS14H|I don't want any.
+PS14B|No do there's yours look James Don't eat.
+KB8PSUN|Ah.
+PS14B|your brother's as well Oh well Richard doesn't want his biscuit.
+KB8PSUN|He just got mine then.
+PS14B|He hasn't I got it back off him Look there it is.
+KB8PSUN|He just took it.
+PS14B|There it is Up you jump There.
+KB8PSUN|He just got it I just wan na have er any.
+PS14H|And that one's yours.
+PS14B|Right I'll we'll go out after dinner shall we.
+PS14H|Well I just wan na go.
+PS14B|We'll go and see if the river's gone down any more See if the swans have come back shall we.
+KB8PSUN|After dinner.
+PS14H|Where were they.
+KB8PSUN|I don't want another.
+PS14H|I think it might be deep because that'll be deep.
+PS14N|Yeah.
+PS14B|Is it very deep That wasn't.
+PS14N|Yeah.
+PS14H|I'm not going to.
+KB8PSUN|It will be deep.
+PS14B|Well.
+PS14H|I am not going to ma ma my I do I am not going to go in my own chair.
+PS14B|You're not going to go in your own chair Well in that case wait till Bryony's finished hers and then you can sit in her chair Will that do you.
+PS14B|See if we've got there's lots of milk left Right.
+PS14N|He's got his.
+KB8PSUN|Mummy I'm tired.
+KB8PSUN|Mine.
+PS14B|Well give him it what back.
+PS14N|My drink.
+PS14H|Well that biscuit I've drunk drunken it.
+PS14B|You've drunken it It's you you've drunk it you mean No you haven't Are you going to drink yours later then.
+PS14H|I'm going to look for my.
+PS14B|I think I'll have to get some straws and you can practise drinking out of th drinking with straws Cos they have little.
+KB8PSUN|We.
+PS14B|milk bottles at nursery school don't they With straws.
+PS14H|So we could.

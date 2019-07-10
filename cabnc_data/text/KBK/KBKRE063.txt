@@ -1,0 +1,16 @@
+PS05X|I can't read Chinese.
+PS101|I don't think it said Chinese on there dear.
+PS102|Good evening sir.
+PS101|Good evening ma'am.
+PS102|For two.
+PS101|Yes I rang on the telephone yesterday.
+PS102|Your name sir You booked for two yes.
+PS101|I booked indeed yes.
+PS102|How about this one Will be okay.
+PS101|Thank you The one over here.
+PS102|Are you going to sit here.
+PS101|If this is the one you meant.
+PS102|This one or this one I think this one is nice.
+PS101|This is fine Yes this is just fine Thank you very much indeed yes.
+PS102|Alright.
+PS101|Yes thank you.

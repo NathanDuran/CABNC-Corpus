@@ -1,0 +1,295 @@
+PS003|Oh you won't need sixteen megabytes even if you decide to improve the let's unpack that thing and then we'll see how much space we're talking about how much of that's padding and how of that is real thing I was taught that when I worked in the grocery warehouse If you open a box with a penknife always do that.
+PS007|So that you have to.
+PS003|So get it to go all the way.
+PS007|Cut the end that's for.
+PS003|Do the contents the world of good.
+PS007|Mm.
+PS003|Oh What's happened to this.
+PS007|Yeah.
+PS003|Yep get it out.
+PS007|Whatever.
+PS003|Right we're on to this roll now Oh Right.
+PS003|Right Can you pull that off That one Right Before I realised I've got mine Okay.
+PS007|It is slightly bigger than the other one isn't it.
+PS003|Quite a lot bigger actually Mm.
+PS007|Oh dear Yes it's got more back to it Oh the screen mm about the same size.
+PS003|It's a little bit bigger I think you'll find if you put the tape measure on it you'll find it's a little bit bigger Right Right.
+PS007|Presumably this is the power supply for it.
+PS003|Yeah Woops The main colour monitor operating instructions in here How many spare points you got.
+PS007|Erm one at the moment but I can pull out the radio without any problem.
+PS003|Oh fine It's a.
+PS007|No one of these spools.
+PS003|Full wear.
+PS007|If I can crawl under here I.
+PS003|Yes I just wan na have a look at yes you can crawl under there to your hearts content You can unplug that for the moment I'm not really worried about it.
+PS007|No I just thinking it's easier if I take it down this way.
+PS003|Oh alright.
+PS007|Then I pull it.
+PS003|Now Ultimately er they might change the lead on the end of that monitor What's the matter.
+PS007|I was wondering where the socket is Oh I see where it's gone.
+PS003|Right.
+PS007|I should have Oh there's plenty of wire.
+PS003|Oh yes.
+PS007|Right.
+PS003|Now if I'd have been sensible.
+PS007|Yes.
+PS003|which I really am I'd have brought over my.
+PS007|Oh.
+PS003|what's his name My monitor.
+PS007|Why.
+PS003|Well if I'd swapped monitors with you can pro and I don't suppose you'll wan na get rid of your Amstrad today.
+PS007|No.
+PS003|and you'll probably want to keep it for a little while.
+PS007|Yes.
+PS003|Oh hang on moving leads and things don't stand up Not just yet anyway.
+PS007|Right.
+PS003|Erm I could of taken the black and white one.
+PS007|Mm.
+PS003|and then I could have shown mine to this lady cos I mean the only difference is is the black and white isn't it.
+PS007|Er yes.
+PS003|Er I'll have another lead for you in just a sec I'm afraid Hang on a mo just screw this in Right straight under there there is actually a power outpoint on this so if we can get the right kind of plug.
+PS007|Yes.
+PS003|we could actually drive the monitor off the box and you'd only need one socket.
+PS007|Well it doesn't really matter because I got and unused socket here.
+PS003|Yeah but I mean if you i in some ways it's easier cos then when you turn it off you turn everything off You see what I mean.
+PS007|Yes.
+PS003|Er erm there's a white plug have a seen a mucky grey a white plug I'll lower it down here.
+PS007|I've got yes.
+PS003|Got it.
+PS007|Yes.
+PS003|Fine.
+PS007|It's here Right it's in.
+PS003|That's in We need the keyboard now I got a er find out where that plugs in At the back somewhere usually Then we can turn it on and see if it all works Can you hold that for a mo While.
+PS007|Yes.
+PS003|I hold the lead.
+PS007|Yes.
+PS003|There's a Oh.
+PS007|That's got the vacuum on the top.
+PS003|Ah Anything down that hole.
+PS007|Have you found it.
+PS003|Aha.
+PS007|Oh.
+PS003|Just seeing.
+PS007|it's twelve I didn't realise that went in there.
+PS003|No and somewhere or other I have got for you a copy of the long string the long you know The erm the long trip card to work gently.
+PS007|Oh I see.
+PS003|Right there you go Have you got a ruler.
+PS007|Yes.
+PS003|Yes that's fine Yes you see that screen's twelve inches and that's screen's over over an inch bigger nearly fourteen.
+PS007|Mm.
+PS003|Do you want to turn it on.
+PS007|Is that the on button.
+PS003|Aha It's just rock it Don't push it properly Oh good it's the go it's the good dos.
+PS007|Yeah.
+PS003|It's a good do that's a very good erm files.
+PS007|Oh.
+PS003|put out.
+PS007|Mm.
+PS003|Oh that's interesting Let's have a look.
+PS007|Has it got a dos directory Two dos directories Old Do dos and old dos.
+PS003|I got version five.
+PS007|Well that's the latest isn't it.
+PS003|Yeah except I haven't got all the things.
+PS007|Well if it's on this hard disc could we copy it over.
+PS003|We could we could we could keep it An E.
+PS007|Cos it's.
+PS003|I R C and that's that's like oh no we can have it it's all set up this will save us a ag ages of time.
+PS007|Good.
+PS003|dos Goodness a lot of files on there It would of been better.
+PS007|If you'd done a P.
+PS003|No slash P Oh marvellous I think we'll call it that Let's ring Erm how do we get it to load high that's what I want to know.
+PS007|Mm just erm.
+PS003|erm.
+PS007|I haven't got his work number on the memory so I'll.
+PS003|Right.
+PS007|have to look it up Er I should know it but.
+PS003|No handbook but I suppose we can buy some dos five handbooks.
+PS007|Well I was thinking that.
+PS003|It would be worth copying all that off.
+PS007|Yes.
+PS003|Before we lose any of it.
+PS007|Er perhaps it's not I know work I wonder if we'll get him.
+PS003|Ah well if not we'll try the car.
+PS007|No.
+PS003|Oh right.
+PS007|this one goes straight through to his office doesn't it.
+PS003|Ya.
+PS007|Good morning How are you Ooh fine thanks We just want a bit of information about setting up a computer Da er David'll talk to you.
+PS003|Hiya Rob Erm these things have come with dos five on them er but no books or anything But never mind Erm in the ah or to accept dot that no config si how do you get it to load high Have you got a pencil and paper.
+PS007|Er.
+PS003|Oh right.
+PS007|I'll get you some.
+PS003|I mean you got I mean I've got the rest config sys sorted out Will do Aha Yes I mean I've put files equals twenty yeah but I'm dos equals high with a H I G H yes Right That's all I really needed to know I don't need much else Apart from busy sitting there thinking erm yeah well I usually leave command dot com in the root directory Yeah Yeah Yeah It should give yeah I just need country yeah Do does it help if dos is high is near the beginning Oh well it doesn't matter Fine that's alright I'll just add it to the end that's all I was thinking Sometimes the they make a fuss if you put them in the wrong place No not at the moment Yeah Yeah ultimately they might wan na end up with erm a mouse driver high but it's alright Yes I mean it does it for you doesn't it Basically Yeah Oh Yeah I used to always load anti sys but I then I found out there's nothing I ever I really needed it so I took it out But I suppose you've got more complicated setups than me What Yeah Mm Okay thanks very much Rob Bye Yes right Now let's find out something Just check that that boots properly Control alt it's deleted segment but we don't really need that We'll let it just setup isn't really that e erm you can do fancy things Er that's a I think what we'll do is we'll get used to it.
+PS007|Mm.
+PS003|So I'll just put that there Would you be turning that round there.
+PS007|I can do that sometimes but I don't.
+PS003|Erm no soon as you get an ordinary chip dot bat file.
+PS007|Mm.
+PS003|erm it will it reads the clock automatically We'll just have to set it once but it hasn't done it It's no good setting now because if there's no alt dot bat.
+PS007|I it won't keep it.
+PS003|Yeah.
+PS007|Mm mm.
+PS003|Oh Right Er I need a copy of Xtree.
+PS007|Er.
+PS003|I want to have a look at the.
+PS007|Erm my is.
+PS003|I'm always carrying it.
+PS007|Here it is.
+PS003|I'm always sorting out people's computers for them.
+PS007|Ah.
+PS003|I said I always carry Xtree I'm always sorting out people's computers for them.
+PS007|I see.
+PS003|A chair would help wouldn't it.
+PS007|Yes why not have one Er would you prefer the chair or the stool Have what you like.
+PS003|It doesn't matter one can have one Ah interesting Aha I wonder what's in old dos Read me now View Oh I understand That's fine you can delete that Aha That's fine Now then er I wan na get back onto your computer.
+PS007|Right.
+PS003|Cos I want to that you need to put somewhere safe that's the disc driver for the card.
+PS007|Oh.
+PS003|This is a.
+PS007|So that's backup is it.
+PS003|Yeah write protected if you wouldn't mind.
+PS007|Oh.
+PS003|Before you get anywhere else done Erm.
+PS007|Right Mhm.
+PS003|Right Where did I where did I put that piece of paper I had.
+PS007|Here you are.
+PS003|dos equals high that's high Drive five one one that's There we are Right Ooh Take the Xtree out there what's that's Oh that's funny.
+PS007|What's that.
+PS003|It goes the other way That'll take a bit of getting used to that.
+PS007|How do you mean it goes the other way.
+PS003|You turn it it's on the other side Feels funny.
+PS007|Oh it's done.
+PS003|Do anything different you still turn it the same way to lock it down it's just.
+PS007|Oh it's just the shape of the thing.
+PS003|Just feels different You can get used.
+PS007|Mm.
+PS003|to it quick enough Er and that one and that one how's that one Er control copy all eight files as they are to the and that should do it say on there.
+PS007|Actually.
+PS003|Doesn't take long does it.
+PS007|No.
+PS003|Right Let's have a look look see There are That's assist what's this Six How do you get in this one In there oh you don't Yeah this is a windows thing You don't need it.
+PS007|Lovely Oh that.
+PS003|Here.
+PS007|Win eight twenty is.
+PS003|Yeah so if you'd have been running windows on it I'll check it Files read only.
+PS007|Oh well it doesn't matter.
+PS003|Oh.
+PS007|I wouldn't worry.
+PS003|Okay Oh by the way you'll only have one det well it you've got the whole lot on this thing.
+PS007|Right You mean I don't need a C and a D.
+PS003|No It runs the whole the lot.
+PS007|Oh.
+PS003|Don't matter.
+PS007|Well that's more what I'm used to.
+PS003|Xtree's more pretty in this isn't it Where's the directory There's er what's known as Handle and then in I think the sub dire we don't want the Gem.
+PS007|No.
+PS003|Cos I haven't sorted them out yet.
+PS007|Mm.
+PS003|Er I'm gon na sit down quietly and do it one day erm it's and make a That's for storing Can you scroll that down a bit Oh Hang on.
+PS007|Further.
+PS003|No just as bit more yeah Leave your directory as utils Yeah and I want to make the so that can Make a directory as Make as as wp papers It's gon na take as long as I thought cos I have to format it and install it Make a as Wordperfect fifty one.
+PS007|Actually that is that a or a main one.
+PS003|It's a of the root directory it's alright.
+PS007|I see.
+PS003|And that's it And you've got a which says docs.
+PS007|Yes what.
+PS003|Have you ever used that.
+PS007|I don't think I have used it.
+PS003|Well you can always make no I don't need to make the rest because erm oh yes graphics Make a directory as graphics.
+PS007|Macros Do I need one for that.
+PS003|Oh yeah You have macros don't you.
+PS007|Yes.
+PS003|Just wan na call them the same things as you're used to.
+PS007|Printers no print yes printer will be the same won't it Speller.
+PS003|You call yours speller It's now.
+PS007|Yes.
+PS003|on Right.
+PS007|Yes that's the end by the look of it.
+PS003|Pardon me.
+PS007|Oh well.
+PS003|Right Let's take that out No that one was brown that was No and that one was brown I tend to keep them in the originals cos then I if I need to.
+PS007|Mm.
+PS003|Now let's boot it and see what happens No is it switched on Take that out otherwise it'll boot all the disc drive Okay Should be alright.
+PS007|Good.
+PS003|Er Right can I have your erm all your bible ones There's some.
+PS007|We've had those.
+PS003|They're all.
+PS007|Ah.
+PS003|over there I think.
+PS007|Yes here they are.
+PS003|Oh don't really need this Never mind Is this the order you put them up in.
+PS007|Yes.
+PS003|Oh so you'd like those in order put back in there.
+PS007|The only thing is I did wonder whether the two.
+PS003|What.
+PS007|there's two files at the end which I thought maybe ought to be at the beginning Where are they.
+PS003|In there.
+PS007|Er.
+PS003|They're all in one big directory dos.
+PS007|These two.
+PS003|doesn't care.
+PS007|You see those two are right at the end and those I don't know whether those ought to be together before x.
+PS003|Well it they're.
+PS007|So.
+PS003|all in one directory.
+PS007|It doesn't matter.
+PS003|It doesn't care.
+PS007|I see.
+PS003|It's called Bible isn't it.
+PS007|Yes.
+PS003|Copy mm perhaps it doesn't like Oh that's the only thing You're gon na get used to that The se there's no second star In that er Bible Oh That's cos I made a mistake if I did I forget to do a word there No Star.
+PS007|Oh So that's drive B is it.
+PS003|Yeah Star.
+PS007|I haven't bothered to make a label.
+PS003|No I don't blame you.
+PS003|Take them long enough wouldn't it.
+PS003|Alright.
+PS007|Mm.
+PS003|Right I will get used this drive sooner or later Boring this in n it.
+PS007|Yes Still it has go got to be done Well you could leave those couldn't you.
+PS003|No it's alright I like to check that it all works you know Get a few things on it and check that it works It won't take long.
+PS007|Right you are.
+PS003|How many discs did you say this was.
+PS007|Twenty one of them.
+PS003|Mm.
+PS007|Er this one yes I think we'll put that.
+PS003|Yeah no I'm putting them that way on top of each other That's right Hopefully another coffee.
+PS007|I've just put the kettle on.
+PS003|Oh.
+PS007|I thought you might be ready for one.
+PS003|Actually they spend more time changing discs probably than the.
+PS007|Than the actual copying yes Well you can't help it when you copy.
+PS003|Well look at the speed it takes a disc onto the hard disc Watch.
+PS007|Now is that a file.
+PS003|That's a whole file.
+PS007|Oh yes it takes long spends longer reading than it is.
+PS003|Oh yeah Much longer.
+PS007|Yeah.
+PS003|Well it's longer it's about ten times as long.
+PS007|Ha Oh because that's the er.
+PS003|That's a slow floppy in n it.
+PS007|Mm.
+PS003|Floppies are that is terrible I'm up to book fourteen.
+PS007|You what.
+PS003|I'm up to book fifteen.
+PS007|Oh.
+PS003|Oh I'm more than half way through Only nine left.
+PS007|Good Suppose I could of put this out there.
+PS003|What are doing It should be going down Fortunately this'll be the biggest job of all I suppose actually loading Wordperfect will be the slowest job of all Always takes a bit longer doesn't it.
+PS007|Mm It's er there's not so many discs to load though.
+PS003|No.
+PS007|There's not so many discs.
+PS003|No but er I can't just do this with it.
+PS007|No Where are you going.
+PS003|Just wan na look at those I mean Autoroute's only about three files Only got.
+PS007|Yeah.
+PS003|three discs so that won't take very long is what Five at the moment You know it says book forty do you have to know which books you want to go into.
+PS007|Yes erm er it's on a file somewhere.
+PS003|Oh No is it It's not the easiest thing to.
+PS007|No that's one of the.
+PS007|reasons why I've made little use of it Erm.
+PS003|Never mind.
+PS007|I could probably them.
+PS003|To make it easier to remember except it maybe it refers to it maybe it uses book something to refer to them You might have to write the whole programme again to do that.
+PS007|Oh well maybe I'd better not try then There's some coffee here.
+PS003|Sorry I've nearly finished this I'd like to get it done before I.

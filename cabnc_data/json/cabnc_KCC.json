@@ -1,0 +1,2909 @@
+{
+    "dataset": "cabnc_KCC",
+    "num_dialogues": 2,
+    "dialogues": [
+        {
+            "dialogue_id": "KCCRE000",
+            "num_utterances": 14,
+            "utterances": [
+                {
+                    "speaker": "PS0F5",
+                    "text": "Have you tried it No have you tried it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah I can't even The doorbell's not working.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Push it hard.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I can't hear it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Push it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Oh it's gone.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah you've got ta push in the middle Go on push it hard Ah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Hi.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "We've been to haven't we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Have you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "We went to the crossing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I went up to the car park and across.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "That's handy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        },
+        {
+            "dialogue_id": "KCCRE001",
+            "num_utterances": 399,
+            "utterances": [
+                {
+                    "speaker": "PS0F5",
+                    "text": "He bought himself er a padded shirt you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "A padded shirt like Alfred had for Christmas.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Robert had for Christmas.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "He had one for Christmas did he.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well I I I asked him what he wanted for Christmas.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "and he said get me a padded shirt he said Joycie's getting me one he said and I want two.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "So that's what I bought him And I was looking in the yesterday and they sell them in You Can't Go Wrong for five ninety nine for Robert.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Ten ninety nine he paid for his.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "It's a nice nice thick one though.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yeah Mind I saw them in tt they were the same price in erm You Can't Go Wrong and tt the place opposite Woolworths in Caerphilly.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Campaign on a what do you call it and erm and funny enough I was reading the Campaign yesterday and I was looking at the er thing and they've got a sale on haven't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Anyway erm we went to the Ca Polly hadn't seen them in the shops anywhere and went to Caerphilly market on Saturday morning and as we were coming from it he said look there's a shirt you want for Robert there So I thought well in case I can't get them anywhere else the market and he said well we'll have one from here twelve ninety nine We goes up town the following week then to get and I forget what I was looking for oh it was I was looking for your blouse.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "and erm they had this one down in the shop next to er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Aye and erm they had them in the window there twelve ninety nine.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "And I went down I went somewhere else there was a few places I saw them so erm I said to I said to Robert now you know those shirts that shirt I bought you for Christmas And he said yeah I said I could've got two for the price of one see that then Padded leisure shirts five ninety nine and I read the bloody thing out yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "No wonder.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan can you see them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yes love.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "They've dug up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yes they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I can't get up now mummy I can't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Oh you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "padded shirts for padded shirts nine ninety nine to twelve ninety nine.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Cos Ken said first of all he couldn't find any and he said oh he said perhaps I should've bought them when I saw them nine ninety nine But anyway he saw this one stall and he had a look and they had three racks of them for ten ninety nine and then we found some others then they were they were ten ninety nine but they were as thick as these other ones.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "They were twelve ninety nine But erm the shop opposite er you know there's the market and there's a cake shop opposite there by the shop they've got a sale there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Stock clearance By by the you know wallpaper.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "and then there's a shop next to it and he's selling er stock clearance sales there and that's where he saw them the padded shirts there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "But I didn't look I didn't stop it was raining so bad Thursday morning and windy that I I went to the market I cut straight through and went up and Di went to get the paper then he went So we we were back in here by half past eleven Thursday I didn't want to stay out in the cold.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yippee.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I wan na get him another towelling dressing gown because the blue one he had on the caravan he brought home for the winter bring them home and wash them But he would he said don't wash it I wan na wear it So really he could do with one for down there and one for home But the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "only other one he's got is a silk one so er I was gon na go on Tuesday and have a look and they had them there before Christmas seven ninety nine and but it said one size now I don't know whether the one size will fit Di because the last one I had for him I sent away for and I had erm so I don't know whether them down there would fit they were seven ninety nine there were white and lemon and pale green that was striped I think They had some nice thick ones in Peacocks but they were seventeen pound well sixteen ninety five.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "and they didn't reduce them for the sale.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "He wouldn't let me pay that for it he said that they had at the shop And when we went then after Christmas the shop was closed down for the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "There we are.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "the Christmas holidays.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I'll have that one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "You know the mini market top of I I usually get the bargains.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well when Ken said about the headboard last week they were selling sheets on mini market I said pink ones and grey ones but I said not while they had the Christmas stuff in it was before the Christmas stuff they must have taken them out you know I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I was thinking perhaps they'd bring them back So Thursday we we usually come out of Bridge Street go round the corner and then down to the end of the car's parked at the end of the lane So I said wonder if they've got that headboard for Ken you know I didn't know he had one I said we'll have a look and see how much they are When we got there it's all locked up Oh that's for stocktaking they said And we looked through the side windows and there's not a thing on the ruddy counters it's cleared out There's nothing there at all so there's no stock they can sell they've shut down I expect.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "And the week before it was all Christmas stuff was still in there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Oh you know in you know in Ponty You know that great big double shop that's a mini market They always got chairs and wicker baskets and things.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "outside That's gone.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "They've got one in they've got one in like that as well haven't they Irene had her jardiniere thing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "They shut up have they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah and that was a big one that was cos that went downstairs an'all.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Just gone.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Mm Mind now as you say the recession Didn't Rhys wan na go to the match today though.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "He did yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well he come round here he said are you ready Robert and er Rob said aye we're going And I said what's the matter Rhys And Di said what's the matter you've got a face as long as a fiddle Everything he said he went.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Oh what happened was he was going to the match.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "and then his friends come knocking at the door you coming out to play football Rhys No I'm going to the football match with dad You're gon na watch Cardiff City And so of course they started pulling his leg then see And he said he said.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "No are you gon na watch Cardiff City lose again.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "That's right twenty five nil.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "So Rhys says oh how did you guess but erm he come in then he said I'm not going to the football mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "He hmm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "So I said to him well alright then I said er if you're not going to the football match you can go upstairs to your bedroom and tidy your bedroom again Well when I say again he hadn't touched it It's a mess in n it Cerys He makes more mess in his bedroom than she does and his is because not only is it all papers and books and toys and everything else it's all his clothes as well He don't put any of his clothes away and if he's looking for anything it's all fling out of drawers and on the floor he don't care And if I've hung his coats up once I've hung up I've hung them up a hundred times he's got a coat hanger on the back of the coat hook on the back of the door.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well I gave him two when he stayed here to stay er to hang er on his door and he.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "and I'm not kidding you he's got his blue coat that he wears down the garden you know the one with all the he's got erm his army jacket a grey jacket erm tt how many has he got I think there's another jacket that he's got and there's no room to keep them all downstairs on the hook hanging in the passage.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "so I told him to keep them on the back of that door You put them up on the door they're on the floor You pick them up again you put them back on the door he chucks them back on the floor.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Oh Robert he used to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Terrible.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "he'd go upstairs and Shirley would have put all the clean clothes back in the wardrobe and he'd go in the wardrobe oh no I won't wear that no I won't wear that and half the time she found the cleanest clothes were all rolled up under the bed.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "They ain't half done a lot of r er lorries and that going back and forward today over there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah here didn't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "They were working up by er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Well they seem to be anyway.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "they'd gone past the they were working outside the you know where as you go to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "B and Q The a sort of curve toward behind B and Q so and they they sort of on the slope there this morning we didn't have a warning yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "I du n no erm tt I was up er David's and Eileen's when it went and their windows rattled.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Tuesday we had hell of a bang.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "And er erm Eileen said then she said we never had a warning then did we So I du n no whether it's because we've got used to it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Ah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "do you know what I mean Cos I mean it's only like a siren it's only going ooh ooh ooh in n it And you notice it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well anyway I for half past three yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Anyway you definitely hear the bang.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yeah I said it's due to go off now I said half past three and we waited and waited and he said well it's ten to four by me he said and I haven't heard one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah it went off yesterday It went off about erm half past three.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "twenty five past three.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "He probably had the telly on so perhaps I just didn't but the last time they had er a siren on it wasn't all that load I thought Whether it's cos the wind was blowing that way I du n no Did you eat those Ferrero Rocher I sent up to you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Ooh she liked them didn't you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Oh Iris didn't She had a box full for Christmas she ate three odd one right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "She sent they were in those little strips she sent three in for me she said and have you tasted these I said I don't think so so she sent them I'd tasted the other ones but not those white ones so she sent three of them in for us And he he caught her the other day she was putting them out for the birds she don't like them but she said So he come in here he said Iris is putting those Ferrero Rocher things out onto the onto the birds' table he said she don't like them He said she said they're like I said well what the hell's she doing Arthur if she don't want them tell her to come send them in here I said and give them to the kids But that's all she sent in were those two I said she might've sent a full packet give one to Barry one to Rhys and one to Cerys but there was only two.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm Oh they're nice they are.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I thought they were they weren't too bad I didn't like them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I ate mine in the car.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I couldn't get mine out of the packet.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Expensive they are that sort of thing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ah ah ah ah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Now don't be silly get up Get up You've got a sweet in your mouth Cerys.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I can't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Get up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I can't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Course you can.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Oh oh I think I can.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yes that's it don't be silly.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "What sort of party did you have last week at the chapel Alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Did you dance Sing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "It wasn't like a party at all.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Wasn't like a party.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "At all.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I know the one er the Girls' Brigade wasn't it you said but you had another one last Saturday didn't you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well what do you mean nothing like a party then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Didn't you have crisps.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "And cakes And didn't they sing Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "I don't know why you bothered to go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I can't see singing in the party Debbie's daughter the one that comes round with her sometimes she's er she went into hospital on Tuesday er er Monday that's right she had operation Tuesday for her tonsils come out yesterday or she was supposed to come out yesterday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "But she didn't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well I expect she did but I saw Debbie Thursday night and she said about her and er I said er how long has she been in she said Tuesday she had the op she said and she's due she'll probably be coming out tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ooh tomorrow Tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Tomorrow Oh you mean.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yesterday Cos I was talking to Debbie Thursday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ah so she might be so she might be coming out tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Cleared out all the chest of drawers and wardrobe the other day didn't we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "She's got nothing to wear now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I heard she was trying on everything to see what.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "That's right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "fitted and what didn't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "The haven't been open have they since before Christmas.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "them open.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I know I they haven't been open all this week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "I've been I was thinking today actually when I was walking up the road and I thought oh the is shut again They're gon na close down aren't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I think so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "I think I think that last erm break in has done it to death hasn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Er they've still got a Father Christmas outfit in there er er in one window the one next to the shop.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "But I've been up the road every day this week not shopping but just out for a walk you know If I can get out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "but most days but erm and the bar's right across the door and last week when I went out they still had er er one or two bits of Christmas stuff in the one window and some balls of er in there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "But that window's completely cleared out now and it hasn't been open at all this week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Betty says a window in Caerphilly had been knocked in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Oh yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "There's a board up to that And where is the other one I saw.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "The wine store up the top end there they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Aye that's right They've got erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "They've got a big piece of wood.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "they've got a board yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yeah a board up their window.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah that's right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I did twelve.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "But you know it surprises me I mean I know the church is is closed and it's been closed for a couple of years now and it looks a sight because now I don't know how many members they've got at least a couple of them could go in there and cut all the brambles down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I mean if you belong to a church you do something to make it look tidy don't you I mean that church isn't in such a bad state bloody fall on you all the time You go past there and you look in that front and people have been dumping bags of rubbish over there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah they will.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Little tiny white bags full with cans and odd just dump I mean there's no respect at all lately is there You wouldn't think of doing it years ago.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "even if the church was And they've cut all the side the other side Church Street they've cut all the hedge of the church down there and dumped all the grass inside no not the grass the branches inside well you'd think they'd get a blooming lorry or a van to take it all down the blooming tip wouldn't you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "To ta just to make it look a bit respectable because it's a church they're using that part of it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "absolutely terrible I said to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "about it the other day aye he says but they weren't supposed to cut anything down he said they were only supposed to cut a bit off the top Well I said that doesn't excuse the thing of of tipping all over and putting it inside and not shifting it It looks terrible.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan which church.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "was the bit that's sticking out on the path.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "No somebody could go in there who belonged to the church anyway two or three of them and it wouldn't take long cutting all those brambles and things away.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Tt nan do you mean the Cubs' church.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Cos then they usually make fires.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well I I don't know what's stopping some of the they'll go up one day er there one day and they'll.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Why can't they leave.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "throw something over it would be up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan why can't they leave just a little patch of grass for the fire.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I said to Di if you want pea sticks that's the place to go because they've got and he said oh I go now But er you'd think they'd get a lorry or something to shift it from there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "It's a fire hazard really isn't it You know with kids today And I tell you another thing I noticed I cut through the car park in the lane behind Shirley's one day this week I went through and and the back door of the old police station's open And all the windows in the back are broken.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "So I expect somebody's been and er the er the door thing you can get in the back way and in through the back door I bet there's some people sleeping in there in the night.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Someone could easily make a fire in there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I mean if they're not gon na use the building and they can't sell it gut it Cos they said they were gon na sell it then they changed their mind they were gon na pull it down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "If they can't sell it pull it down and put something else in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "It's no good is it now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Put something else in like a flat.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Shouldn't think it's very nice inside There's room for flats I think.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Even on the ground floor.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "There was.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan Ah ah Is that all you've got on the line one tea towel.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well that's not a tea towel there nanny cleaned her windows yesterday and er when I I'd wiped er with a cleaning off I washed it up again and I put it out yesterday and I keep forgetting to bring it in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Tt well if somebody's desperate that they want to pinch that they're quite welcome to it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "That's right It's bits I took off the sheets is that that I er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I was gon na tack the the end down so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nanny why didn't you remember they was up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "What.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "this morning that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well when I drew the curtains back this morning I thought oh damn.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "You were lucky that no one pinched them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Oh well they can have it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "It isn't big enough for anything only.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "go down the park come down to the park There's a rugby match going on up there there's people watching that and there's people down with kids.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I need a ladder I need a ladder.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm No we saw we saw the people in the park when we walked down didn't we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "That way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "You wasn't long then because I went.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Er we went erm as far as erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Level crossing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm the crossing past the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "It's nice when you're walking.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "No not past the it's by the in n it the crossing is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "one piece round here and then the other piece goes around there and it's the only thing is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I think you keep on tripping over.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "No I I like this.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I wore my hat scarf and gloves today I'm lucky I wore it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yes she wore them over in Ponty didn't you Cos she said I'm hot.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ooh I walked and walked I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Di Di didn't have but the one but he come up he said said he wants a spirit level and he wants a tape measure he'd got the spirit level he said I can't find the tape measure he said said it was on top of the bag I said where's your hat And cor he says making me hot it was in my pocket Well I said don't go catching cold I goes out there and he said I du n no where that tape measure is there's two bags here And the tape measure's that size and it was on top of the bag I said that's the tape measure.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Ooh there was a car out here last night Hazel and it was revving up then you hear a door go and they weren't closing it's bang Then there was voices and then it sounded as if the boot went down and then there was the doors bang again and then it revved off and it wasn't long it came back Well I stuck it for a long time Di went to sleep and I got out and I had a look and I the only thing that I could see and it was twoo'clock half past two this morning er the er the one side of the big house over there was full of lights they had all the lights on and there were two cars outside with their lights on So.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "So every time I thought I was dropping off they'd start.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "the telly on here sometimes and you're listening to telly and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "And all you can hear is erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Her snoring.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "I know it's stupid in n it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Mm That looks.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Aye the way they've put it it makes you think you a card and you win.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ah Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Oh don't Your mother's yawning she's making me yawn.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Have you had a Mirror.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "No We only have the Echo.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah the Echo The Echo Mummy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Ooh it's twenty past four It is twenty past four.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Well go on try it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "There's a crack on there be careful.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Mm Mummy mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Got a nice little table though in the secondhand place up the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Is that the brown one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "A brown.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I've been on to Di this long time and have one like that then you can and put down so you can have more room you know when you put it out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "And.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "he said give it away.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "And and they had one there last week a light one and on the s the and on each end was a little drawer Handy for papers and magazines.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nanny what's your lucky tree.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "There.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ooh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "and they go all shapes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ooh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "There's a bit of polythene on the top love er that's it to keep it clean.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Lift the top thing off altogether the top there you are it'll come off with it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "That one was on the top before that one was.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ooh that one's nice.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Oh yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "What was that now I du n no.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "That looks like a little island with water round it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Could be.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Where did you get these.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Vera next door brought them back from Spain for me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Spain Mm that one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Which one do you think is best.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Erm I know spread them out What on earth is is that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Which.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Oh no not until erm next week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Next week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "I know it's daft she said should've gone Christmas week and I said I'm not going down Christmas week so I went the week before And then till the twenty third of January.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan I've picked a nice one to go on top.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Good I've got an appointment in the hospital the second week of March and she said go down and have a blood test about three weeks before at least three weeks before.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "So.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan is that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ah Nan that looks a nice one to go on top.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "It is in n it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "All I need is That one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan is it awkward to get in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yes love it is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Mm mm Wh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "I I had and it took me ages to get it all back in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "And.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ooh Look what I've got.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Ooh look at the finger marks on it now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "There's a blue sky out there Wonder if we'll have a nice day tomorrow again.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nanny.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "No ooh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well I don't think you have I I don't think you have.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "You just wan na see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "I don't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "How long is it since it was last the end of October we had the washing machine wasn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "It was November wasn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "I du n no.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Anyway I put it in the paper phoned in the paper and they said it'd be at least a week or fortnight before so I didn't like but it never came out in the paper So I phoned them again and er they took it down and then I didn't see it in the paper again so when I phoned again and said why haven't you put it in she said well of course she said if you pay two pounds she said two pound fifty.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "you get pr priority Anyway they had a a special coupon in the Campaign this week and I said to Di I said phone this number I said and put our washing machine in I said they're not taking no notice So he phoned up and he had to redial two or three times before he started And then she checked Well anyway the week after he'd phoned there was no what you call in it so he wrote it in to the damn thing and said why is it when some people puts adverts in they not only put it in once they put it in three or four times the same week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "this week again there's a lot of repeats in it and he said other people that send adverts in can't even get er a look in they don't anyway that after he wrote the letter it was in the following week But as you know a woman come we she saw it in the Post Office in the meantime and we sold it phoning now seen it in the paper we told them it was sold We had three calls last week not it's it's about a month since wanting to know about the washing machine and we said it's sold sold er a couple of weeks ago Anyway three people have phoned yesterday we had two phone calls yesterday in the morning I had one last night and there was another one this morning about the washing machine and I said sorry but I said the advert was put in the Campaign I said a month or so ago No she said it's in this week So anyway yesterday afternoon I was checking through it when the phone went again to ask about the washing machine and I was looking through the paper to see whether and they'd put it in this week Silly things.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "You've got sticky mitts now go and wipe your sticky mitts go on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Yes the nights are drawing out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Thank God The mornings are still dark though.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Oh shut the door.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Push the handle up That's it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Ooh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Your mother's covered him up because he's cold.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Can you imagine anybody walking along with that they'd wan na.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Walking along.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Rhys would.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Oh Rhys would.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Carolyn bought herself another one I think When she brought it down the hospital she said here you are nan er mum she said nan she said it's a present for you she said so we did laugh But course when I opened it up Robert said Carolyn wanted that back he said she bought for herself and I said she didn't say that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "So when I er went up I took it up with me and said to Carolyn I said I said you wanted your mum to have this said oh nan you can have it I'll go into and get myself another one she said Reminds of erm Mick Jagger.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "in his mouth.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Playing with a man's bare bum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Your nan's being rude.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "It's surprising how it's surprising how much stuff that collects under there isn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan have have you had a look at those things with er you press this thing and they pull their trousers down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "The moonies.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Aye you have them in a car And all of a sudden.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "their trousers go down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Mm in my bedroom.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "You had one in your bedroom.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Hiding in the window.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "We're not going to have anything for tea tonight are we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yes we are Come on stand still.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "What were we gon na have I can't even think of what to have.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Oi oi oi.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Well I had there's some soup in the freezer from when I put a tin a tin of chicken soup and Di used the last of the turkey in it and we had some and what was left I put in a dish.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan why do they make him wear the trousers like.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Cos his legs are too short.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "trousers.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Wouldn't be so much fun then would it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Yeah you know trousers come down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Whatever happened to she had them for years up there and and when we cleared out the house I forget what we done with them You only had to press his head.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Nan.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "look at that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "He's kissing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "oi oi oi.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "come on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "He's kissing her hand.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "Then we jump off whoooo.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "shop might be closed down after Christmas.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "No they've got a lot of nice er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "They're still there aren't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "and that there now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "although they've reduced the price.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "But he doesn't do much.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Every time I pass he's sitting.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "Di said it's a.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "biology instruction in your school you wan na take it Do you watch Neighbours.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "No I don't watch Neighbours.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F6",
+                    "text": "No we don't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "There's Cody er I I think it's Cody in Neighbours and er her boyf.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "No And her boyfriend's name is Todd.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F5",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0F7",
+                    "text": "well they were having a biology lesson she'd been all about these they'd been this biology.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        }
+    ]
+}

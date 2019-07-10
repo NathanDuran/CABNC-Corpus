@@ -1,0 +1,383 @@
+PS1E8|What time do you have to go back to school Alexander.
+PS1E6|Eight.
+PS1E7|Seven.
+PS1E6|It's eight.
+PS1EA|It was six other days.
+PS1E6|Eight.
+PS1E7|Where are you going.
+PS1EA|Do you mind sitting down till you've erm finished old chap.
+PS1E6|Sorry.
+PS1EA|They're all clean in there then.
+PS1E6|Yeah I know.
+PS1EA|I'll leave you to it.
+PS1E7|Shall I make some custard.
+PS1E6|O K.
+PS1EA|You can.
+PS1E6|That pie thing.
+PS1EA|And we'll eat bread pudding.
+PS1E6|bread pudding.
+PS1E7|Do you want warm bread pudding.
+PS1EA|I suppose so.
+PS1E6|Just because it's not warm it doesn't mean you can't have custard with it.
+PS1E7|Well if you.
+PS1E6|At school we have cold pudding with custard.
+PS1E7|then I'll have to wash a saucepan.
+PS1E8|Oh dear you won't like that Alexander.
+PS1EA|It's not very difficult you've got one that you've done carrots in Just have a quick slosh well hardly even needs a slosh round does it.
+PS1EA|You don't have to tell them.
+PS1E6|It's got there'll be a carrot flavouring in it.
+PS1EA|That's alright.
+PS1E6|You hate carrot cake or whatever it is.
+PS1E6|Eh Sorry I just ripped all the buttons off me shirt.
+PS1EA|You'd better not.
+PS1E6|Do you really think I'd rip the buttons of me shirt.
+PS1EA|I believe you'd do anything.
+PS1E6|Thanks.
+PS1EA|Do you want bubbles There you go.
+PS1E6|Oh it's nice and sunny out.
+PS1E4|Yes.
+PS1E6|And as soon as we finish it'll go and get dark again.
+PS1E8|Well don't worry dear it won't matter to you what the weather's like for the next week will it.
+PS1E6|Yes it will.
+PS1E7|Why not.
+PS1E6|I've got to do javelin and I don't like going down there in the wet.
+PS1E7|When have you got to do javelin.
+PS1E6|Tuesday Thursday and Saturday.
+PS1E7|But you've got all your revision to do.
+PS1E6|I know I also have a games lesson Tuesday and Thursday mum I also have an extremely important athletics meeting on Saturday.
+PS1E7|Oh dear.
+PS1E4|We ought to be coming to see that.
+PS1E7|They go at the senior school.
+PS1E6|Mermy.
+PS1E4|He doesn't know where it is.
+PS1E7|They don't go at se with the senior schools.
+PS1E6|Mum.
+PS1E7|Yeah.
+PS1E6|Do I.
+PS1E7|No Just one.
+PS1E4|Mm.
+PS1E9|What's this your thing on Saturday Alex.
+PS1E6|Yeah.
+PS1E8|Mm.
+PS1E7|No they er I heard someone say that though they sort of actively encourage the use of to go to see many things like sort of sport days erm The main school has a much better sports day though They have it after speech day.
+PS1E8|So they have half a speech day.
+PS1E7|Yes They have speech day on the Saturday morning that the ball is on.
+PS1E9|How was the ball.
+PS1E7|Alright.
+PS1E8|Oh yeah I forgot about that Did you have a good nosh.
+PS1E7|It was boring wasn't it.
+PS1E6|boring.
+PS1E4|Was it boring.
+PS1E7|It wasn't boring but it was just I mean you know they're sitting five hundred people all at one go and it's.
+PS1E6|Boring.
+PS1EA|I still can't believe.
+PS1E6|It wasn't a boring night though.
+PS1EA|They get fifteen thousand pounds and they don't make anything from it.
+PS1E6|But it wasn't boring to watch though mum.
+PS1E7|No idea what I've no idea at all But I'm sure if they were the organizers entirely organized.
+PS1E6|Mum I didn't think it was.
+PS1E7|But I'm sure if they could make a profit they would.
+PS1E6|I didn't find it boring.
+PS1EA|Why did you get out of it.
+PS1E6|No.
+PS1E4|Don't make too much custard Alexander cos I'll.
+PS1E6|I just went to Mike and Rob's house and my friends And we just mucked about until four in the morning.
+PS1EA|Say that again.
+PS1E7|They just mucked about until four in the morning By which time we were all fast asleep in our little beds.
+PS1E6|No you weren't You came home at four in the morning.
+PS1E7|Did not I was home here in bed and asleep at half past three.
+PS1E4|Yes.
+PS1E4|And I can vouch for that.
+PS1E6|We didn't get to sleep until about three then.
+PS1E4|That was the night I couldn't sleep.
+PS1E6|We got to sleep what about an hour after you went.
+PS1E7|Yeah half past three.
+PS1E6|Af after you got after you got to erm.
+PS1E7|I know what time you went to sleep because Rob's dad came in or his mum hammered on the door and said cut it out lads go to sleep.
+PS1E6|No they didn't.
+PS1E9|So they stayed overnight then.
+PS1E7|Yes yes.
+PS1E6|Oh that must have been when I smacked my nose on my Walkman.
+PS1E8|What you stayed here.
+PS1E7|stayed at his friends' house.
+PS1E4|No no no He stayed at Bob's house Rob's Cos he lives about a quarter of a mile away from the school.
+PS1E8|Ah.
+PS1E6|Not that.
+PS1E4|He actually.
+PS1EA|What's his name.
+PS1E7|Rob Robert.
+PS1E7|Good guy isn't he Alex.
+PS1E6|Yeah.
+PS1E4|Yes.
+PS1E8|That was delicious.
+PS1E9|Mm Very nice Very nice chef.
+PS1E4|He says what is he second row prop Alexander.
+PS1E6|No he's not he's a hooker.
+PS1E4|Oh he's a hooker.
+PS1E7|A hooker.
+PS1E4|Hooker Yeah Oh dear dear.
+PS1E7|He does He's a They all.
+PS1E6|had carrots in your er Right dad.
+PS1EA|Help you see in the dark have you not finished.
+PS1E8|Mm I have really Sorry I just sort of.
+PS1EA|Have another one Have a crunchy potato Have a carrot.
+PS1E4|How do they go on in the senior school Do they still have the under fourteens under fifteens.
+PS1E7|Oh yes.
+PS1E4|Oh yes yes.
+PS1E7|But then the Alex thinks there's a whole lot more boys joining joining the school.
+PS1E8|Joining the school.
+PS1E7|Yeah I wasn't aware there was.
+PS1E6|What would you do if I set fire to the new to the shirt.
+PS1E8|It does seem a shame to leave.
+PS1EA|I'd set fire to you.
+PS1E7|Who was going to have that.
+PS1EA|You have it.
+PS1E7|It's too late now I've got.
+PS1E4|I wasn't going to have it I said.
+PS1E9|The next time I see you you'll be saying why did I eat all that.
+PS1EA|Stop stop.
+PS1E9|ooh I've got indigestion.
+PS1EA|Where are you going with it.
+PS1E6|Put in.
+PS1EA|Just leave it.
+PS1E7|You all know who he takes after don't you.
+PS1E6|Mum I've that thing with a hole in it.
+PS1EA|That's your head Stop.
+PS1E4|see if it's still going round Oh yes it is.
+PS1E7|What.
+PS1E6|It's a thing with a hole in it.
+PS1E7|Yes it needs washing.
+PS1E6|Yeah but you don't use.
+PS1E7|Don't use that for a creme caramel.
+PS1E6|That's what you said you were going to use.
+PS1E7|No no no I thought I had a mould.
+PS1E6|With a hole in it.
+PS1E7|That that that was sort of.
+PS1E6|Like slug.
+PS1E7|Yes.
+PS1E6|Oh Is it good I've got a better one.
+PS1E7|That thing will always be a slug now won't it.
+PS1E4|Mm Who called it the slug.
+PS1E7|Alexander.
+PS1E8|I can't remember ever have you the name Sort of a er orangy chocolate mousse.
+PS1E7|Yes.
+PS1E8|But it was only because it was done in er er I think.
+PS1E4|Yes yes.
+PS1E8|What's the chart up on the board.
+PS1E4|That's young chart actually But he uses uses it for everything you know.
+PS1E8|Like a diary.
+PS1E4|Yeah like a diary It's all in I mean the days are down from the top to the bottom.
+PS1E8|Mm.
+PS1E4|It goes along for twelve months.
+PS1E8|Oh right.
+PS1E4|And the days go down and I think that there's numbers at the bottom.
+PS1E7|I was waiting for somebody to pass the creme caramel out of the fridge.
+PS1E6|I can't because.
+PS1EA|Wh Why do you want it.
+PS1E4|Oh no I'm not sure.
+PS1E8|Yes it is Twelve months.
+PS1E4|Twelve months yes yes That's right yes.
+PS1E8|And various.
+PS1E7|There we are knowing my luck it won't come out.
+PS1E8|Do you have to dip it in hot water or something.
+PS1E7|Well no it's creme caramel is that.
+PS1E9|creme caramel or proper creme caramel.
+PS1E7|You're not supposed to ask those sort of questions dad.
+PS1E6|Well.
+PS1E9|No No it's only because we made some on holiday when we went to.
+PS1E8|Oh yes yes.
+PS1E9|Switzerland Some man he said oh he made it all sort of proper.
+PS1E7|Oh I can make it all proper.
+PS1E4|Not that you haven't done it.
+PS1E7|You know instead of tipping it over which would probably help I'd put that.
+PS1E4|put that on top and put the two over together.
+PS1E7|Well done.
+PS1E4|There.
+PS1E8|Now you've got a problem.
+PS1E4|Hit it with a spoon Not hard enough to break the dish.
+PS1E8|Yes I do think you need to why don't you just try dishing it up out of the thing.
+PS1E8|You're never going to get that out.
+PS1E7|Yes I am All you've got to do is get rid of the air Like that.
+PS1E8|Ah.
+PS1E4|Oh clever dick oh the clever trousers Very good Creme caramel and custard.
+PS1E7|I've never used that before.
+PS1E4|You've had it for a few years too.
+PS1E7|Well that's one.
+PS1E6|Would everybody like lumpy custard.
+PS1E7|You're not supposed to make lumpy custard You make very very good custard normally.
+PS1EA|No Custard with no lumps.
+PS1E4|You've made lumpy custard you can eat it.
+PS1E6|O K I don't know what happened lumpy custard.
+PS1E4|Oh sorry.
+PS1E6|made lumpy custard I thought everybody liked it I know dad does.
+PS1E7|No I'm just putting some so if it all ends up thrown away.
+PS1E8|Oh Sue that is dreadful.
+PS1E7|I know.
+PS1E4|It won't get thrown away.
+PS1E8|That is dreadful.
+PS1E7|get thrown away always ends up getting thrown away.
+PS1E4|No it doesn't I'll eat it.
+PS1E7|It goes in the fridge for about four days.
+PS1E4|No it doesn't I jack it out sometimes.
+PS1EA|I throw it away straight away these days.
+PS1E8|Oh John that is such a terrible waste.
+PS1EA|Well what what are you going to do with it It's making too much to start with.
+PS1E9|Make cauliflower cheese with that.
+PS1E8|Precisely.
+PS1E4|I'll make myself some cauliflower cheese tomorrow morning.
+PS1E8|Why don't you just cut it all up and put a curry sauce over it And have curried vegetables Delicious.
+PS1E4|I'll have cauliflower cheese tomorrow er lunchtime With the cauliflower.
+PS1E9|The rest you can fry up in the evening and have it with your cold beef.
+PS1E8|Exactly.
+PS1E6|I did It's hard to pour out.
+PS1EA|Yeah.
+PS1E8|That is dreadful I mean they're all usable.
+PS1E6|Can somebody pass me a towel please.
+PS1EA|Well what happened.
+PS1E4|Yes but you see when you get out of here about seven times between half past six and eighto'clock at night.
+PS1E8|Well you ha at least haven't got to do vegetables have you I mean they're already done for you Just reheat those and you're off and away I like to have a lot of vegetables left over I can have them fried the next day.
+PS1EA|What will we do with it.
+PS1E6|Apart from me.
+PS1EA|Er.
+PS1E4|Well generally there's there's only three of us here.
+PS1E9|There's your custard lad.
+PS1E7|Oh lumpy.
+PS1E6|It's not.
+PS1E8|You said so.
+PS1E6|No I said does anybody like it.
+PS1E8|Oh.
+PS1E6|Did I actually say the words does anybody.
+PS1E8|You said.
+PS1E6|I I said does anybody like lumpy custard.
+PS1E8|That's right.
+PS1E6|Does that mean that I've made lumpy custard.
+PS1E8|Yes.
+PS1E6|Why.
+PS1E8|Well because lumpy.
+PS1E6|Did I actually say I.
+PS1E8|Well no you didn't actually say but one would presume from that that that's what you were getting.
+PS1E4|What you should have said is I hope everybody likes lumpy custard.
+PS1E7|Well the trouble with making it in a jar is you don't get much skin do you If you put it in a basin then you can sort of.
+PS1E4|Yeah but the sk skin's thicker.
+PS1E8|Well yeah that's true.
+PS1E8|Mm.
+PS1E9|custard oh look lumps.
+PS1E7|Very true.
+PS1E9|We're deprived these days.
+PS1EA|Eh.
+PS1E6|Pardon.
+PS1E7|Cold bread pudding.
+PS1E6|Yeah It's nice.
+PS1EA|Can you eat it hot.
+PS1E6|mum's done it in a sweater then it.
+PS1E7|Should have slipped it in the erm in the oven.
+PS1EA|You nearly said the microwave didn't you.
+PS1E7|I nearly said the microwave but in the oven.
+PS1EA|The other thing's behind next to the erm scales.
+PS1E4|Er how did you manage to get two sides of that so perfectly straight.
+PS1E7|Well I'll get the cream out.
+PS1E8|What that Oh yes it was in thing I'll divide it up between three of us.
+PS1EA|other erm thing whatever it is.
+PS1E6|Thing.
+PS1E4|Oh it's your bread pudding I see.
+PS1E8|Yeah I made one yesterday in a meat tin and so Lynn had a lump and I got a lump and you here.
+PS1E7|Would anybody like some of this.
+PS1EA|We've got four four puddings here aren't there.
+PS1E8|What is it.
+PS1E7|Baked jam roll Mincemeat burnt it Sorry.
+PS1E8|No no no crispy crunchy.
+PS1E7|Who'd like what.
+PS1E6|Me please.
+PS1E4|I'd like a piece of Gran's thing to start with I'll have some of that.
+PS1E8|Well that's not fair Alexander is it Your mother said who wants what Alexander said and Fred got served first.
+PS1E4|Well I'm sorry.
+PS1E7|Oh sorry yes.
+PS1E4|She was trying to get rid of this that's why.
+PS1E8|Young people have got to stand up for their rights Alexander.
+PS1E6|It's my favourite.
+PS1E7|I didn't get the cream.
+PS1E6|Oh yeah I'll get the cream.
+PS1E8|I mean I read according to the paper this morning young people have got to have a.
+PS1E9|elders and betters and all that.
+PS1E8|That's true.
+PS1E7|Young people have got to what.
+PS1E8|Stand up to their have a say You've got to listen.
+PS1E6|Yeah Nobody listens to the young.
+PS1E4|Well why not.
+PS1E9|Ah.
+PS1E7|Ah since when does nobody listen to you.
+PS1E6|At school they don't anyway.
+PS1E7|Ah.
+PS1EA|Since when did they ever.
+PS1E8|I'll have a piece of that please.
+PS1E6|What do you mean Nobody will want custard.
+PS1E7|Nobody wants custard You even you're not having custard.
+PS1E6|I know but but eat custard with meringue.
+PS1E7|Why not.
+PS1E6|It makes the meringue go all weird.
+PS1E6|Does anybody want custard.
+PS1E7|John do you want this.
+PS1EA|No I'll have some of that please.
+PS1E9|I'll have some of that too please.
+PS1E6|I'll have some of nan's bread pudding I think.
+PS1E8|Take that back to school.
+PS1E9|ought to do is to eat the things that he's saying that nobody wants.
+PS1E8|I think they are actually They're just trying to prove you.
+PS1E7|What are you going to have nan.
+PS1E8|I'm going to have some cream please.
+PS1E4|Ah.
+PS1E6|I'll take it to school.
+PS1E8|tart You've got treacle bites.
+PS1E7|They don't have a lot of that there.
+PS1E9|bread pudding as well.
+PS1EA|Have a lot of what left.
+PS1E7|You didn't want.
+PS1E4|Who wants the custard John.
+PS1E6|Don't you want custard granddad.
+PS1E4|Yes I'm having custard.
+PS1E7|Ah The skin's gone Fred.
+PS1E4|No.
+PS1E4|John Alec Custard.
+PS1E9|No thank you Oh dear.
+PS1E8|Oh Oh shame.
+PS1E4|No it's alright that's alright.
+PS1E9|I'll save you the rest.
+PS1E8|Fred's been looking.
+PS1E4|I don't no I haven't I don't worry about it It's alright.
+PS1E9|I'll save the rest of it for you.
+PS1E4|Thank you Alec out there.
+PS1E8|long time.
+PS1E4|Must be like that.
+PS1E9|No I've come to the conclusion that we're deprived these days We don't have any sweets much.
+PS1EA|But you're always having sweets.
+PS1E9|No When people come but otherwise we're deprived.
+PS1E8|Have a banana after.
+PS1E9|a banana.
+PS1E7|There was me thinking that you always.
+PS1E8|Well it depends I think.
+PS1E6|We had this really nice Danish apple bar that I did last night.
+PS1E8|In the where.
+PS1E6|A Danish apple bar.
+PS1E8|Oh really.
+PS1E6|Mm.
+PS1E4|Who said this was burnt The pastry is a little crispy but.
+PS1E9|Very nice.
+PS1E4|Yes very nice.
+PS1E6|Bottom of the meringue is.
+PS1E8|Do you make many jellies I haven't had a jelly for ages and I got one from Sainsbury's A lemon jelly And I actually did it in a plastic basin And it has stained it so badly And I think well what do they put in this type of thing and it really wasn't that good was it.
+PS1E9|The basin or the jelly.
+PS1E8|Both I I thought I don't know the things you eat with that much colouring in it erm.
+PS1E8|No John.
+PS1E6|But she's done my.
+PS1EA|jelly bowl.
+PS1E8|No it wasn't a proper jelly bowl.
+PS1E6|jelly bowl or my jelly bowl.
+PS1E8|That's another thing you can't get now is very much is chocolate blancmange.
+PS1E6|We've got some.
+PS1E8|Well you can't in Sainsbury's.
+PS1E6|Yes we have.
+PS1E7|Not chocolate one we've not.
+PS1E6|Yes we have we've got some chocolate ones.
+PS1E7|Have we.
+PS1E6|Yes How do you make then.
+PS1E7|That's chocolate and erm you melt the chocolate and an orange jelly.

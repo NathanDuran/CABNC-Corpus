@@ -1,0 +1,29 @@
+PS1GE|I wonder who wrote that Doctor Doolittle Who wrote that Barry's the man with the words Barry.
+PS1GM|Hello.
+PS1GE|Who wrote Doctor Doolittle Do you know.
+PS1GE|Doctor Doolittle.
+PS1GM|Yeah you mean as played by erm.
+PS1GF|Rex Harrison.
+PS1GM|Rex Harrison.
+PS1GE|Rex Harrison yeah.
+PS1GM|Cor no can't.
+PS1GE|Oh I just wondered Just wondered who it could be.
+PS1GM|Not H G Wells.
+PS1GE|Probably somebody obscure.
+PSUN|What's that.
+PS1GE|Doctor Doolittle who wrote that.
+PSUN|I du n no.
+PS1GE|Well we didn't ask you.
+PS1GM|I mean you would of said George Bernard Shaw it would've been.
+PS1GF|Who.
+PS1GE|Who.
+PS1GF|Nev never heard of him.
+PSUN|Who.
+PS1GE|Pygmalion.
+PS1GF|Who.
+PS1GE|Pygmalion wrote Pygmalion.
+PS1GF|Sorry.
+PS1GE|Pygmalion.
+PS1GM|He wrote Pygmalion and sang Doctor Doolittle.
+PSUN|Eliza Doolittle Eliza Doolittle.
+PS1GF|Do you want to.

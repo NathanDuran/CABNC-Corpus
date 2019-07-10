@@ -1,0 +1,298 @@
+PS14B|What are you doing.
+PS14F|Making a fortune teller.
+PS14B|Making what.
+PS14F|Fortune tellers.
+PS14H|Fortune tellers.
+PS14B|A fortune teller Oh I love you.
+PS14F|That's for one.
+PS14B|It's for what.
+PS14F|One four.
+PS14B|One.
+PS14F|eight Will you a choose a number.
+PS14H|Two.
+PS14F|I got It's that one with the.
+PS14B|What do you.
+PS14B|What is this.
+PS14H|A thingummybob.
+PS14B|A thingummybob.
+PS14B|Explain it.
+PS14H|I'm doing it that way Erm there you open up and turn it upside down.
+PS14H|It's got a face there and he's got ears up there and he's got erm the ears on the other head of his.
+PS14B|Oh That's clever Have you seen it Amy Look.
+PS14H|Ha.
+PS14B|You can have it that way up or.
+PS14E|That way.
+PS14B|that way up.
+PS14B|Brilliant There you are.
+PS14H|I'm not really sure about side heads yet.
+PS14B|Oh I see And what are you doing Oh You're making one as well.
+KB8PSUN|Making the same as Richard.
+PS14B|Jim.
+PS14C|What.
+PS14B|How many leaflets did you say you still had to deliver.
+PS14C|All this side Hillside and Tayside and Catherine's Square.
+PS14B|Well.
+PS14C|And possibly Village.
+PS14B|have you got the leaflets.
+PS14C|That's all the leaflets I have left.
+PS14H|Do a little bit more.
+PS14B|Are are you going to ring Martin and see if you can get some if he's got any more.
+PS14C|Well I might.
+PS14B|I just thought if it was any good if I took Bryony to the hairdresser with me and you took Richard and James.
+PS14F|Take me.
+PS14B|if you could get hold of any before I went out I need to be out at quarter to ten.
+PS14B|Is that any good Or not.
+PS14H|You might need this.
+KB8PSUN|I can't take them with me either.
+PS14B|Oh.
+KB8PSUN|I'll deliver when you for the half an hour when you come back.
+PS14B|Okay Right I just thought it would have saved time Still a lot of roads blocked by snow according to the television news.
+PS14F|Snow.
+PS14B|Yes.
+PS14F|We didn't have snow at home.
+PS14B|Didn't you see the.
+PS14H|I saw it.
+PS14B|cars ye when Doro didn't you have snow at Lonsdeen Dorothy said her lawn was covered with snow when she arrived yesterday morning And it was thick on the front of our car.
+PS14F|Well we didn't have any on our car.
+PS14B|And you're only a hundred yards from her.
+PS14F|Well we had some on the garden but there's no.
+PS14B|Oh it was th and we saw a well you saw some who was it Erm Richard you were trying to break up a big lump of snow yesterday weren't you.
+PS14H|Yeah.
+PS14B|Where was that.
+PS14H|On the road.
+PS14C|On the road.
+PS14H|Up in town Yeah.
+PS14B|Yes Er that could have fallen off a car cos it was a big piece and there wasn't anywhe anywhere else.
+PS14H|Mm.
+PS14B|Where else did it say the roads are blocked Jim.
+KB8PSUN|The road from to Ashington is closed because of flooding.
+PS14B|No I meant.
+KB8PSUN|And er The er road from Alston over to is blocked with snow and it's passable from Alston over to Wear there only with four wheel drive vehicles I did mention cars are barred anywhere else Cos that's where all where the roads to Alston are closed.
+PS14B|Aye.
+PS14B|What are you reading Richard.
+PS14H|That.
+PS14B|I can't see it What does it.
+PS14H|Soccer Coaching.
+PS14B|Who Soccer Coaching Mm Do you want to be a footballer.
+PS14H|Yes.
+PS14B|I think your brother is tired this morning Amy all we're getting from him is nodding Was he in a bad temper when he got up again.
+PS14E|Yes he was screaming.
+PS14B|Screaming.
+PS14H|Didn't wan na get up.
+PS14B|Oh dear Oh dear.
+PS14F|Pick a colour Jim.
+KB8PSUN|I du n no Er.
+PS14F|Yeah.
+PS14D|You have to you have to write in in proper numbers.
+PS14F|I don't know what to do for the numbers.
+PS14D|In that just there.
+PS14H|You go one two three four One two three four Where does it come out.
+PS14F|What do you do.
+PS14D|This'll do for the numbers.
+PS14B|Have you finished it.
+PS14D|You put one two.
+PS14E|Not yet.
+PS14D|three five.
+PS14B|Sorry.
+PS14D|six seven eight.
+PS14B|You're an expert on these are these aren't you Rebecca.
+PS14D|Yep And I.
+PS14B|Whoops You've dropped your pencil.
+PS14D|I thought you had to make them.
+PS14B|pen.
+PS14D|quite a while ago.
+PS14E|And you forgotten.
+PS14D|No You've forgotten.
+PS14E|No I didn't.
+PS14D|Oh yeah Ner ner ner Then I wouldn't start making them.
+PS14E|I I made them I started making them quite a while ago.
+PS14D|So have I.
+PS14B|Rebecca.
+PS14E|What Rebecca wants red.
+PS14D|Matthew can try it.
+PS14F|I can.
+PS14E|Rebecca wants Rebecca wants.
+PS14D|Red.
+PS14E|red.
+PS14F|Erm you've got a hairy chest.
+PS14B|Who's got a hairy chest.
+PS14F|I love your hairy chest.
+PS14B|Oh.
+PS14D|Matthew used to love that one.
+PS14F|No I don't.
+PS14D|He still does.
+PS14F|You're being horrible.
+PS14D|Saying I've got a hairy chest.
+PS14F|Oh oh.
+PS14B|Where are you up to Oh you're still filling in the.
+PS14B|Aha What are you making.
+PS14B|Is that a hat or a boat What.
+PS14C|A boat It's a u.
+KB8PSUN|Well unless he's a really.
+PS14B|The what.
+KB8PSUN|small head it's a.
+PS14B|The crayons.
+PS14C|Yes please.
+PS14B|And there you are.
+PS14C|I'm gon na try and make it waterproof.
+PS14B|Waterproof Oh Of course with wax crayon You'd have.
+PS14E|Ann.
+PS14B|to do every single tiny bit.
+PS14C|The triplets have been coming in here.
+PS14B|I know we've got we've got hardly any crayons left I think someone's eating them.
+PS14C|Well I'm not eating them.
+PS14H|Me neither Ann.
+PS14H|I don't eat them.
+PS14D|Neither have I.
+PS14E|Neither have I.
+PS14B|Now are you sure Richard You do strange things Are you sure you haven't eaten the crayons.
+PS14H|No.
+PS14B|I don't know where they're disappearing to.
+PS14E|What shall I do What shall I do for seven.
+PS14B|What have you got so far.
+PS14E|I've got kiss me quick I love your hairy chest I love your bi but I love your big ears I love you.
+PS14D|Give us a kissy kissy.
+PS14E|I hate you.
+PS14D|Give us a kissy kissy Actually now I've got those three Erm.
+PS14E|And eight Eight.
+PS14D|I don't know.
+PS14B|Mm.
+PS14F|We can clear up.
+PS14E|What shall I do for eight.
+PS14D|I've put.
+PS14B|What do you usually put on.
+PS14E|Er I du n no.
+PS14B|Well do you want something nice or something horrible.
+PS14D|You're a princess.
+PS14B|Do you want something complimentary or something insulting.
+PS14D|You're a princess.
+PS14B|Ooh Ooh Ooh Who wants to be a princess.
+PS14D|Don't know.
+PS14H|You're a queen.
+PS14D|Or a queen.
+PS14B|Richard do you want to be a princess.
+PS14B|Well.
+PS14B|There you are we've got a smile out of him.
+PS14B|He must be coming round.
+PS14H|Like you said you get people who are not morning people.
+PS14B|That's right Well if I could choose I would go to bed at about twoo'clock in the morning and get up at about teno'clock in the morning That would suit me fine.
+PS14H|Eight hours sleep.
+PS14B|Er er well I would read for an hour before I went to sleep.
+PS14H|Seven hours sleep.
+PS14B|Yes Well last night I went to bed at about I went to bed early last night I was in bed at half past eleven and I read.
+PS14H|Early That's early.
+PS14B|That's early for me And I read for about an hour.
+PS14H|Do you usually go to bed at midnight.
+PS14B|Midnight oneo'clock depends what I'm doing.
+PS14H|Oh.
+PS14B|I better get my contact lenses in hadn't I.
+PS14H|Mm mm.
+PS14B|Oh Good heavens It's twenty to already I haven't even got my face on And my lenses in Ooh Urgh Where are they.
+PS14F|Your hairy legs are lovely.
+PS14B|Whose hairy legs are lovely.
+PS14F|I du n no.
+PS14B|Tt Oh There's a bit of fluff or something on there.
+PS14D|Even just now I got.
+PS14B|Has anyone seen the river this morning.
+KB8PSUG|No.
+PS14C|But probably gone down.
+PS14B|Oh it was down a tremendous amount.
+PS14C|Do you want.
+PS14B|yesterday afternoon wasn't it Rebecca.
+PS14D|Yeah.
+PS14B|Oh You were there weren't you.
+PS14B|Right from the what was it The.
+PS14D|Aha.
+PS14B|ninth step it was the night before Right down to the second from the bottom Oh Don't say I'm going to have bother with my lenses this morning.
+PS14C|Red green yellow or blue.
+KB8PSUN|Yellow.
+PS14C|Mm Pick a number.
+PS14B|This one feels funny.
+PS14B|Is anyone here later tonight.
+PS14E|No.
+PS14B|Rebecca are you Matthew are you here after school today.
+PS14F|Yes I am but I'm not late.
+PS14B|You're not late What day is it.
+PS14B|Frid oh it's.
+PS14F|Yeah.
+PS14B|Friday that's everyone's here.
+PS14D|I keep thinking it's were off school yesterday.
+PS14B|Yeah Martin's not coming after school today his granny Jean's going to meet him because his mum has to go to Scotland with her work so Trevor has to push the triplets home in the buggy Cos Jim'll be at work he won't be able to give them a lift in the car And granny Jean is going to take Martin home in the bus And Dorothy's bringing granny Iris back down from Scotland with her I think she's probably going to stay overnight.
+PS14H|I'm not I'm just.
+PS14C|Dee dee dee dee dee.
+PS14F|Red two four.
+PS14D|Eight.
+PS14E|You're a ba bug.
+PS14D|Maybe not Amy said I was a bug.
+PS14B|Amy said you were a what.
+PS14D|A bug.
+PS14B|A bug Well come to think of it Rebecca I do see the similarity.
+PS14D|It was off this.
+PS14B|Mm.
+PS14D|It was off the fortune teller.
+PS14B|Oh.
+PS14E|You don't really look like a bug.
+PS14B|She doesn't really think you lo you're a bug then.
+PS14F|Ooh Are these for you.
+PS14B|Oh yes.
+PS14E|You've got a hairy chest.
+PS14F|Hairy chest.
+PS14B|Oh It's got.
+PS14B|Who had the hairy chest.
+PS14F|Me.
+PS14E|Matthew.
+PS14B|Oh yes.
+PS14E|Erm.
+PS14F|Oh yes Oh no.
+PS14B|Well you've got a cough Amy How long have you had that You weren't coughing yesterday.
+PS14E|I was.
+PS14B|Were you I didn't hear you Right.
+KB8PSUN|Where am I looking at Inside.
+PS14F|What.
+PS14E|In there.
+KB8PSUN|Eight.
+PS14B|He saying eight cos that's his birthday.
+PS14E|Is it.
+PS14D|Oh Matthew Stop hitting.
+PS14D|Which colour Ann.
+KB8PSUN|I'll have eight again.
+PS14B|What colour Erm I'll have red.
+KB8PSUN|Green.
+PS14B|What do I do now Choose an number.
+PS14D|Choose a number.
+KB8PSUN|Two.
+PS14B|Six.
+PS14D|Pick a number.
+PS14B|Er.
+KB8PSUN|Four.
+PS14B|five Two.
+PS14E|I love you.
+KB8PSUN|Oh Ooh That's nice to know Amy.
+PS14E|I love Jim.
+PS14D|I hate you.
+KB8PSUN|Only twenty minutes to go then Ann.
+PS14B|Oh Rebecca.
+PS14E|I love Jim I got the opposite.
+PS14B|Love Jim and hate me Right I've got to go upstairs and put my face on very quickly.
+PS14D|Don't make a mess of it.
+PS14B|I'll have to do it quickly Erm.
+PS14E|Check that Rebecca's hand.
+PS14D|Ten.
+PS14B|where was that I was going to take.
+PS14C|Ann.
+PS14B|that upstairs That and that.
+PS14B|Okay.
+PS14H|Right.
+PS14B|Right I'll.
+PS14C|Ann.
+PS14B|I haven't got time to do it again.
+KB8PSUN|Ann.
+PS14B|pet I've got to get ready.
+PS14C|One.
+PS14B|Will you ti put the er.
+PS14B|papers and things that you've finished with bits of paper in the bin please.
+PS14E|What number.
+PS14B|And.
+PS14E|Where's my thingybob.
+PS14D|You've probably picked.
+PS14B|tidy up the rest of the things.

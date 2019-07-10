@@ -1,0 +1,48 @@
+PS05X|What do you fancy drinking.
+PS101|I'm for a lager I think a lager.
+PS05X|Yes yes I agree I prefer it.
+PS101|Lemon chicken.
+PS05X|Lemon chicken stuffed mushrooms Singapore noodles we enjoyed.
+PS05X|Yes I'm sure they were Singapore noodles.
+PS101|We'll have noodles not rice certainly Where are these stuffed mushrooms I can't see them.
+PS05X|Can't remember what they were stuffed with can you.
+PS05X|And bean bean sprouts we had too.
+PS101|and stuffed mushrooms.
+PS05X|Oh yes.
+PS101|Don't let's have bean sprouts.
+PS05X|Alright we won't have bean sprouts How about we have Chinese mushrooms with bamboo shoots.
+PS05X|Seasonal Chinese vegetable with prawns How about that.
+PS101|prawns with stuffed mushrooms Would you like something first.
+PS05X|Not first but what will you'll have a lager.
+PS101|I'll have a lager.
+PS05X|May we have two lagers please So we shall have lemon chicken stuffed mushrooms we had something else didn't we last time.
+PS101|We may have had bean sprouts with noodles.
+PS05X|We had bean sprouts last time yes.
+PS101|Yes but I don't like bean sprouts.
+PS05X|Right But you enjoyed the noodles.
+PS101|Yes.
+PS05X|But there was something else that we had.
+PS101|What we had something more than just the bean sprouts.
+PS05X|We had we certainly had lemon chicken stuffed mushrooms.
+PS101|And noodles.
+PS05X|and noodles.
+PS101|We had something like bean sprouts last time.
+PS05X|Yes I think we did but we also had something else.
+PS05X|Yes we did.
+PS05X|What would you like to have start with.
+PS101|What do you want.
+PS05X|Wan Ton soup.
+PS101|What with vegetables I suppose.
+PS05X|Oh we won't have either of them then Have some Wan Ton soup.
+PS101|What is Wan Ton soup.
+PS05X|All sorts of bits in it.
+PS101|What do you mean by that.
+PS05X|Or do you fancy I can't remember It's a long long time since I had it.
+PS05X|We'd have mixed appetites if you'd given it any thought How about having.
+PS101|Are we thinking about how romantic.
+PS05X|Or why not a Dim Sum Which is a classic Chinese.
+PS101|But we've never had that here.
+PS05X|You had that let's start with Dim Sum Now over here we are short of one.
+PS101|Or have some vegetables.
+PS05X|Alright Alright.
+PS05X|No.

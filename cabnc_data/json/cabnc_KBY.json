@@ -1,0 +1,5210 @@
+{
+    "dataset": "cabnc_KBY",
+    "num_dialogues": 4,
+    "dialogues": [
+        {
+            "dialogue_id": "KBYRE000",
+            "num_utterances": 164,
+            "utterances": [
+                {
+                    "speaker": "KBYPSUN",
+                    "text": "Hi.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Gon na at least stop at Gerald's hasn't he.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh he hasn't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "He has yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh what a pain.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You got that thing on haven't you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I know but don't worry Just keep talking normally.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Wha what what thing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Tt.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Tt.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Came round.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Oh yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "and he just started bloody hell It's erm really stuff who write er can I put the Channel four news on I mean er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "What the ra revelations.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm So he's leaving on Monday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So he's moving on Monday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh that's good.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "while we're all waiting with a cooked dinner he's going to have to go up Gerald's But they've decided that they're pleased with what Gerald's done.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh God.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "so he's got that job all the time now he's working on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Sunday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Super Er looks a erm she said oh am I coming over to see you tonight So she's just rang up her car's gone completely to bits and erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh that's a shame.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "the the ignition's gone on her car and the erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "So it wasn't the clutch then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10H",
+                    "text": "No said the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No she's lost the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10H",
+                    "text": "only fou she got the choke on She'd driven from Newcastle to virtually to with the choke on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So wonder it doesn't stall I did that once.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Cos it's easily done.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "isn't it cos you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "just forget.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "and it doesn't do any harm for a short distance but er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "She got so she get to nearly to her friends and she realised that the she'd left the clutch on Anyway so it's not that But she couldn't get the car started this morning.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So hasn't she been to college today then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah she'd been to college but she couldn't get her car started she had to get her dad to drive her in and pick her up And erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Is she not coming tonight Well she's not coming on Sunday is she because of the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No I said er and she said I'm ever so sorry I said it's okay I just erm you know I don't I'll probably I'm fine on my own I've got things to do and I can watch T V and I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "can and she said oh alright then if you're sure And she went how are you I'm fine She said you don't sound fine I said I'm feeling fine thanks honestly Aargh Mm I just don't want to be treated like you know object of pity or something.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "You're rare because of the way.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Ee Well I'm pretty damn rare that's rind here.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Have you heated the beans up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Ooh no.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Are we having tea with this.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Ooh yes Make some tea.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Is it is this a oh no Anyway so er that's what she said And she said er what about Sunday I said well I really feel I can lead my own company section I forgot Andrea was coming She said well alright then She said how about Ritzi's on Monday I said oh I don't think I could cope with that I don't feel like it anyway.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well doesn't it ma I mean when you do you'll be away with your different groups' points and he'll be.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Makes me angry cos it's you know just.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "A waste.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "without energy But.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "erm oh no just sort of like and like he's being like so considerate now And he's like saying how are you feeling and all that I thought well he could have done it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Should have said er well I think you should go and phone Joe in the morning.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No But you know I felt like saying well you know he could have been a bit more considerate and concerned when we were actually going out with each other.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well it's better to feel than never have felt at all isn't it To me he's an emotional cripple As well as being a bloody idiot to you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "That was more he said.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Was it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "And what did you sa what did you just say He's o like your dad said all through his life the other way around.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "such into the shadows.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You've got to miss the shadow for the po.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "But he's just a bit irritating cos he well you know I do I don't understand how you go through a whole relationship and everything and then come to end of it and not even feel the slightest bit.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well he probably does but he obviously he's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Horrible.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh well you know er we're talking him and she says er something about I said er ooh you know he's hardly ever cried since you got he says Mm That's what he says Course men can't cry can they She said I mean she says I'm not prejudiced here and she says there's obvious exceptions and they're not bad but the majority of them are a waste of time She's given up smoking and casual sex now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well I can perhaps it's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No she says not she says not all men but she says a lot of them have inbred to them that they can't cry and and all that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well it's a macho thing you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "It isn't manly to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "She said that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "to cry.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I think we shall have to start How come bought these mini Snickers for there American ones.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Just cos you get them free I see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No they weren't free for us Just came over and asked what we wanted Going to put them in your stocking then That's the one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "hurls it out of it wouldn't it Or a lousy hairbrush and a can't even remember what the present was it was enthralling.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Right these are nearly ready now but there aren't that many actually but just leave.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Get that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Did you use all the ones up love.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "She's cut.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "them all in twice in in two.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No I I had.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Maybe it might be an idea to get a deep fat fryer somewhere.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You ask Steven I I can't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Steven knows what his parents want You always put a deep fat fryer because.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well I've got to replace that soon They cost about fifteen pounds.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Or twenty five pounds I know it was a cheque And gon na get.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah but then she's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No It's not supposed to be something like modern mind yours'll be.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Do you heat them up under the er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Ah They act as a.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I think so You'd never No it's just.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well I didn't know what the sort of modus operandi is er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Same as.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "you might as well you see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It's cold isn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Right Erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "We've lost all the mats That's my brother Mum I can't find any mats The little round ones They must have been about.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Look at this.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I know you said Somebody gave them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "to you That's nice of her.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yeah You get the er the newest one Mike Oh fine.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well that's the plan isn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yes that's the one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Hey That's a nice.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I shall have to go into the garage tomorrow and get a I've got I was gon na put it up there actually It'll be alright overnight won't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I just.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Excuse me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah I just put a drop of this erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "What time are you working tomorrow Elizabeth.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Nine till one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No I'm just thinking about erm next Tuesday I'm supposed to working it turns out but I shall try and work it so that I can still come shopping with you but I shall have to leave.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Early.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well I've got.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "you know and have a quick browse If we get up early haven't you got any lectures at all on Tuesday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No I just got a teaching thing but it's you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well we could get up there fairly earlyish couldn't we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I'll see what I've got when dear Les comes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Dear Gerald.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh don't be stupid now Elizabeth.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "There's a hole there Because I only said if you cut.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Don't worry there's plenty of bits.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "them all in half there'd be enough to feed the street wouldn't there I looked for one of those sandwich box things for Gerald in Sainsburys and they hadn't got one I think they must be getting.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Perhaps they've only got them in Well do you want me to pick one up while you still go into.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah I'll I'll have one I'll come next time you do the monthly shop I'll get one but I'll make him some biscuits I'll make him some biscuits on Saturday afternoon I think.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well I've er I'll probably go to the other Sainsburys on Saturday ah do you want me to see if there's one in there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I'm glad somebody's appreciating his work.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Maybe this'll be the end the end of Christmas time.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I don't want any of those beans.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "That you're not getting any.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I don't want any beans.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Oh well why not.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I'm almost ready now So do you want to just do those.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yes I will if you want.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Shall I pour the tea then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well I'm sure if whether we're at that stage or not.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh yes Go on then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Erm well leave leave me alone while till I can get the er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Why don't you take that in with some milk And just put it on the coffee table but keep it away from those books.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm Just have a little milk shake.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I'll just take the mugs through shall I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm These are virtually ready now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm Bring the eggs over here and I just take that through there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Get your brother a mug.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well is he coming down Has he eaten.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well I've only got three mugs here.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        },
+        {
+            "dialogue_id": "KBYRE001",
+            "num_utterances": 223,
+            "utterances": [
+                {
+                    "speaker": "KBYPSUN",
+                    "text": "Oh yeah And Moira said she she went into your shop to have a watch strap changed.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "And we haven't got any.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No And they put it on back to front and so she keeps on putting her watch on upside down she goes and I was feeling dead sick and then it realised it was the stupid cow at the shop with.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh Tell her to erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It's broken as well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "The watch or the strap.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "The the little bit which you stick the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Tell her to bring it in if she's got the receipt so th.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Probably hasn't still I don't think.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "open tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Why.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well for emergencies.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "They've brought you a farewell present but they think it's just too big.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "They got nobody.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Don't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Find out tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "That's a pi well when did you find out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "I knew I was going to Stafford for a few days but I don't think I'll be there a fortnight Erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Aha.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "this was I found out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Did Mr tell you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "No sorry I found out tonight sorry no er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Hey Don't put any chips at my lap Thanks mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Yeah so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Whose crinkled chips Mum made them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "And.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Thick aren't they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "crinkle are they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mum says erm they're thinking of investing in a deep fat fryer.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Quiet.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Gerald's mum's got one Borrow there's see what it's like first.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh that's a good idea Ta Mum would like that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Gerald's mum's got a deep fat fryer let you borrow that first see how th ah what they're like.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Maybe she doesn't want to lend it me for.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Yeah use it up though.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "What kind of sausages are these.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "There's a mark on this chair Oh dear There's bread with some butter.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Is there that clothes shop dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yes it looks very nice.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Have you got some trousers.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Yes for me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mrs telling me she really needs this doesn't she Vivien's coming this weekend.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Is she.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "That chap in there's very good as well He were very good.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well what happened was I I rung erm sorry What did you say.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "No it's alri erm I was just saying about.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Opened.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "opened you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well I rung up Mrs she said well she would do them but Vivien was coming and Dave so she'd rather not So I thought ooh Brenda asked her Oh Mrs she said she'd be she would do them but she'd felt absolutely terrified at the prospect because she had a a few years ago cos Gerry never had trousers with turn ups.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Now he's a big boy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "But she would worry about them I mean she would turn them up she would worry So I thought well I can't really ask her I know how she's feels like So I says if we got ta get back to her cos I went to Margaret's funeral Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Derek said how's Elizabeth I said she's alright but it wasn't the ordeal that she thought it was going to be He said well she did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "And what did you say then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Goodbye.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "So saw today Coleen came up to me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mhm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "And she was saying about the she said that it was right wa what was it was quite bad in the car cos you right like laughing joking things like that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well if it's anything.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well Steven's told his mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh dear What did she say.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "What sh what did he say.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I can't remember She says how how's Elizabeth He said well erm or something about reunions and told her And he said she was getting dead pathetic and saying who finished with who Why di why did you finish And all this And he said he just won't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Did he tell her that you finished with him.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Who knows Didn't ask.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "And what she say.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well I he did tell me but I couldn't remember sh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "He will say hello to you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Did you ask him if he'd te told his mum or did he just volunteer it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No I asked him.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Is he okay.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Pardon.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Is he okay.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh yeah He's on top of the world.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well I I'm gon na go out with somebody called Kath.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "It'll happen in his Ford Capri at least once a week.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So yo you don't know what time he's starting do you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Er tomorrow.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Who told you today.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Pass me the erm bread please.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "And what did he say.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I think these chips are slightly thick dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Cor You could stop the door with here.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Pass me the Flora again dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "You have to into the potatoes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "There's a thing called the happy medium dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Cor Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You better find out the train times just in case the weather turns.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah I will do.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Aren't you gon na need the car.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Mm I need to know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I think the main part will be alright cos you'll be travelling down the A thirty four which is erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Good anyway.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "He's better off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It's horrible.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "to go by train.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "In actual fact that car of his being light I mean a front wheel drive will probably be able to and being light probably be better served for getting out of difficult situations than the other cars.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I'm gon na swap Maurice Maurice's got a Citroen.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "What's he got.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Burgundy and cream one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "What a two C V.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mhm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "What who does it belong to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I du n no It belongs to her mum and dad Her mum probably.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "This is good.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "value for money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well I'd love to if I get a choice I would loved to brought a brand new one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well perhaps you will if we start to pay off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "They make up an order.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Ta.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Didn't have much off my mum and dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Oh If you're running around locally and having a cheap motor now Still have to be considered you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Th the they they slow down when there's four people in a full load but.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well that Escort slows down when there's four people in it full load.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well exactly Aren't you gon na eat all of them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No They're too thick and I've got ta my sausages.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "the chips are they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Because we've had to wait for them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I feel I I was quite hungry but the feeling's gone off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well they're nice.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Do you like doorstoppers.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "He made an effort.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I know I was only joking.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "So did I I opened the beans cut the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "That's because.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "cu cut the mushrooms up did the sausages.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Set the table which was unset so I set it again.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Ca I'm going to make some carbonara tomorrow do you want to try some.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Ham and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "And we well we got yeah we got some ham haven't you Or are you would you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "You put bacon actually well this is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "and sultanas.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "nicest recipe Bacon.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "spaghetti cream and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "and cheese.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Cheese.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "cheese egg.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You know the one which mum had.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Oh The erm creamy one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Spaghetti one yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm Okay yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh God.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "You haven't finished.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh Louise absolutely reeked of garlic this morning.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Who.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Louise.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm Has she said anything to you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No She doesn't know yet Well she'll know by now cos Matthew's probably told half the college But she.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "didn't know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "it wasn't like any secret.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "I mean she's not gon na.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So what happened when you going to have the le the lesson were you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well I was already in and he came in and just erm I was here and he just suddenly came round that way and he sat down next to Louise and and he said how are you I said I'm okay You look good or something And then that was it really.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "He chatted to Louise did he.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah Why break the habit of the lifetime eh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Did he.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "What's wrong.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Cracking.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Maybe he didn't.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Maybe Erm and he spoke to me later a bit later we had a row.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "God.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah And then I sa saw him at break.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So he when he came in he could of gone round that way and talked to you or gone round that way and talked to Louise.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I suppose so It's a bit awkward though I mean.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yeah It is really.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "didn't really know how to act.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well didn't like Louise tie him down.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh she stunk She really did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "She could do.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You know when grandma says it gets in the pores It does.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "I like garlic but not in that I could look at that at you all day.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I mean she keeps going through that phase Has Catherine told you when she met Mary Yes she has hasn't she.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mary.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mary.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "That's right yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "After granddad's funeral.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "they Mary I mean she come to the funeral and said she went up to Catherine and she said er oh this is your aunty and said I don't you you see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "That Derek's wife yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm So aunty Edith said I'm Mike's sister And Mrs says this is Elizabeth's friend Ange.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "My adopted friend.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "And Mrs erm got in the and said and I know who you are And le it turned out just because at one point Mary put erm And it turned out that Mary was a big friend of Lisa's big si you know Christie.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You know Mrs nephew Peter.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well vaguely.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Who's got the horrible children.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No No No they aren't Well his wife Christine is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You know that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "and his wife is a big friend of Mary And it turns out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "that Mary er Mary's da one of Mary's daughters and one of Christine's daughters they're at the same college or something they're big friends.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well there you go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yep.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        },
+        {
+            "dialogue_id": "KBYRE002",
+            "num_utterances": 241,
+            "utterances": [
+                {
+                    "speaker": "KBYPSUN",
+                    "text": "Revolting.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Not really It's alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Alright The big bit goes But they.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You don't have chips and sausage and that kind of thing.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "They se they they they them things.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I don't I mean we don't have them much but do we really.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No I but I think a bit it's a bit too fatty for me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "It's a bit too fatty for me actually Anyway I do think we should rethink the deep fat fryer.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I think we should have a healthier lifestyle.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well if you re it's actually good I think you wan na stop it really.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Aha.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "That looks revolting Look at the mess that's made there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "You need to take the lid off Look at that's egg.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Could you bring me another knife I wan na Thank you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Thanks.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Alright I'm gon na.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Got you one of those bone erm one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Are they bone.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well plastic.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Plastic.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh Plasticey.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Did you have that when you were married.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm I feel quite sick now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I do That's why I had an apple.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Did you fly Fry and Laurie last night.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh it was good Never have a lesson with them.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So much.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It only helps at lessons.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "No I'm only kidding.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Found they probably.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh yes That was the one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "I didn't see that one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well it was they had this son this this young lad came erm Stephen Fry was playing part of the the fa.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Is that the hippy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Sorry.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "He asks you something and then when you start to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Sorry Sorry dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "so he was playing the father you see and he asks his son to come into the study and he said but you do realise so er that the Hugh Laurie is the son of his you do realise that you were adopted And he said yes he did and Erm some i i something about a pen knife wasn't it And.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "This is a talisman of Rabbara and things like this.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So he went he went to You're to go to Saffron Walden and then you're supposed to make friends and all this sort of and he went through all this for about five minutes and this lad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "The wise man of the fish.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So he goes out and th and his wife comes in and she's how did he take it He goes oh well yes I think.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I think it worked cos I really.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I think.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "like bugger off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I think it like it worked he said let the lying little sod or something.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Can I have a bit of your apple please Not just a whole one cos I don't want one Thank you mum Saw the bit where it's got like tha that where he's been he said I think it's because I had the I smoked pot or something marijuana once then I got I got busted or something and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Could feed a large family on that chip for a week down in Ethiopia.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You know that erm and of the famine in Ethiopia and they reckon it's gon na kill even more than the one ninety eighty four did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yes They're all too complacent that's their trouble.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "The only thing is at least the civil war is finished so er wo once they get their distribution problem sorted out they reckon sort of.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Erm we're doing all about this in er E D S the other day and apparently from the pictures on the T V at the time everyone thought it was whole of Ethiopia that was starving and it was only actually twenty five percent of the population Because some of the areas are quite prosperous and they've got good farmland.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "They reckon have got the cows on there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No that's the rain forest And erm she bought in all these pictures of erm like Ethiopia like the prosperous parts.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yes but the twenty five percent what they show is pretty horrific wasn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah it was and th erm but it's just saying it's not like that And whe they you see some people are trying to get the opinions of Ethiopia changed cos like everyone seems to pity them and really they should accept them and try and help them but try and help them on like equal terms.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I mean there's er Sudan who and other parts of Africa and Bangladesh they've got er horrendous problems which are equally as bad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Yeah because we're planning on shifting out.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well you got your evening mapped our fairly well have you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "I'm not pessimistic about.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well they haven't I mean all the all the respect.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "As I say it's it's from the to have respectability.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "But you know erm the media at the time you know there's a pic there was a picture of the time of a baby who was starving and screaming.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well they would have showed a wider picture of the actual picture and apparently they take co the photographers had taken a baby away from it's mother he's standing in the middle of a desert and there's a picture of them with a baby and all these photographers photographing it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Sounds a bit like that baby.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh he'll be splattered by a in Doncaster.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "When you get a you get a dozen prisoners who are.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mum we start Wednesday.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "you were pining upstairs.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I wasn't pining.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yes you were.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh fiddle That's particularly dirty word.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh God He's gon na be quoting Fry and Laurie for the next ten weeks like he did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "with Ben Elton.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Is that granddad's watch.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Yeah I put a brand new strap but the new strap was too dark for me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Too tight across the shoulders so I'm gon na have to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Got me a large strap for it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You know if that top that's too tight across the shoulders Can I have it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "You can have it for five quid.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Can't be bothered to buy anything.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I owe you twenty quid.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "I even bought a top Got any money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "One two.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Yeah yeah I've got the money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I owe you thirty pounds.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You said you didn't want it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I did not.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "At the time Do you know what though I need to get some more money for the Devon trip in soon.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I didn't say I didn't want it again I don't want it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I'm not I mean so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "When is that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I could always.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "that Devon trip then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "February.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "What are you going to do there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "God knows Visit a nuclear power station and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh that's interesting.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "and sewage works and things.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Oh the jobbys.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "We did have a.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "Plenty of jobbys.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Did anyone fall in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "We it was when I went to when I we were doing something with maps when I was at school and they were trying to find out what it was the where the local rates where the money was spent for the local rates and one of projects was taken down the sewage works Ooh it smelt It was awful.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "And erm we're gon na go but I paid I've paid the deposit so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "It'll be a case of.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Just the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10K",
+                    "text": "I tell you what.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "But I er i if you like I can pay the thirty pounds and then that'll make us equal.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well let's have a think.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Why.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Do you know what she did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah Oh She's made a big parcel up in the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You don't honestly think that I couldn't help.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "in carbonara do you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No a bit of a stir while I just jump into work.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Alright I'll just put some of my money.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "This is going to be awful.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Tuesday night couldn't we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "And how much is with that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Only about four pounds.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Er one pound.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No cos there's a pound.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Bless you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Bless you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Bless you Mm I see.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Were you you know we do you on erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Were you on work.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "and we can work with this er we for my dad died.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well it came on erm it was coming on while er you know the da the day he died and I went into work.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "And it was coming on then but I didn't think anything of it cos I I hadn't had hadn't got anything to eat all day.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "and I was upset and I thought it was just that but no it was about two weeks before that I went down with it I got my period due Is that one got hole in it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Is that going to be no good.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Have to be careful it hasn't gone off That's okay.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Chuck that one that over for me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Is this off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It smelt terrible didn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yeah well it would help it needs parsley you see in it I haven't got any they wo I couldn't get any fresh parsley so I thought that might just give it a bit of colour but I've got dried parsley if you'd rather use that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well can you chop it up.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Thought I had done Oh Put dried parsley in next time.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I told you see What's all in here I want a little thing to crack into.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mm In there You haven't got ta separate the whites and yo yolks yet have you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh Oh yo blah blah Beat the eggs with the cheese It doesn't say anything about it being separate No Whoops.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I'm not helping you do it I'm determined to this you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I put well it's cos you'll be that's that thing it'll be like prunes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You know with that that looks very creamy with the cream on it Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Put it oh yeah So I actually had to buy the the cheese.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Didn't she realise what a sacrifice when I asked him to make it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It smells alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "That's alright Good.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Pardon.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Good.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "What time is Matthew gon na leave.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Du n no.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Presumably he's telling the girls today is he Something.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Is that to put this in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Er well I'm not sure I haven't made the sponge yet Yeah I think it's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well I'll I'll put it in this one because if it will half smell.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well I'm just trying co cos the cheese has got to go in there as well.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "I know Just to make sure they haven't gone off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well if that's gone off then you just have to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well it hasn't but.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No it would.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "but that one's gone.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "It.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yeah So you put you that ones alright so you put it in there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Okay.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Then you do another one and put that in there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Alright then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Heat the oil and fry the onion and garlic until soft but not browned Add the butter and bacon and fry until crisp Add the and simmer.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Right.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "till it has evaporated Meanwhile.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Have you got that that.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Cup of tea here dad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "cup of tea have I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah it's here.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "It's over there Cook the spaghetti in boiling salt water until just.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Smells alright doesn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Then drain.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "it with some hot water Beat the eggs with the cheese and the parsley and season to taste with salt and pepper Don't forget So I could actually start and do the ba bacon actually couldn't I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Aha.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "There a fair amount of parsley in there isn't there.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "It's only a small piece you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It smells alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You smelt it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Then beat it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Right Two tablespoons of oil so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Is it big enough.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yeah I don't listen to what she does actually She says it's quite nice She said something about she should have added or something but I can't remember what she said What's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Hello Jenny.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Put two tablespoons of in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mary Mary la la la la la.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mary la la la la la la.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mary.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Do we need a salad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "You'll need yes well you'll need a sa.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "We haven't got a proper salad I shall have to start ju shall I leave salad.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Leave salad for now love yes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I got some gravy on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Oh yes we can have some to mop it up yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Er now I asked you the table set haven't I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh Please can you set the table.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Are you going drippy then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No I'm tired.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "No I.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Alright So I'll save this one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Where's the where's the tray.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "That's already through there but it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "has to be set cos your dad was using the table.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh I see Okay.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        },
+        {
+            "dialogue_id": "KBYRE003",
+            "num_utterances": 112,
+            "utterances": [
+                {
+                    "speaker": "KBYPSUN",
+                    "text": "Who are the Cadbury's Creme Eggs for.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh Er I got them Matthews cos he we that's another one pound fifty he owes me To give Mrs for the erm but don't tell anybody that I got them you know Cos.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "To give to Mrs for doing the.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Yeah Well he said can I can you get me three erm Walnut Whips for Mrs and I'll give you money Well they hadn't got any Walnut Whips in Sainsbury's so I bought some eggs so.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Can I take the salt and pepper through or do you need it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh I'll I need that as it goes.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Throw them away That's each.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So what what we do here then Elizabeth is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "The garlic and the onions are done together.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "We'll do those until it's nice and soft as it said.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh sorry Erm Heat the oil and fry the onion and garlic until soft but not browned Add butter bacon and fry until crisp.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "So see so I see so I've got to fry the bacon till it's what.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Crisp You've got to add the butter and the bacon and then fry them until crisp.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well how am I going to get the ba how's how am I going to manage to get the bacon crisp without getting the onions cra brown.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well it says add So presumably you just have it on a low heat I don't know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I think you'll find the bacon will cook erm brown.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mhm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "more quickly than your onions will.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "That's the right amount int.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Pardon me.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "That's on er with the spaghetti You can start on it this year if you like Mike.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Ha.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Awfully sweet of her isn't it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You know I'm sure the bits of bacon isn't brown.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It's not.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "This is the first one.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "It's not.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "The next time I'll just cook it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I don't suppose you got ta remember about all the which you should have I mean they they just er be a a sort of.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I know But they're.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well dad being a peasant well maybe.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Dad sent off some money to the erm Help the Aged hadn't you Mike.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Have you.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "They sent this thing through costs twelve pounds in a third world country to to have a cataract operation.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mhm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "And it's they've sent this piece of plasticey thing just to look through just the same effect as somebody who's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "got cataracts.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Where is it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Been sent off now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "But you haven't you got the plastic or anything.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah the plastic's in the bin actually But no we well I don't suppose they want the piece of plastic back.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "In which bin.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well the one in the erm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "In the living room.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "dining room.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "In the living room.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "It's the one in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Dining room.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "dining room.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh Can I have a go.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Not gon na make any difference to you you're so blind Go on Jen Go on Go on Do you want to go outside.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Sling her out Elizabeth.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Out you go Sherry Oh She's gone out out of her own free will Oh they're terrible Ooh How awful.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Just imagine it's twelve pounds.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "So you sent twelve pounds.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mhm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "You're sure lovely.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Mhm We forgot to do it We can't do this really till he comes in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh He better not go to Cheryl's again.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I think he has I don't he er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "The gammies.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Does it taste alright.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah Fine And Vic sometimes puts mushrooms in his as well doesn't he.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Not always.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Could of done Shall I see if we've got any.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well he doesn't always put them in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well no don't put out the recipe the way it is way and then er add Make sure that works then you can see if.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "So much for creative cookery I should think Ah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Actually there's there's enough liquid in here to stop this going brown.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "That's probably why you have to add the extra butter Oh dear My eyes Losing my.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I'm going to get cross.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Ha She said don't want everybody to.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "And then says Mrs.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "You can have the wine in.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "That's what I like to see no.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Then you say is that right Oh morning Derek You alright Mummy wants her baby boy home.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Still it may be unfashionable to go for the majority anyway.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Have you just eaten Matthew's.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "He's very.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "sandwich again.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "I think he did.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "He's perfectly clean though Can I be mix up the cheese and put the eggs and put the milk.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Well if it looks as though it needs a drop we can always pour a drop in can't we I remember Ida said it needed something but I can't remember what she said.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Well I'll phone her I can ask her if you like.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "No it's okay.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "I know Vic has cream in his and.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "How do you know.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Well it said so on the menu that's why It said the potato had some cream in it didn't it And in the er.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "It's ready now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Let me see it.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "go get some cream Cos that's got ta be done Is it cooked.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah It tastes as though it is.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "See I don't want to get it too wet warm it up in a minute can't we.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm Mm.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10M",
+                    "text": "Is that finished.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Mm them two Alright I'll go upstairs then.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS10L",
+                    "text": "Have you tidied your room up a bit.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS08X",
+                    "text": "Yeah Sort of.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                }
+            ]
+        }
+    ]
+}

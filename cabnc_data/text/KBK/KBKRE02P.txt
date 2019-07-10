@@ -1,0 +1,6 @@
+PS101|Oh you had a good day today.
+PS101|Mm.
+PS05X|bring a I knew there was something else I had to bring fabric.
+PS101|Did you get the library books back.
+PS05X|Not really warm is it.
+PS101|It isn't warm at all.

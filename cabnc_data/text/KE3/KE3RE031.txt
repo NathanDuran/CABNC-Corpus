@@ -1,0 +1,12 @@
+PS0V6|Mum.
+PS0V5|Hello.
+PS0V6|Can you do my coat for me.
+PS0V5|Pardon.
+PS0V5|Take everything out the pockets and then.
+PS0V6|Okay.
+PS0V5|do the buttons and the zip up Will you.
+PS0V6|Yeah.
+PS0V4|Better bring my book up to date I've.
+PS0V5|See what I mean about that skirt.
+PS0V4|Yeah.
+PS0V5|It's horrible.

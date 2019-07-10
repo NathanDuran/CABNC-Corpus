@@ -1,0 +1,8 @@
+PS05X|Not a lot of people in the park Where'd they go.
+PS101|I'm not surprised in the park.
+PS05X|Whoops bad luck your toe.
+PS101|Oh dear hurt me.
+PS05X|Why won't you go to the chiropodist.
+PS101|Because I keep bumping them it's got nothing to do with the chiropodist.
+PS05X|I can get you some army boots.
+PS101|Bumped my toe this morning.

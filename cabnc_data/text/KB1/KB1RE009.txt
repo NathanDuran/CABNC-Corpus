@@ -1,0 +1,46 @@
+PS01A|Any cough mixture.
+PS01J|Coffee.
+PS01A|Cough mixture.
+PS01J|Oh It's over here love.
+PS01A|Oh.
+PS01J|We don't have it.
+PS01A|Don't you Eh up You alright.
+KB1PSUN|Are you alri yes Are you.
+PS01A|Ooh Champion Champion.
+KB1PSUN|Ta love.
+PS01A|And er some cough mixture then.
+PS01J|Which one do you want.
+PS01A|Have you have you got Venos.
+PS01J|Yes For dry or chesty cough.
+PS01A|Er not Ven not Veno er Vic.
+PS01J|Vic yeah Yes we have.
+PS01A|Chesty And I'm in bed yesterday and she's in bed today.
+PS01J|Oh dear.
+PS01A|Going through it.
+PS01J|Tall size that one.
+PS01A|That'll do it yeah.
+KB1PSUN|Tammy's not well.
+PS01A|Is she got it and all.
+KB1PSUN|Mm.
+PS01A|Yeah.
+KB1PSUN|Yeah she she's down at Bath Ooh She's full of it She's been like it all weekend I think.
+PS01J|Two pounds forty one love.
+PS01A|It er it comes on you all at once.
+KB1PSUN|Oh it does Just hits you.
+PS01A|You know you.
+KB1PSUN|Yeah.
+PS01A|whoop And yo.
+PS01A|I was right as rain other day and then.
+KB1PSUN|And then.
+PS01A|yesterday I were in bed all day I couldn't move.
+KB1PSUN|Yeah.
+PS01A|And yet today I'm.
+KB1PSUN|Yeah.
+PS01A|hundred percent better.
+KB1PSUN|Yeah.
+PS01A|Queer int it.
+KB1PSUN|Mm.
+PS01J|Mm.
+PS01A|That's how it goes though See you later.
+KB1PSUN|Tarrah love.
+PS01A|Tarrah.

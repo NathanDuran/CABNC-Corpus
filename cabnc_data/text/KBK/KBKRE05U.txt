@@ -1,0 +1,22 @@
+PS101|This is the dress I'm thinking of taking from erm Marks Do you think it suits me.
+PS05X|Is it possible to wear it with a belt Or.
+PS101|There isn't belt.
+PS103|How.
+PS05X|Are you having second thoughts about having it dear.
+PS101|I'm not so hundred percent certain it's not one of those things that I think.
+PS05X|Right Well I what I think Suzannah and I are both genuinely in favour.
+PS101|Definitely that's what I want.
+PS05X|No I think Suzannah and I are genuinely in favour.
+PS103|What would you wear as an exit.
+PS101|Does it need to be a high neck sort of thing.
+PS05X|Well not necessarily it could have some loopy beads or something couldn't you.
+PS101|What colour.
+PS05X|Brown blue yellow red.
+PS101|Any of those colours.
+PS103|Colour coordination himself.
+PS05X|and a boop boop boop boop to you too.
+PS05X|What what jewellery colours can mum wear with that.
+PS101|But I like to wear a little jewellery.
+PS05X|Yes and the children like to see it I mean a little elephant brooch or something Have you still got that other elephant belt that tan one.
+PS101|Cream one you mean.
+PS05X|Cream one yes.

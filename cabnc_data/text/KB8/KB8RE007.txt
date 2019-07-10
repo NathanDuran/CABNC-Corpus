@@ -1,0 +1,688 @@
+PS15C|Please Richard Please Richard Please stop jumping on the chair arms will you.
+PS14P|Yeah.
+PS15C|You don't jump on chair arms.
+PS14B|That was your daddy James and Richard and Bryony Your he's he's er he's going to try to leave school earlier today and he'll be here at half past four instead of quarter past five So I'll just drink my coffee and I'll get your tea ready quickly.
+PS14D|Richard you've got ta set the table.
+PS14B|Richard let me wipe your nose again Keep still.
+PS14B|Don't move your head around.
+PS14P|I'll eat it up.
+PS14B|There you are Right let me drink my coffee quickly and then get their tea ready.
+KB8PSUN|James.
+PS14B|Oh gosh I'm going to be drinking cold coffee here aren't I.
+PS14B|You can you slow downD' ya know Rebecca.
+PS14B|Oh dear.
+PS14E|What you gon na do.
+PS14B|Rebecca made me a cup of coffee ages ago.
+PS14M|I didn't really mean it.
+PS14B|and I'm never going to get it drunk.
+PS15C|Oh Oh.
+PS14B|Right.
+PS15C|Oh Oh.
+PS14B|Are you in the aeroplane now.
+KB8PSUN|Yo.
+PS14B|Oh.
+PS14B|You're what You're bad guys I know that.
+PS14D|Good guys.
+PS14B|you don't have to tell me you're bad.
+KB8PSUN|Yeah.
+PS14B|guys.
+KB8PSUN|I'm being a bad guy.
+PS15C|Is that Rebecca You keep swallowing.
+PS14D|Amy.
+PS14B|Who's doing anything.
+PS15C|You did that.
+PS14B|exciting this weekend.
+PS14M|Me.
+PS14P|Not me.
+PS14B|Not you.
+PS14E|We've got to sit at the back.
+PS14B|What are you doing.
+PS14D|Nothing.
+PS14B|You're not doing anything.
+PS14B|Can Amy catch this aeroplane.
+PS14P|Ah.
+KB8PSUN|You can.
+PS14D|That there was a mighty splash.
+PS14B|He'll he'll tell you what's next He please come out of that drawer will you.
+PS14B|That's right There was a mighty splash and he fell head first into the river and he didn't come up again That's exactly right You know it word for word Every time I say what which story shall we have today they say the Three Billy Goats Gruff.
+PS14M|Get off.
+PS14B|It's exactly.
+PS14B|the same.
+KB8PSUN|I don't need you.
+PS14B|Exactly the same as when I used to look after.
+PS14B|Amy and Richard Here's your mum.
+PS14M|Amy and Richard.
+PS14B|Here's your mummy Amy and Richard.
+PS14M|Amy mummy.
+PS14D|Just he's going.
+PS14M|Here's your mummy.
+PS14B|OhD' ya know I've wiped washed this floor three times from this orange spilt.
+PS15C|Seventeen one eighty fives Thirty one.
+PS14B|Can't be bad cos I couldn't work it out.
+PS15C|Don't ask me.
+PS14B|Do you want a calculator.
+PS15C|I did it twice in my.
+PS14P|Mum.
+PS15C|head.
+PS14P|Mum.
+PS14B|Thank you.
+PS15C|Thank yo thank you very much.
+PS14P|What what did she say to you.
+PS14B|She's trying to work money out.
+PS15C|Oh.
+PS14B|in her head Move over please Rebecca I need to sweep there dear.
+PS14B|Let's have a look.
+PS14B|I'll just come over here cos this is hot.
+PS14M|No you want it.
+PS14P|No Oh no We want it in soup cups.
+PS14M|Get your.
+PS14P|No.
+PS14B|Yes you want it in soup cups You can have it in soup cups.
+PS14B|Do not worry I'm stirring it to make sure it's hot enough Warm enough.
+PS14P|Don't worry.
+PS14B|I'll have to though I've got a clean spoon.
+PS14N|I don't want a spoon.
+PS14D|Erm.
+PS14B|It isn't warm enough yet.
+PS15C|Go on Just taste it.
+PS14N|I didn't want the soup.
+KB8PSUN|Yes yo.
+PS14N|warming.
+PS14B|Yes you want you don't want cold.
+PS14D|Are you go are you gon na get me a spoon.
+PS14B|soup it's a cold day.
+PS14N|No.
+PS14B|Let's see Have you got your sleeves pushed up.
+PS14M|That ready.
+PS14B|We don't want soup on your sleeves.
+PS14M|That ready.
+KB8PSUN|Do mine.
+PS14B|Have you.
+PS14P|Mum.
+PS14B|Oh These are Amy's papers aren't they.
+PS14E|Yeah.
+PS14B|There you are.
+PS14E|Ee ee ee ee.
+PS14B|That's it.
+PS14N|I've got my.
+PS15C|What are you doing.
+PS14B|I I'll I'll cut that in two Wait a minute I'll cut it in two It's too big.
+PS15C|With a bit of luck.
+PS14B|Here you are Sit on your chair There's a piece of stottie for you And there's a piece of stottie for you.
+PS15C|Wave to Ann now.
+PS14P|Ann.
+PS14B|Richard Bye Amy.
+PS15C|Bye.
+PS14B|Bye Andrea.
+PS15C|Thank you.
+PS14B|Cor I'll have to give this floor a wipe again My shoes are sticking to the floor.
+PS14B|Where there's orange been spilt.
+KB8PSUN|Mm mm.
+PS14B|Oh.
+PS14B|Where's Bryony gone Bryony come and have your tea pet Your dad's coming at half past four Well as near as half past four he can That means he'll be quarter to five.
+PS14D|Why's he early tonight for.
+PS14B|Well Dorothy had to go to a prison in erm Clackmannan for her.
+PS14D|Mm mm.
+PS14B|you know with her job.
+PS14D|Yeah.
+PS14B|and while she's up there after she's been there she was going to Creep to spe.
+PS14D|What does she do again for.
+PS14B|Probation Officer.
+PS14D|Oh.
+PS14B|She's going to spend the night with her sister.
+PS14D|Yeah.
+PS14B|and then pick her mother up cos she lives in Creep as well she can't stay at her mother's house cos she's just.
+PS14D|Oh.
+PS14B|got a one bedroomed flat.
+PS14D|One bedroom flat.
+PS14B|Yes Anyway she's I think it's an old people's flat She's got she's gon na pick her mother up and come back home bring her mother back home tomorrow with her.
+PS14D|Mm mm.
+PS14B|And.
+PS14D|Is that Martin's granny Iris.
+PS14B|That's right.
+PS14D|Mm mm.
+PS14B|And she's going to stay for a fortnight with them So bu Bryony Your tea come and have your tea What's she doing.
+PS14D|Watching television.
+PS14B|Come on square eyes Never mind the television Oh Golly This floor's sticky everywhere You must have spilt more juice than I wiped up.
+PS15B|Mm Come on Bryony.
+PS14N|Okay.
+PS14B|Never mind by the time.
+PS15B|Bryony.
+PS14B|I've wiped this I'll have washed the whole floor.
+PS14B|I won't need to do it tonight I'll get some knitting done Seeing as I haven't any ironing to do.
+PS15B|We're not gon na have.
+PS14B|See if that's better.
+PS15B|Urgh You're not gon na be going before tea are you Bryony.
+PS14B|See if this soup's warm enough now.
+PS14N|Has she really got.
+PS15B|She's just gon na.
+PS14N|No.
+PS15B|she keeps on running.
+PS14B|She.
+PS15B|away from me.
+PS14B|she's not very well Sally She's not well.
+PS15B|Ah.
+PS14B|She's not even very we she's got a quite a bad.
+PS15B|Have you got a cold Keeps on laughing at me and running away.
+PS14B|Oh Come on horror.
+PS14N|I'm not one I'm.
+PS14B|Are you our horror.
+PS14N|Not a horror.
+PS14B|You're not a horror What are you.
+PS14N|I'm not erm.
+PS14B|What are you You are the best.
+PS14N|girl in the world.
+PS14B|That's right The best.
+PS14B|girl in the world Sally.
+PS14B|We told her that once she started going to the loo every time.
+PS14B|There you are sh oh where's your cushion You can't reach the table without your cushion.
+PS14M|I want some more stottie.
+PS15B|Here it is.
+PS14B|You want some more stottie Well that's no way to get any is it Try again.
+PS14M|Me.
+PS14B|May.
+PS14M|I have some more stottie please.
+PS14B|That's a good boy You like.
+PS14M|Thank you.
+PS14B|stottie don't you Do you know when I go stay with my Gareth I've got to so we've got to take stotties with us.
+PS14B|for him and Shirley Cos they Shirley loves it as well And Shirley's not a Geordie like you A Geordie hinny.
+PS15B|Mm.
+PS14B|Oh There's a knot in your apron.
+PS14M|I I want some more stottie please.
+PS14B|Good boy Just a sec.
+PS14M|May I have er some more stottie.
+PS14B|You certainly may Clever boy.
+PS14M|Mm.
+PS14B|Just wait one minute.
+PS14M|Look a tree.
+PS14B|Cos your brother's apron's got a knot in it.
+KB8PSUN|Please can I have some stottie please.
+PS14B|You may.
+PS14M|That apron alright.
+KB8PSUN|Me Yeah.
+PS14M|That apron alright.
+PS14B|Yes his apron's alright now You need your sleeves up.
+PS14B|And you need it fastened a bit higher.
+PS14M|I want my stottie.
+PS14B|Yes it's coming It's coming.
+PS14M|I want it.
+KB8PSUN|I.
+PS14B|It's coming There you are.
+KB8PSUN|don't like it.
+PS14M|Can we have some more stottie please.
+PS14B|Yes Here you are.
+PS14D|I want to go.
+PS14B|There now.
+KB8PSUN|Thank you.
+PS14B|Clever boy Oh What polite children we've got Haven't we.
+PS14D|There's another.
+PS14M|Can I have.
+PS14B|Mm We couldn't see the swans today Sally Were they.
+PS15B|I couldn't see them either.
+PS14B|Which way did you come home.
+PS15B|Erm the.
+PS14B|Oh And the Skillery Bridge isn't washed away is it.
+PS15B|I know But there's two.
+PS14D|Except under the bridge it was.
+PS15B|erm trees.
+PS14B|But who who started.
+PS15B|under there.
+PS14B|the rumour that Skillery Bridge had been washed away.
+PS15B|It was Stephen.
+PS14B|Yeah but then dad said when he came in that he'd heard that the middle of it had gone.
+PS15B|What Stephen came in our class and he said that er Skillery Bridge had.
+PS14B|And who said the flood wall had gone When you were all sent home early.
+PS15B|Er er I think he said that as well.
+PS14B|Ha One way of getting out of school I don't know.
+PS15B|He did He di he did.
+PS14B|Said that as well.
+PS15B|And and none of his parents came to collect him He just walked by himself.
+PS14B|Were you only collected Could you only come out if your parents collected you.
+PS15B|No I didn't think they were bothered to tell you truth.
+PS14B|So how did you manage to get out early.
+PS15B|Well it was well Dawn's mum came into school she said we were.
+PS14M|I want one.
+PS14B|Oh But er nobody rang me.
+PS15B|Mm.
+PS14B|I don't think I was out I mean I would have come up and.
+PS14M|I've got a soup.
+PS14B|and got you all.
+PS14M|Have I got all my soup.
+PS14B|You have yes You like that soup don't you.
+PS15B|I don't know how she came in the school Sh she just came in She got this pen and paper and wrote everybody's names down mm mm so then she just.
+PS14B|I didn't re.
+PS15B|took them all out.
+PS14B|I didn't realize I would have thanked her I've seen her twice since then.
+PS15B|Mm mm.
+PS14B|I didn't I didn't realize that erm.
+PS14N|I wan na do something in my chair.
+PS14B|Right Let's find some spoons One.
+PS15B|You love stottie cake.
+PS14B|two.
+PS14N|Two three.
+PS14B|three ee ee.
+PS14B|There's a spoon for Bryony One for James And one for Richard Are you going to swap hands Richard.
+PS14P|I'll cross hands.
+PS14B|You've you've got it in.
+PS14B|Oh You're going to be right handed today are you.
+PS14P|I'm not trying to use both hands.
+PS14B|That's first time I've seen Richard use his right hand With his spoon.
+PS15B|Who's this coming.
+PS14B|Matthew here's your daddy Mummy's coming back for you two.
+PS15D|Hello.
+PS14B|Right then Hello.
+PS15D|Feeding time.
+PS14B|It is.
+PS15B|There you go you can speak to yourself You're pretending that you're speaking to somebody and just speak all the time.
+KB8PSUN|I don't.
+PS15D|You can't find your what.
+KB8PSUN|Find my shoes.
+PS14B|Well.
+PS15D|You can't find your shoe You've probably.
+PS14B|they're eating better than they did at dinner time.
+PS15D|The triplets will have eaten it.
+PS14B|What.
+PS15D|A shoe.
+PS14B|That wouldn't surprise me at all the things I've seen them try to eat.
+PS15D|Nope.
+PS14B|Erm.
+PS15D|I'll let I'll let you figure this one out.
+PS14B|Is it four four times Monday he didn't come Tuesday he didn't come.
+PS15D|Wednesday he didn't come.
+PS14B|Wednesday he didn't come.
+PS15D|Thursday was about.
+PS14B|Thursday.
+PS15D|he did.
+PS14B|I did two sessions So that's five from ten.
+PS15D|I didn't think I could be.
+PS14B|Well I know what you mean.
+PS14M|Could I have some more stottie.
+PS14B|I ha.
+PS14M|cake please.
+PS14B|I haven't been up there since I got in from school.
+PS15D|Aha.
+PS14B|I haven't checked with the so in just in case they don't.
+PS15D|Right.
+PS14B|see it.
+PS15D|Okay.
+PS14B|they had they've been telling everyone to go home.
+PS15D|Right.
+PS14B|Now then ooh You're eating very very nicely.
+PS14N|I I want some more of that er please.
+PS14B|Er don't wipe your se hang on a minute till I catch this soup that's dribbling down You want some more stottie cake.
+PS14N|I do.
+PS14M|I I got more of this soup.
+PS14B|You have yes.
+PS15B|Yeah.
+PS14M|Yeah.
+PS14B|Is it delicious.
+KB8PSUN|Scrumptious.
+PS14B|Scrumptious.
+PS14M|It's dripping all over the place.
+PS14B|It's dripping on the table is it There's your stottie Bryony.
+PS14B|There you are James.
+PS14P|Please can I have some more.
+PS14B|Yes you may.
+PS14P|Please.
+KB8PSUN|He he says he'll eat this.
+PS15B|Oh.
+PS14B|There you are Richard Thank you.
+PS15B|Thanks Ann.
+PS14P|Thank you Ann.
+PS14B|Good boy.
+PS14P|Thank you Ann.
+PS15B|Good.
+PS14B|You're welcome.
+PS14M|Orange juice He's got orange juice in it's got orange juice in it.
+PS14B|Your cup's got orange juice in it has it Have you got everything Matthew.
+PS14F|Thank you.
+PS14B|Do you think I'll be able to put my wellies away now.
+PS15B|Away I think Bryony likes erm Smarties because she's always sucking the juice out of beans.
+PS14B|I'm just going to I think I can put my wellies away now.
+PS15D|You nearly needed your waders I tell you.
+PS14B|Well we were getting worried.
+PS15D|You'll get I'll bet you were getting.
+PS15D|Okay Thanks a lot.
+PS14B|Bye Bye Matthew.
+PS15D|Bye.
+PS14B|Right Oh I was gon na put the television off but Rebecca's still in there Rebecca is Joanna coming tonight Or is she going to library.
+PS14D|I think she'll be.
+PS14M|Oh look.
+PS14D|going somewhere because.
+PS14B|I think.
+PS14D|it's twenty past four now.
+PS14B|Mm Yes Well it's quarter past already Why are you eating this Bryony You don't eat And Richard's decided to be after all this time Well that is daddy's isn't it.
+PS14P|I'm not spilling it too I'm not spilling too.
+PS14B|No you're not spilling it You're being very careful.
+PS14P|Yes.
+PS14M|But.
+PS14P|Can you drink it.
+PS14M|but but I'm making it very hard.
+PS14B|Can you drink it.
+PS14P|No.
+PS14B|Take your spoon out of this.
+PS14P|He's got it on his face.
+PS14B|cup.
+PS14P|He's got it on his.
+PS14B|No.
+PS14P|face.
+PS14B|Put that there Who's got it on his face He's got moustache Right Carefully with two hands then.
+PS14M|I want the spoon.
+PS14B|You need your spoon Oh There it is Wait a minute now we'll just wipe that on this off the table so it doesn't go on your sleeve That's it.
+PS14P|There's some on my arm.
+PS14B|There's some on your arm is there Hang on a minute then Let me see Is it off.
+PS14P|It is.
+PS14B|That's good That's why we push your sleeves up cos we don't want it on your arms do we.
+PS14P|Erm hands.
+PS14B|On your hand There you are then It's off.
+PS15B|What are they having for their pudding.
+PS14B|Er er.
+PS15B|Richard's got it all over his face.
+PS14B|Let's see you Richard Yo oh just a minute it's dripping down your chin Let me get it off here so it doesn't go on your collar Lift your chin up cos your collar's got out of your pinny somehow or other Let me wipe it down here look It's on the edge of the table That's it That's it.
+PS14P|And on my.
+PS14B|Oh well you'll ha if you keep getting it on your fingers just eat it up and I'll wash you when you've finished As long as it's not going near your sleeve it doesn't matter.
+PS15B|Shall I I want to stir it.
+PS14B|Oh Girls What are you doing.
+PS15B|Stop that now.
+PS14B|Look don't mess about Daddy's coming early for you today.
+PS15B|We've got these in our house.
+PS14B|Those.
+PS15B|Those.
+PS14B|These.
+PS15B|soup like soup like things.
+PS14B|Well you know where I got them from When er.
+PS15B|I du n no.
+PS14B|you probably got them from the same place They were free with petrol.
+PS15B|Oh.
+PS14B|And when Paul had his taxi business.
+PS15B|Betty gave us them.
+PS14B|Betty Betty gave you yours Betty gave me mine.
+PS14B|They use so much petrol on a taxi business they got she's got about a dozen still I think She gave me five I think it was.
+PS15B|It's those that's the same.
+PS14B|Well I think Jim got one and I got five Erm Betty gave me five I meant.
+PS15B|I think we've got about four or five.
+PS14B|Richard Properly please.
+PS14P|And there No.
+PS14B|Do you want some help Anyone want some help.
+PS14B|Well you're getting nowhere doing that Come on I'll help you.
+PS14P|I want to do that.
+PS14B|Well well do it properly then Look if you hold the handle you can tip it tip it up Like like that.
+PS14P|Mm mm.
+PS14B|it Bryony's going to drink hers.
+PS15B|Mm I like that smell.
+PS14B|Do you.
+PS15B|Mm.
+PS14N|My er.
+PS15B|Was it good washing with that Bold al Bold all in one.
+PS14B|Erm.
+PS15B|Don't slurp it Stop it.
+PS14B|I didn't think it was really much better than any.
+PS15B|Mm mm.
+PS14B|item used Are you finished Bryony.
+PS14N|I'm finished.
+PS14B|Are you going to eat your stottie.
+PS15B|That's that's you keep on eating.
+PS14B|Don't Right That's to go home with Trevor Has Bryony got her other shoe back on again by the way does anybody know.
+PS15B|Erm nope She's got a bare foot and sa a shoe on.
+PS14B|Shall I take that off you.
+PS14N|Yeah.
+PS14B|now you've eaten.
+PS14B|all that Good girl Give me your spoon Give me your spoon.
+PS14N|Thank you.
+PS14B|Clever girl What a clever girl And you're a clever.
+PS14N|Look at those two.
+PS14B|Pardon.
+PS14N|No look at those two.
+PS14B|Look at those two Yes They're being good boys.
+PS14N|They're good boys.
+PS14B|aren't they Well.
+PS14N|there.
+PS14B|look at the sun shining again.
+PS14B|Hooray.
+PS14P|What.
+PS14N|It's not dark yet.
+PS14B|No it's not dark yet It it's springtime now It was dark when you went home in the.
+PS14N|It's light time.
+PS14B|winter.
+PS14N|It's light time.
+PS14B|It's light time is it.
+PS14N|Light time.
+PS14B|It's the day time.
+PS15B|Oh.
+PS14N|Mm.
+PS14B|It gets dark later now Cos it's springtime now And James has so soup on his sweatshirt.
+PS14M|Mm.
+PS14B|Keep still a minute while I wipe you.
+PS14M|No that's that you don't.
+PS14B|It's because.
+PS14B|James will not sit straight at the table he sits.
+PS14B|sideways.
+PS14N|I know.
+PS14B|Don't you.
+PS14M|I don't.
+PS14B|Oh yes you do.
+PS14B|Oh yes you do.
+PS14M|No I don't.
+PS14B|Oh Yes you do.
+PS14M|No I don't Yes you do.
+PS14B|That's not what you're supposed to say Richard'll tell you what you're supposed to say You do it Richard Oh Yes you do.
+PS14P|Yes you do.
+PS14M|I don't Richard.
+PS15B|Do you want him to have this.
+PS14B|And what do you say.
+PS15B|do you Anne.
+PS14B|What.
+PS15B|You didn't have this one before.
+PS14P|No.
+PS14M|You go.
+PS14B|No I said that You look as if you've been washing your face in soup.
+PS15B|Do you want that one.
+PS14M|Oh oh.
+PS14B|Thanks Sal.
+PS14B|Sally be careful Oh you've got your sock off as well Not Sally Bryony I'm calling you Sally Aren't I silly.
+PS14N|I'm not.
+PS15B|Yeah.
+PS14N|Sally.
+PS14B|You're not Sally are you.
+PS14N|I said I'm not Sally.
+PS14B|I'll go and I'll go and find your can anyone see Bryony's sock Oh there it is And where's her shoe Right Right Let's put your shoe and so.
+PS14N|That's my shoe.
+PS14B|Put your shoe and sock back on.
+PS14M|Ooh Bryony.
+PS14B|Very good Thank you James Good boy Give me your spoon.
+PS15B|Let me see you take it off.
+PS14B|Thank you.
+PS14M|Ooh It's not here.
+PS14B|Have you finished with ooh no not quite Richard.
+PS14P|Not finished Not finished now I want to do it.
+PS14B|Well I'll he look it's difficult to get the last bit out of soup cups I'll help you You do it then Here you are I'll tip.
+PS14B|wait a minute look you've got some on the table you don't want your sleeve in that.
+PS14P|I don't that bit there.
+PS14B|You don't want that piece Right let's sling it on the garage roof for the birds Here you are stuggies Wo.
+PS15B|For the birds.
+PS14B|I hit it Right from the back doorD' ya think.
+PS14P|It's the.
+PS14B|I'm brilliant.
+PS14P|I give it the birds.
+PS14B|Er wait a minuteD' ya want a.
+PS14M|I think you brilliant.
+PS14B|You think I'm brilliant That's good Do you want something else to eat.
+PS14P|I do.
+PS14B|Well sit back at the table please Don't get off your chair until you've finished.
+PS14P|I sit there.
+PS14B|Let's see what I've got.
+PS14P|I want.
+PS14B|Let's see what I.
+PS14M|No.
+PS14B|can find for you.
+PS14M|Aargh Aargh Aargh.
+PS14P|Urgh.
+PS14B|Do you want one of these.
+PS14P|I do.
+PS14M|I want one of them please.
+PS14B|Say yes please.
+PS14M|I don't.
+PS14P|Yes please.
+PS14M|want one.
+PS14B|You don't.
+PS14M|No I don't wa I this one.
+PS14B|There you are.
+PS14P|I want a green one.
+PS14B|You wanted the green one What.
+PS14M|Yeah.
+PS14B|colour have you got James.
+PS14P|I want a green one.
+PS14M|lellow one.
+PS14B|Yes you've got yellow.
+PS14P|I want green.
+PS14B|There's one for you Right Let's see.
+PS14P|I I get there you are There you are There you are.
+PS14B|I thank you Give me yo.
+PS14D|Ann can you look look a colour one for me.
+PS14B|See what colour's in here for you then.
+PS14N|You got a red one for me haven't you.
+PS14B|What love.
+PS14P|Here you are.
+PS14B|Thank you.
+PS14N|Oh.
+PS14P|One for her and none for.
+PS14B|I have to get the packet open first It's difficult Where's my sharp knife.
+PS15B|I'm gon na get you.
+PS14B|Here we are What colour ra what colour Richard.
+PS14P|It's er er er erm.
+PS14B|What colour is it.
+PS14P|Green.
+PS14B|Yes.
+PS14P|Green.
+PS14B|Another green one There you are Richard Now where have I put the cloth Here.
+PS14B|I keep losing things don't I.
+PS14M|We've lost one I've lost one.
+PS14B|Lost one what.
+PS14M|Lost er.
+PS14B|What have you lost one of.
+PS14B|Let me just wipe your hands and your chin before you wipe them on your sleeves What are you doing down there Bryony Get back on th.
+PS14P|I dropped it I got it.
+PS14B|What did you get.
+PS14P|I got it.
+PS14M|Can I have another biscuit please.
+PS14B|You got what.
+PS14P|I got my chocolate biscuit back.
+PS14M|Well I got you gre got another green one haven't you.
+PS14B|You want me to open that.
+PS14P|I don't wan na I'll do it I want you to leave it open.
+PS14B|Do you want it opening.
+PS14P|I just want you to leave it in.
+PS14B|You want it leaving in.
+PS14P|I want it leaving in.
+PS14B|Don't you want to eat it.
+PS14P|I can still I can still eat it inside.
+PS14N|My shoe come off.
+PS14B|You mean you want the wrapper leaving on it Oh.
+PS14N|My shoe come off.
+PS14B|I know I'm going to put your shoe on any second.
+PS14M|I want the wrapper on.
+PS14B|Do you mean like this Richard.
+PS14P|I want.
+PS14B|Is that what you mean.
+PS14P|the wrapper on.
+PS14B|There you are.
+PS14P|On it.
+PS14B|Right Bryony I'll put your shoe on now.
+PS14P|That's a.
+PS14B|Come on then It's your other foot Bring your foot round carefully That's it And who's coming to see you tomorrow.
+PS14N|Daddy.
+PS14B|No daddy's coming in a minute for you Who's coming to see you tomorrow.
+PS14N|Mummy.
+PS14M|Daddy.
+PS14B|Yes mummy's coming back from Scotland but who's she bringing with her.
+PS14N|Granny Iris.
+PS14M|Granny Iris.
+PS14B|Granny Iris.
+PS14N|Yes.
+PS14B|Won't that be lovely And your Granny Jean had a lovely holiday She went over the sea in an aeroplane didn't she.
+PS14M|What.
+PS14B|To Jordan.
+PS14M|I'm going on today.
+PS14B|And she went to Egypt at the end of last year South America Goes on lots of holidays doesn't she There now Are you finished James.
+PS14P|Go going on holiday.
+PS14P|again.
+PS14B|My goodness You've filled your mouth too fu.
+PS14P|Going on holiday again.
+PS14B|Mm mm Keep still.
+PS14M|I've nearly finished.
+PS14B|You've still got that lot.
+PS14B|Do you want some milk James.
+PS14M|Yeah I want.
+PS14B|Pardon.
+PS14M|Yes please.
+PS14B|Better Where's your cup gone Here.
+PS14M|Erm.
+PS14B|I'll get you some milk.
+PS14M|A I er I don't want erm finish my bun.
+PS14B|There you are dear Drink some milk Richard now.
+PS14P|I oops.
+PS14B|It's lovely and sunny now.
+PS14P|I want cold milk Don't want it warming do I.
+PS14B|No There you are Thank you.
+PS14M|I big boy I need the toilet.
+PS14B|You need the toilet A wa.
+PS14M|I say I've got a wa well I I don't I but er I didn't er I will get washed.
+PS14P|I'll take the.
+PS14B|Yes You need to be washed first.
+PS14M|Mm.
+PS14B|Let's wash your face quickly.
+PS14M|I will.
+PS14B|then then we'll go to the toilet.
+PS14M|Erm I will walk on the back erm.
+PS14B|Let's see your hands.
+PS14P|I need the toilet I need.
+PS14B|You need the toilet as well.
+PS14P|I need a poo please.
+PS14B|Oh right.
+PS14M|I need a wee.
+PS15B|If they need the toilet.
+PS15B|I'll take them.
+PS14B|Oh thanks Sal.
+PS15B|You need the toilet James.
+PS14B|Just a minute.
+PS14M|Erm.
+PS14B|I'll take it off for you.
+PS14D|And I'll take them too cos I'm gon na go as well.
+PS14B|Oh Rebecca needs the toilet as well.
+PS15B|You can take Richard up cos I'll take James.
+PS14B|She's going to take you I don't think James ne Richard needs to go it's it's.
+PS14D|No.
+PS14B|er James Sit down there you do ne ne don't need to go yet do you.
+PS14D|Wait Sal.
+PS14M|Sal.
+PS14B|Wait a minute.
+PS14M|Mm mm mm.
+PS14B|It isn't loose enough it won't go over your head.
+PS14M|You look after er Amy.
+PS14B|Look after Amy Amy's gone home.
+PS15B|Amy's gone home.
+PS14M|Look a.
+PS15B|You.
+PS14B|Amy and big Richard and Matthew have all gone.
+PS15B|Yeah.
+PS14B|home now.
+PS14M|But they didn't you won't get Richard.
+PS15B|Come on then Come on then.
+PS14B|Er Richard You're not going upstairs in a mess like that you'll stick your hands on everything you come to Let's get you washed Are you going to finish eating that first You sit there and finish eating that and I'll wash your hands.
+PS14P|I've eaten all up.
+PS14B|You've eaten it all up.
+PS14P|I've.
+PS14B|Yo.
+PS14P|finished.
+PS14B|you put too much in your mouth at once You can hardly close your mouth.
+PS14P|Mm mm.
+PS14B|Can you.
+PS14P|I'm throwing water in the ceiling I'm putting water in the ceiling.
+PS14B|You put water in the ceiling.
+PS14P|No I'll put water on your ceiling.
+PS14B|I don't want water on the ceiling We had water on the ceiling.
+PS14P|And I we I'm gon na put all of my.
+PS14B|Gareth's turned the bath on When Gareth lived with us before he got married he turned the bath on and walked away and left it.
+PS14B|Mm mm That was a mess We couldn't have the lights on all the water came over the top of the bath.
+PS14P|I I er o we had to get the ladders we had to go up the ladders didn't we.
+PS14B|Had to get the ladder.
