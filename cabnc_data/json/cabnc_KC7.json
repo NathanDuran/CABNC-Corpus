@@ -470,7 +470,7 @@
                 },
                 {
                     "speaker": "PS0BL",
-                    "text": "Yeah but we were sitting in a er we were in a in a nice area.",
+                    "text": "Yeah but we were sitting in a er we were in a cul-de-sac in a nice area.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1925,7 +1925,7 @@
                 },
                 {
                     "speaker": "PS0BL",
-                    "text": "Yeah and and if you could I mean the thing is if you're if er if we didn't have each other to go off with erm it would have made everything for us a lot different I mean okay we're lucky we're in a situation where we do know a lot of people who are who are minded.",
+                    "text": "Yeah and and if you could I mean the thing is if you're if er if we didn't have each other to go off with erm it would have made everything for us a lot different I mean okay we're lucky we're in a situation where we do know a lot of people who are who are like- minded.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2002,7 +2002,7 @@
                 },
                 {
                     "speaker": "PS0BL",
-                    "text": "You know I'm in some ways you know I'm so glad I've never had like well before you know it used to bother me that I'd never had a relationship and that.",
+                    "text": "You know I'm in some ways you know I'm so glad I've never had like well before you know it used to bother me that I'd never had a long-term relationship and that.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2694,7 +2694,7 @@
                 },
                 {
                     "speaker": "PS0BT",
-                    "text": "This this girl.",
+                    "text": "This this man-eating girl.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3415,14 +3415,14 @@
                 },
                 {
                     "speaker": "PS0BK",
-                    "text": "And er the have been stopped because of it.",
+                    "text": "And er the all-nighters have been stopped because of it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS0BT",
-                    "text": "Oh it may have been but this.",
+                    "text": "Oh it may have been all-nighters but this.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4184,7 +4184,7 @@
                 },
                 {
                     "speaker": "PS0BS",
-                    "text": "that like fixes on to her and twenty tapes and she's got ta make twenty recordings' worth twenty tapes' worth.",
+                    "text": "that like fixes on to her T-shirt and twenty tapes and she's got ta make twenty recordings' worth twenty tapes' worth.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5967,7 +5967,7 @@
                 },
                 {
                     "speaker": "PS0BK",
-                    "text": "Yeah you can't really be listening to what I'm saying cos you cos I haven't finished yet Erm Pizza Express tissues everywhere That's better Both still look blue don't they.",
+                    "text": "Yeah you can't really be listening to what I'm saying cos you cos I haven't finished yet Erm Pizza Express tissues everywhere That's better Both T-shirts still look blue don't they.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7989,7 +7989,7 @@
                 },
                 {
                     "speaker": "PS0BS",
-                    "text": "we're not even in it we've from erm.",
+                    "text": "we're not even in it we've de-affiliated from erm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

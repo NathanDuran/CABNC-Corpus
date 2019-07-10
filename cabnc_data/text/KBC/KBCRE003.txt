@@ -110,7 +110,7 @@ PS1A9|hasn't she really one way or the other.
 KBCPSUN|Yeah.
 PS1A9|I don't know Well give her my love.
 KBCPSUN|Yes I will.
-PS1A9|anyhow See you.
+PS1A9|anyhow See you Bye-bye.
 PS1AD|Thanks a lot.
 PS1A9|He said he used to live he went out with my cousin and she wouldn't marry him.
 PS1AA|Wurgh.
@@ -269,18 +269,18 @@ PS1AG|You have to have the right shoes.
 PS1A9|Course you do.
 PS1AD|Yep.
 PS1AG|I'll be looking for anything.
-PS1AD|But I don't have you see They don't have ups You have to have.
+PS1AD|But I don't have lace-ups you see They don't have lace- ups You have to have lace-ups.
 PS1AG|No I don't like them either.
 PS1AD|Yeah.
 PS1A9|Really.
 PS1AD|Yeah you.
-PS1A9|Well we can't have can you They don't look right.
-PS1AD|No you don't normally have some people say you should have.
+PS1A9|Well we can't have slip-ons can you They don't look right.
+PS1AD|No you don't normally have some people say you should have slip-ons.
 PS1AD|but I ca I I couldn't get them in in a thirteen.
-PS1AA|Well unless everybody had.
+PS1AA|Well unless everybody had slip-ons.
 PS1AD|Yeah that's it.
 PS1AG|Yeah.
-PS1AA|You know But you can't have some with and.
+PS1AA|You know But you can't have some with slip-ons and.
 PS1AD|That's the advantage of ours everybody looks exa identical cos they actually hired everything.
 PS1AA|Yeah that's right.
 PS1AD|I mean did we even hire shirts.
@@ -340,7 +340,8 @@ KBCPSUN|Granddad.
 PS1AG|the wallpaper.
 PS1AD|Aha.
 KBCPSUN|Up there.
-PS1AG|We did see one a beigey like erm a what do you call whatever.
+PS1AG|We did see one a beigey like erm a what do you call Fleur-de whatever.
+PS1AD|Fleur-de-lys.
 PS1AG|Yeah One of those And you know quite.
 PS1AA|That'll be be embossed isn't it Like a.
 PS1AG|quite well spaced.
@@ -967,7 +968,7 @@ PS1AA|Oh aye.
 PS1AG|We don't need it now do we.
 PS1AD|No Be good actually if he does sleep in the bed cos then we can go in the summer.
 PS1AG|Yeah You just let me try it out.
-PS1AD|Well I'm just saying see th it's a shame you can't get something you know to prop up to like an piece of wood.
+PS1AD|Well I'm just saying see th it's a shame you can't get something you know to prop up to like an L-shaped piece of wood.
 PS1AA|I know.
 PS1AG|Whatd' ya call it.
 PS1AD|To slip under the bed.

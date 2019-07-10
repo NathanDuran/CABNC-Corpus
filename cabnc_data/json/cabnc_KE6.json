@@ -631,7 +631,7 @@
                 },
                 {
                     "speaker": "PS0X9",
-                    "text": "Well it's the.",
+                    "text": "Well it's the oldy-worldy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1142,7 +1142,7 @@
                 },
                 {
                     "speaker": "PS0X9",
-                    "text": "No what I think I'll do is go down to seven fifteen.",
+                    "text": "No what I think I'll do swimming-wise is go down to seven fifteen.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3340,7 +3340,7 @@
                 },
                 {
                     "speaker": "PS0X8",
-                    "text": "Yeah and we wound the tape and er looked for the number and it's the same number I've done it three times and I got this other bloke and I went right through it once and it says.",
+                    "text": "Yeah and we wound re-wound the tape and er looked for the number and it's the same number I've done it three times and I got this other bloke and I went right through it once and it says.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8208,7 +8208,7 @@
                 },
                 {
                     "speaker": "PS0X8",
-                    "text": "now I said the others they've got to be though look it's got ta be.",
+                    "text": "now I said the others they've got to be lace-ups though look it's got ta be lace-ups.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11959,7 +11959,7 @@
                 },
                 {
                     "speaker": "PS0X8",
-                    "text": "Well we still haven't got one I know we've got the but we still haven't got bits to pick have we.",
+                    "text": "Well we still haven't got one I know we've got the Kit-Kats but we still haven't got bits to pick have we.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11989,7 +11989,7 @@
         },
         {
             "dialogue_id": "KE6RE00E",
-            "num_utterances": 600,
+            "num_utterances": 601,
             "utterances": [
                 {
                     "speaker": "PS0XA",
@@ -12547,6 +12547,13 @@
                 {
                     "speaker": "PS0XA",
                     "text": "Well it's about fifteen quid and that leaves us the opportunity to get six or eight.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0X8",
+                    "text": "Little-uns.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -21377,7 +21384,7 @@
         },
         {
             "dialogue_id": "KE6RE01D",
-            "num_utterances": 66,
+            "num_utterances": 67,
             "utterances": [
                 {
                     "speaker": "PS0X8",
@@ -21514,7 +21521,7 @@
                 },
                 {
                     "speaker": "PS0X9",
-                    "text": "'s trying to hide something.",
+                    "text": "son-in-law's trying to hide something.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -21681,8 +21688,15 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS0X9",
+                    "text": "Son-in-law.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS0X8",
-                    "text": "is it Oh yeah that was her daughter wasn't it Yeah Her daughter died.",
+                    "text": "Son-in-law is it Oh yeah that was her daughter wasn't it Yeah Her daughter died.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -24066,7 +24080,7 @@
                 },
                 {
                     "speaker": "PS0X8",
-                    "text": "Mm These are two I reckon they lodge up here somewhere Not this road but round where Colin and.",
+                    "text": "Mm These are two young-uns I reckon they lodge up here somewhere Not this road but round where Colin and.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

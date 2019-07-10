@@ -13,8 +13,8 @@ PS088|Why.
 PS08A|Because it belongs to the man.
 PS088|Why will you give it.
 PS087|Oh that will make a nice birthday present A little Walkman.
-PS08A|Very.
-PS08A|I'm against things I'm afraid.
+PS08A|Very anti-social.
+PS08A|I'm against anti-social things I'm afraid.
 PS088|Mum when you have to give it back to the man.
 PS089|Mum you should have had it after your birthday.
 PS08A|I'll only suggest Walkmans.
@@ -387,7 +387,7 @@ PS087|Your turn Tim.
 PS089|What is it mummy.
 PS088|Ooh.
 PS087|It looks like flowers A horrible fish Ooh horrible things Oh I've got some nice peas What shall I have peas or carrots I'll have peas There you go Christopher if you'd like some carrots some nice carrots you may.
-PS089|Instead of that horrible stuff and will pick that will they That's a nice thing Mm.
+PS089|Instead of that horrible stuff and no-one will pick that will they That's a nice thing Mm.
 PS087|Oh jacket potato there Tim.
 PS089|Mum you're gon na win in the end.
 PS087|I hope so.

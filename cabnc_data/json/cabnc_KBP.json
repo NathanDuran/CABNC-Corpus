@@ -4241,7 +4241,7 @@
                 },
                 {
                     "speaker": "PS066",
-                    "text": "We'll have to get a.",
+                    "text": "We'll have to get a gro-bag.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4269,7 +4269,7 @@
                 },
                 {
                     "speaker": "PS066",
-                    "text": "the tomatoes.",
+                    "text": "re-potting the tomatoes.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5877,7 +5877,7 @@
                 },
                 {
                     "speaker": "PS065",
-                    "text": "when it comes to looking for or path lab or whatever it is but finding your way out Very seldom they have continuing er continuity of markers saying exit you know or this way out.",
+                    "text": "when it comes to looking for x-ray or path lab or whatever it is but finding your way out Very seldom they have continuing er continuity of markers saying exit you know or this way out.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6038,7 +6038,7 @@
                 },
                 {
                     "speaker": "PS066",
-                    "text": "I can't remember all the details There was quite a about it in the paper.",
+                    "text": "I can't remember all the details There was quite a to-do about it in the paper.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7788,7 +7788,7 @@
                 },
                 {
                     "speaker": "PS066",
-                    "text": "Do you think it'll look still look the brickwork.",
+                    "text": "Do you think it'll look still look cock-eyed the brickwork.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8341,7 +8341,7 @@
                 },
                 {
                     "speaker": "PS065",
-                    "text": "Yeah but don't you remember when they had that erm erm edge on it And you knocked it on the edge of a table.",
+                    "text": "Yeah but don't you remember when they had that erm erm semi-perforated edge on it And you knocked it on the edge of a table.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16227,7 +16227,7 @@
                 },
                 {
                     "speaker": "PS066",
-                    "text": "Well He was.",
+                    "text": "Well He was pre-school.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16241,7 +16241,7 @@
                 },
                 {
                     "speaker": "PS066",
-                    "text": "Maybe not just a toddler but he was.",
+                    "text": "Maybe not just a toddler but he was pre-school.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18102,7 +18102,7 @@
                 },
                 {
                     "speaker": "PS065",
-                    "text": "Well we've wanted to move for twenty five years possibly But you know how it is it's family ties and kids growing up and then they grow up and have families of their own then you get tied to the ch grandchildren or what have you I've been pushing for a long time but erm down here Well I have a living in Stainton He's lived there he retired there some what ooh fifteen years ago more than that He'd been pressing me to come down here for a long time When I used to bring my wife.",
+                    "text": "Well we've wanted to move for twenty five years possibly But you know how it is it's family ties and kids growing up and then they grow up and have families of their own then you get tied to the ch grandchildren or what have you I've been pushing for a long time but erm down here Well I have a brother-in-law living in Stainton He's lived there he retired there some what ooh fifteen years ago more than that He'd been pressing me to come down here for a long time When I used to bring my wife.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18116,7 +18116,7 @@
                 },
                 {
                     "speaker": "PS065",
-                    "text": "drive down drop her off at Cup of tea turn the car round and go back I couldn't stand the bloke at the time An ex Manchester lion board of directors very very full of himself.",
+                    "text": "drive down drop her off at in-laws Cup of tea turn the car round and go back I couldn't stand the bloke at the time An ex Manchester lion board of directors very very full of himself.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20011,14 +20011,14 @@
                 },
                 {
                     "speaker": "KBPPSUN",
-                    "text": "Well not really we've got one and we've got a big storey car park.",
+                    "text": "Well not really we've got one and we've got a big multi- storey car park.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS065",
-                    "text": "Oh I know the yes.",
+                    "text": "Oh I know the multi-storey yes.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

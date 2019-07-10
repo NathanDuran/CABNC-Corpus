@@ -1,6 +1,6 @@
 PS06A|He didn't like it.
 PS06G|No he's miserable but he can ge he used to go ra ra ra and make noises.
-PS06A|Do you know what Rupert did to him once Down the He tied him to some trolleys.
+PS06A|Do you know what Rupert did to him once Down the Co-op He tied him to some trolleys.
 PS06G|Trolley.
 PS06A|Frightened the living daylights out of him.
 PS06G|He ran away and th we he thought they were chasing him.
@@ -34,7 +34,7 @@ PS06A|Been down the job centre then.
 PS06G|No.
 PS06A|Nothing at all.
 PS06G|Not really I bet you that it's all grotty Well Where's Rupert.
-PS06A|Over with Lee Is this usual is it I would have thought I've washed and ironed every single one of your there.
+PS06A|Over with Lee Is this usual is it I would have thought I've washed and ironed every single one of your T-shirts there.
 PS06G|Yeah.
 PS06A|I thought that.
 PS06G|It's cold out there today.
@@ -106,7 +106,7 @@ PS06A|She's away in't she.
 PS06G|Oh yeah.
 PS06A|Having a wonderful time Naval Club.
 PS06G|Why in't she at school.
-PS06A|Half term Do you wear this.
+PS06A|Half term Do you wear this T-shirt.
 PS06G|Which one is it What is it.
 PS06A|This it was blue I think blue at one stage.
 PS06G|Yeah Oh no.

@@ -5012,7 +5012,7 @@
                 },
                 {
                     "speaker": "PS04B",
-                    "text": "I mean they done that in our factory they stopped on Saturday morning They had three on on door I mean three security men but it's not worth it mind And on a Saturday with Jenny going in if there's any overtime you and old was there and he came and tapped me on the shoulder I did at one time I know I never I don't I never touch a thing there and I thought and he would you mind opening your carrier and I've got sanitary towels in there.",
+                    "text": "I mean they done that in our factory they stopped on Saturday morning They had three on on door I mean three security men but it's not worth it mind And on a Saturday with Jenny going in if there's any overtime you and old what's-a-name was there and he came and tapped me on the shoulder I did at one time I know I never I don't I never touch a thing there and I thought and he would you mind opening your carrier and I've got sanitary towels in there.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12080,7 +12080,7 @@
         },
         {
             "dialogue_id": "KBERE00D",
-            "num_utterances": 684,
+            "num_utterances": 685,
             "utterances": [
                 {
                     "speaker": "PS04F",
@@ -13037,6 +13037,13 @@
                 {
                     "speaker": "PS04D",
                     "text": "Obituary Mum.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS04B",
+                    "text": "O-b-i-t-r-y.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -17655,7 +17662,7 @@
                 },
                 {
                     "speaker": "PS04B",
-                    "text": "With Terry And Terry said he's gon na take his and me over not this Sunday next week Nearer Christmas cos cheaper.",
+                    "text": "With Terry And Terry said he's gon na take his mother-in-law and me over not this Sunday next week Nearer Christmas cos cheaper.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19138,7 +19145,7 @@
                 },
                 {
                     "speaker": "PS04B",
-                    "text": "pretty pastel shade stones Will normally.",
+                    "text": "Multi-c multi-colour pretty pastel shade stones Will normally.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25457,7 +25464,7 @@
                 },
                 {
                     "speaker": "PS04B",
-                    "text": "Yeah And er he he took our Clay up Sunday And our Clay said he's gon na take me and his well future out next Saturday.",
+                    "text": "Yeah And er he he took our Clay up Sunday And our Clay said he's gon na take me and his mother-in well future mother-in-law out next Saturday.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -28151,7 +28158,7 @@
                 },
                 {
                     "speaker": "PS04B",
-                    "text": "said to erm Sally get my stuff I said no not yet Perhaps she'll get it next week.",
+                    "text": "said to ju- erm Sally get my stuff I said no not yet Perhaps she'll get it next week.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -30585,7 +30592,7 @@
                 },
                 {
                     "speaker": "PS04H",
-                    "text": "Yeah I'm gon na put mine out I reckon one in I reckon the desk sergeant isn't there.",
+                    "text": "Yeah I'm gon na put mine out I reckon No- one in I reckon the desk sergeant isn't there.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -33705,7 +33712,7 @@
                 },
                 {
                     "speaker": "KBEPSUN",
-                    "text": "Anyway He was coming along there was a in front I said to him watch this now she'll sit all the way right to the end behind him She did So anyway we come up to the roundabout and she never She just had to turn out and there was nothing coming down foot down opened up got I was at the top of the hill and she was nowhere in sight I thought them poor cars behind me.",
+                    "text": "Anyway He was coming along there was a push-bike in front I said to him watch this now she'll sit all the way right to the end behind him She did So anyway we come up to the roundabout and she never She just had to turn out and there was nothing coming down foot down opened up got I was at the top of the hill and she was nowhere in sight I thought them poor cars behind me.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -45024,7 +45031,7 @@
         },
         {
             "dialogue_id": "KBERE00S",
-            "num_utterances": 1070,
+            "num_utterances": 1071,
             "utterances": [
                 {
                     "speaker": "PS04B",
@@ -46134,7 +46141,7 @@
                 },
                 {
                     "speaker": "KBEPSUN",
-                    "text": "Free Mary yeah.",
+                    "text": "Free make-up Mary yeah.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -46694,7 +46701,7 @@
                 },
                 {
                     "speaker": "KBEPSUN",
-                    "text": "Oh Pam come down and she said do you know where it is she said it's they young.",
+                    "text": "Oh Pam come down and she said do you know where it is she said it's so-so they young.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -50706,6 +50713,13 @@
                 {
                     "speaker": "KBEPSUN",
                     "text": "Flour.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "KBEPSUN",
+                    "text": "Self-raising.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

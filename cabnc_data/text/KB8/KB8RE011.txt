@@ -238,7 +238,7 @@ PS14B|Yes Right let's go again One at each side boys please Bryony if you get yo
 PS14M|Is it over there.
 PS14B|Yes it is it's over there that's right There we are.
 PS14P|I can see the birds.
-PS14B|You want to see the birds Well in that case no there Richard Richard means the birds in the park in the aviary We we can't go and see Listen Yes that's what kind's that one Bryony Bryony says she can see one in the sky What is it can you remember That's right it's a seagull There's another seagull That's a gull that one.
+PS14B|You want to see the birds Well in that case no there Richard Richard means the birds in the park in the aviary We we can't go and see Listen Yes that's what kind's that one Bryony Bryony says she can see one in the sky What is it can you remember That's right it's a seagull There's another seagull That's a black-headed gull that one.
 PS14P|I want to see the one in the park.
 PS14B|Yes it's a white one with a black head.
 PS14P|I want to see the one in the park.

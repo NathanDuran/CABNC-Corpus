@@ -594,6 +594,7 @@ PS051|Carrot cakes.
 PS051|Andrew leave it down.
 PS055|Shall I put this down here.
 PS051|Right Yeah put it down there.
+PS055|Right-y-oh.
 PS051|It'll go in there won't it.
 PS059|I'll drop the seats.
 PS051|Ah right Okay.
@@ -805,7 +806,7 @@ PS051|And yours.
 PS055|I didn't know they were that colour.
 PS051|You know now.
 PS055|Yeah.
-PS051|Black hands Here you are Put your hands put your arms in Oh hang on.
+PS051|Black hands Here you are Becky-Boops Put your hands put your arms in Oh hang on.
 PS054|Ooh.
 PS051|Ooh.
 PS051|Away are you singing.

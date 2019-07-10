@@ -51,7 +51,7 @@ PS0E8|sound.
 PS0E9|Do you put sounds on the tape You've got tapes put sounds on it.
 PS0E8|Oh no only noises and things.
 PS0E9|Oh.
-PS0EA|Be the percussion instrument or animal noises to accompany tape being played the animals sound like are delightful to young ears while the percussion band will appeal to older children who wish to begin beating time more accurately.
+PS0EA|Be the percussion instrument or animal noises to accompany tape being played the animals sound like are delightful to young ears while the percussion band will appeal to older children who wish to begin beating time more acc- accurately.
 PS0E8|Hm Hm that sounds quite good.
 PS0EA|Quite good.
 PS0E8|I could do were both starving I've finished mine.

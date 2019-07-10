@@ -146,7 +146,7 @@ PS04U|Oh green Plasticine.
 PS04X|A box remember a cardboard box.
 PS04U|What from the supermarket.
 PS04X|Get it there.
-PS04U|Well why can't you walk down to the tomorrow when you're at dancing and get one yourself.
+PS04U|Well why can't you walk down to the Co-op tomorrow when you're at dancing and get one yourself.
 PS04Y|Oh far better because then you'll choose the one you want.
 PS04U|Cos I'm not I'm not near a supermarket tomorrow.
 PS04Y|No.
@@ -403,7 +403,7 @@ PS04U|In.
 PS04Y|from escaping through the top and if you're i if it's a fa you know there's some light or disturbance you and want to sleep and the best thing to do is to go into a light doze cos you know you can't do much else that's cover your face.
 PS04U|Keeps all the warmth of body heat in.
 PS04Y|Mm body warmth.
-PS04V|Go on Carla upstairs and get your on say night night to Jean.
+PS04V|Go on Carla upstairs and get your jim-jams on say night night to Jean.
 PS04X|Hey.
 PS04Y|Oh night darling.
 PS04V|Carla.
@@ -440,7 +440,7 @@ PS04Y|and we'll catch it early and so I haven't been sort of saying to myself oo
 PS04U|I wasn't when I lost it.
 PS04Y|Because I can't I can't eat all that much.
 PS04U|No when I lost it I th I don't want to be this thin I want to put it on again.
-PS04Y|I went out I went out with Peggy er on Wednesday er for meal and she's been saving Daily Telegraph vouchers and when you got so many vouchers you send them up to the Daily Telegraph who's sent them it's offers closed now and they send you a thing like a credit card and they send you a list of all the places that you can go to for a price meal.
+PS04Y|I went out I went out with Peggy er on Wednesday er for meal and she's been saving Daily Telegraph vouchers and when you got so many vouchers you send them up to the Daily Telegraph who's sent them it's offers closed now and they send you a thing like a credit card and they send you a list of all the places that you can go to for a half- price meal.
 PS04X|Hey daddy turn off the.
 PS04Y|erm.
 PS04Y|you can take a friend and whichever of you has the cheaper meal that's what.
@@ -457,7 +457,7 @@ PS04Y|They are.
 PS04U|filling.
 PS04Y|They are erm it was er steak and kidney pie brussels sprouts carrots and bo plain boiled potatoes I could only eat about half the kidney and meat I cou I could only eat about a third of the pastry couldn't cope with the carrots at all or the brussel sprouts they were beautiful brussel sprouts like little cabbages you know I could only eat a couple of them.
 PS04X|Okay can.
-PS04U|Right you go and get your on I'll be up.
+PS04U|Right you go and get your jimmy-jams on I'll be up.
 PS04Y|I had sherry trifle of des as a desert and I ga gave Peggy half of it.
 PS04U|God.
 PS04Y|It's not like me I mean I normally yum yum yum.

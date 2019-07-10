@@ -20,7 +20,7 @@ PS01G|Where.
 PS01B|You've missed it it's gone now.
 PS01B|I mean when you think of what he started with Karen.
 PS01F|Yeah.
-PS01B|He borrowed money from his.
+PS01B|He borrowed money from his father-in-law.
 PS01F|Yeah.
 PS01G|Is that which one.
 PS01B|It's gone.
@@ -131,8 +131,8 @@ PS01F|Yeah.
 PS01A|Oh I don't know.
 PS01F|If you apply for it straight away could you say you don't know how much monies coming in How much money your gon na coming in.
 PS01B|His dad's in a new business anyway bec so you should get forty quid a week at least anyway.
-PS01F|now.
-PS01B|Is it.
+PS01F|Thirty-five now.
+PS01B|Is it thirty-five.
 PS01F|Yeah.
 PS01B|Bloody hell.
 PS01F|Yeah.
@@ -264,7 +264,7 @@ PS01B|Twelve he's got her ten days.
 PS01A|Ten days.
 PS01F|Yeah could it.
 PS01A|Could be ten between ten and twelve days couldn't it.
-PS01B|George your birthday's not ain't it.
+PS01B|George your birthday's not twenty-first ain't it.
 PS01F|No.
 PS01B|I thought it were twenty sixth.
 PS01F|That's true.
@@ -297,7 +297,7 @@ PS01A|It won't matter whether it's born on your Margaret's birthday or not it st
 PS01B|It won't get nowt.
 PS01F|It were born on Yvon Yvon hang on get it Yvonne's birthday is the first of February and mine's the twenty first but she'll be a year older than me so she's like a year and twenty days.
 PS01B|Yeah.
-PS01F|exactly older than me First and.
+PS01F|exactly older than me First and twenty-first.
 PS01B|You want to do what she's doing now.
 PS01A|Who's it for.
 PS01A|Oh I thought it was that wife.
@@ -319,9 +319,9 @@ PS01A|Can not understand or something Their as different as chalk and bloody che
 PS01B|Plenty of different people cheap er the other people who have different likes to you but what what you might think's attrac attractive somebody else'll.
 PS01F|Yeah.
 PS01B|won't be you know.
-PS01F|To be quite honest without talking like a school on a fence They're not very happy they ain't been happy for a while but it's getting worse wh is what is them now is you know I say things to Colin and Co I mean Colin'll tell me like you know you know over there and er he's latest thing is they built this little office You know when you go into on the right er a and a house ain't there.
+PS01F|To be quite honest without talking like a school on a fence They're not very happy they ain't been happy for a while but it's getting worse wh is what is them now is you know I say things to Colin and Co I mean Colin'll tell me like you know you know over there and er he's latest thing is they built this little office You know when you go into on the right er a coal-house and a wash- house ain't there.
 PS01A|Yeah.
-PS01F|The part it's is quite wide now we've done it big but altered.
+PS01F|The coal-house part it's is quite wide now we've done it big coal-house but altered.
 PS01F|And then it twists and like a small office and when when I were there after Michael had shown it me and Colin he says oh he says er I'm come in here to get get out of way and you know he was like telling me I thought I don't want to be a fiddle because it's alright telling Colin the boys.
 PS01F|telling yeah.
 PS01B|Yeah.
@@ -387,14 +387,14 @@ PS01F|She didn't realise what she was saying as such but I thought and I thought
 PS01A|Yeah well he is what ten years.
 PS01F|Thirteen you got from'er.
 PS01A|Thirteen years difference.
-PS01F|She's how old am I so she's Same age as our Kim.
+PS01F|She's how old am I twenty-two so she's twenty-nine Same age as our Kim.
 PS01A|Yeah.
 PS01F|Oh she'll be coming at thirty this year won't she.
 PS01A|You see she's just coming into her prime and now he's he's just leaving it.
 PS01F|yeah.
-PS01F|He's really this year.
+PS01F|He's really forty-three this year.
 PS01A|Don't work.
-PS01F|He'll be this year and she'll be thirty this year.
+PS01F|He'll be forty-three this year and she'll be thirty this year.
 PS01A|The only thing time that happens is that is you hear about.
 PS01G|Look George.
 PS01A|if yo if one's fifty over sixty.
@@ -419,11 +419,14 @@ PS01B|Mind you we're we're getting on.
 PS01F|No but you know what I mean I mean.
 PS01A|Yeah I know what you mean.
 PS01F|Fifty.
+PS01A|Fifty-three.
 PS01B|Four.
-PS01A|I'm.
-PS01B|Your next birthday you're only a couple of months off.
-PS01A|Well I'm.
-PS01G|He's.
+PS01F|Fifty-three.
+PS01B|Fifty-four.
+PS01A|I'm fifty-three.
+PS01B|Your fifty-four next birthday you're only a couple of months off.
+PS01A|Well I'm fifty-three.
+PS01G|He's fifty-three.
 PS01F|because you probably do more things You know younger things than what he does And he got ta.
 PS01A|Yeah.
 PS01F|He should be keeping himself young for'er.
@@ -485,7 +488,7 @@ PS01B|four yeah four or five times yeah.
 PS01F|Yeah Yeah.
 PS01B|There's only us who never moved.
 PS01A|Oh yeah.
-PS01B|Angie how long's me mother been in there I'm this year me mum must have been in there nearly fifty year.
+PS01B|Angie how long's me mother been in there I'm forty-eight this year me mum must have been in there nearly fifty year.
 PS01A|And we've only moved into here.
 PS01F|In actual fact your Pete and Margaret have moved more in the twelve years that they were married I know they've been married longer now but when th they been married twelve years and they moved four times.
 PS01B|Yeah.
@@ -717,7 +720,7 @@ PS01A|Yeah.
 PS01B|It don't look bad actually.
 KB1PSUN|Mind you it were falling out that much everywhere else he wouldn't know the difference would he.
 PS01A|No.
-PS01B|But you know but she talks to him like like nobody Well she'll say to him put kettle on and butter some bread and he'll sit there and he's smoking and he's continuing what he's doing you know and she'll go and do what she's doing and she have you flicking you to do and you know any it just goes in that ear comes out'ther ear and just sallies on and don't take blind bit of notice.
+PS01B|But you know but she talks to him like like nobody Well she'll say to him put kettle on and butter some bread and he'll sit there and he's smoking and he's continuing what he's doing you know and she'll go and do what she's doing and she have you flicking arse-hole you to do and you know any it just goes in that ear comes out'ther ear and just sallies on and don't take blind bit of notice.
 PS01F|I mean she's got a right squawky voice.
 PS01B|Oh horrible.
 PS01F|because I always when she talks she's squawking.
@@ -797,7 +800,7 @@ PS01B|Wow.
 PS01A|Go on.
 PS01B|No that's not it not yet ain't ya.
 PS01A|There it is.
-KB1PSUN|Now why don't ya why don't ya go to middle Page.
+KB1PSUN|Now why don't ya why don't ya go to middle Page twenty-one.
 PS01F|Well it's not far from middle.
 KB1PSUN|Aye Sixty pages.
 PS01F|Well it's only nine blo stop flipping chopping hairs.
@@ -870,7 +873,7 @@ PS01A|You can't go in van with ya with ya suit on and.
 PS01B|Oh you've got to you go play your part.
 PS01A|You got to have a chauffeur you'll have to buy me a hat you'll have to buy me a hat you'll have to make it worth me while coming off dole at forty pound a week.
 PS01F|Yeah.
-PS01A|You paying me in'and and Dennis is paying me in'and and I'll a er thousand pound a week the way that I keep getting these job offers.
+PS01A|You paying me in'and and Dennis is paying me in'and and I'll a er thousand pound a week the way that I keep getting these job offers Back-handers.
 KB1PSUN|Anticipation obligations.
 PS01A|The only trouble is they're only offers.
 PS01F|What's happening down here then didn't you hear no more about when you finish then down here at.

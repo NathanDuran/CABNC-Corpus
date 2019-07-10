@@ -47,11 +47,11 @@ PS1ES|Good God.
 PS1EN|a bit of the carpet yes You've got ta go round a few love Got a pantry in this one.
 PS1EP|Where's.
 PS1EN|You got a fifteen by twelve This bedroom offers potential for subdivision to two rooms Got a big bed.
-PS1EP|Or you could have an bathroom there.
+PS1EP|Or you could have an en-suite bathroom there.
 PS1EN|Pardon.
-PS1EP|bathroom.
+PS1EP|En-suite bathroom.
 PS1EN|Pardon.
-PS1EP|Could have an bathroom.
+PS1EP|Could have an en-suite bathroom.
 PS1EN|Yeah Bathroom in suite comprising panelled bath pedestal finished in white.
 PS1EP|Kimmy.
 PS1EN|Rear gateway leading to vehicular access road No telephone in that one It does say so with scope for improvements in that one But that one there with da what's a name decorative order is not.

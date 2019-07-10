@@ -295,7 +295,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "off the wall to do summat and just or something so I've got ta wash my toothbrush and tooth and wash my face in the kitchen sink.",
+                    "text": "off the wall to do summat and just re-cement or something so I've got ta wash my toothbrush and tooth and wash my face in the kitchen sink.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1016,7 +1016,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "because I'm the one who was da doing that because tha I mean I was But he was horri the guy that was doing me didn't know he had a pair of a like off er yeah He was built a bit like Jack And he had a white pair of jeans a beer belly and tattoos up his arms.",
+                    "text": "because I'm the one who was da doing that because tha I mean I was But he was horri the guy that was doing me didn't know he had a pair of a like off er yeah He was built a bit like Jack And he had a white T-shirt pair of jeans a beer belly and tattoos up his arms.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1331,14 +1331,14 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "So I just thought of my granddad And I said yeah but I was very sort of.",
+                    "text": "So I just thought of my granddad And I said yeah but I was very sort of non-committal.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS18K",
-                    "text": "Yeah.",
+                    "text": "Non-committal Yeah.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1667,7 +1667,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "Which it would be Away from something So I don't know I mean I'm very I mean.",
+                    "text": "Which it would be Away from something So I don't know I mean I'm very open-minded I mean.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1933,7 +1933,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "Lesley And I said well yeah and I've got a cousin Lesley And then nothing more was said about that And then she was going there's something you need to do She was literally having a conversation although not in an odd way not going ooh Ooh Ooh You know She was just like talking to herself she's going.",
+                    "text": "Lesley And I said well yeah and I've got a cousin Lesley And then nothing more was said about that And then she was going there's something you need to do She was literally having a two-way conversation although not in an odd way not going ooh Ooh Ooh You know She was just like talking to herself she's going.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2857,7 +2857,7 @@
                 },
                 {
                     "speaker": "PS18E",
-                    "text": "well he's er he says he's done a big.",
+                    "text": "well he's er he says he's done a big X-ray.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5894,7 +5894,7 @@
                 },
                 {
                     "speaker": "PS18E",
-                    "text": "You know what your natural endorphin would come to the surface and you just start getting the feeling of.",
+                    "text": "You know what your natural endorphin would come to the surface and you just start getting the feeling of well-being.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6405,7 +6405,7 @@
                 },
                 {
                     "speaker": "PS18E",
-                    "text": "you're just.",
+                    "text": "you're just over-sensitive.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7084,7 +7084,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "Right And here's here's his journey right G P appointment outpatient appointment tests admission medical treatment nursing care planning and.",
+                    "text": "Right And here's here's his journey right G P appointment outpatient appointment tests admission medical treatment nursing care planning and follow-up.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7147,7 +7147,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "in and the view looking out are in agreement Right.",
+                    "text": "in and the care-givers view looking out are in agreement Right.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7252,7 +7252,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "No everybody's individual And to get what it says here to get quality assurance the patient's views and the 's views have to be in agreement What say you're the and I'm the.",
+                    "text": "No everybody's individual And to get what it says here to get quality assurance the patient's views and the care-giver's views have to be in agreement What say you're the care-giver and I'm the.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7595,7 +7595,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "Well these are the criteria leaves for tests and investigations for tests and investigations for example good facilities working equipment nice staff competent qualified staff.",
+                    "text": "Well these are the criteria leaves for tests and investigations for tests and investigations for example good facilities up-to-date working equipment nice staff competent qualified staff.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7784,7 +7784,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "it says quality can only be assured if both patient's view and 's view are in agreement cos that's gon na be really hard to achieve isn't it.",
+                    "text": "it says quality can only be assured if both patient's view and care-giver's view are in agreement cos that's gon na be really hard to achieve isn't it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8295,7 +8295,7 @@
                 },
                 {
                     "speaker": "PS18L",
-                    "text": "be appointed with responsibility for setting up the programme She would receive minutes of all meetings and have the right to attend these meetings to provide a quality assurance input So that's the same.",
+                    "text": "be appointed with responsibility for setting up the district-wide programme She would receive minutes of all meetings and have the right to attend these meetings to provide a quality assurance input So that's the same.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

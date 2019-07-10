@@ -184,7 +184,7 @@ PS1BR|Fine.
 PS1BN|He told you to do anything and that's all that.
 PS1BR|Well worth watching.
 PS1BL|No if you don't.
-PS1BN|based.
+PS1BN|computer- based.
 PS1BN|computer database.
 PS1BR|Electronic.
 PS1BL|Have you done it.

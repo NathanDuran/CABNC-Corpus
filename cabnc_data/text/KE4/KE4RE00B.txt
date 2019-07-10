@@ -28,7 +28,7 @@ PS0WR|He's flying.
 PS0WS|Did you see the Escort.
 PS0WN|Mm.
 PS0WS|Did you see the Escort It's gleaming isn't it.
-PS0WN|It is Aye Have a look at it.
+PS0WN|It is Aye Have a look at it Super-duper.
 PS0WS|Mm.
 PS0WN|Took you a while though How many buckets was that.
 PS0WS|Mm.

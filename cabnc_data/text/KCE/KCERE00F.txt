@@ -397,7 +397,7 @@ PS0EF|Ee you're obsessed.
 PS0EB|I used to have a teacher called Mrs.
 PS0EF|Your obsessed.
 PS0EB|I did At nursery school I had a teacher called Mrs.
-PS0EF|Okay 's interested.
+PS0EF|Okay no-one's interested.
 PS0EB|But everyone laughed.
 PS0EG|Richard.
 KCEPSUN|Yeah.

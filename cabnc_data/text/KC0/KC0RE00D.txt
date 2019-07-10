@@ -142,7 +142,7 @@ PS093|If they do it too much then the farrier's not doing a good job.
 PS092|Job.
 PS093|and his job.
 PS08Y|Really.
-PS093|is to the shoe so that er it just misses.
+PS093|is to re-balance the shoe so that er it just misses.
 PS092|Miss.
 PS093|the front foot as it comes forward If the.
 PS08Y|Right.
@@ -416,11 +416,11 @@ PS093|Mm.
 PS08Y|that as a shoe you then.
 PS093|Re.
 PS08Y|made it an a new.
-PS093|it.
+PS093|Re-shape it.
 PS08Y|piece of metal.
 PS092|Yes And then.
 PS093|Yes.
-PS092|yeah and then re it to shoe.
+PS092|yeah and then re re-used it to shoe.
 PS08Y|Mm.
 PS092|Made another shoe out of a.
 PS08Y|That's right.
@@ -837,7 +837,7 @@ PS093|No you don't We're.
 PS08Y|Do you.
 PS093|We're too.
 PS092|No no.
-PS093|aren't we.
+PS093|self-effacing aren't we.
 PS092|And yet they'll a.
 PS08Y|But they.
 PS092|they'll accept the big proposals.

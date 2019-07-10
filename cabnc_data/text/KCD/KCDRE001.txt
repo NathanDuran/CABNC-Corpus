@@ -38,7 +38,7 @@ PS0E9|Twenty five pounds.
 PS0E8|Did you like Amy's suit.
 PS0EA|Not very much but I.
 PS0E9|Do you know what you can wear underneath it.
-PS0E8|I think you're supposed to wear a.
+PS0E8|I think you're supposed to wear a T-shirt.
 PS0E9|It's a bit cold.
 PS0E8|Hmm.
 PS0EA|I was just reading that.

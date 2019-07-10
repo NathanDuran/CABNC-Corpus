@@ -2750,7 +2750,7 @@
                 },
                 {
                     "speaker": "PS1EP",
-                    "text": "Do you wan na lolly ice mum It's the last one Are you gon na take it out me mouth Now I'm mister won't it Mister.",
+                    "text": "Do you wan na lolly ice mum It's the last one Are you gon na take it out me mouth Now I'm mister topsy-turvy won't it Mister topsy-turvy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2967,7 +2967,7 @@
                 },
                 {
                     "speaker": "PS1ER",
-                    "text": "Isn't she such a wonderful What a wonderful I have got I have got Isn't she absolutely wonderful Just going to the toilet mother Won't be long Okay yah.",
+                    "text": "Isn't she such a wonderful mother-in-law What a wonderful mother-in-law I have got I have got Isn't she absolutely wonderful Just going to the toilet mother Won't be long Okay yah.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3785,7 +3785,7 @@
                 },
                 {
                     "speaker": "PS1EN",
-                    "text": "You've got the there to park haven't you.",
+                    "text": "You've got the pull-in there to park haven't you.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4960,7 +4960,7 @@
                 },
                 {
                     "speaker": "PS1EP",
-                    "text": "it's.",
+                    "text": "it's semi-detached.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6211,7 +6211,7 @@
                 },
                 {
                     "speaker": "PS1EN",
-                    "text": "Not yet no just get your out there and and then you might have a bit of might not we then.",
+                    "text": "Not yet no just get your out there and and then you might have a bit of lee-way might not we then.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7329,7 +7329,7 @@
                 },
                 {
                     "speaker": "PS1EP",
-                    "text": "Or you could have an bathroom there.",
+                    "text": "Or you could have an en-suite bathroom there.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7343,7 +7343,7 @@
                 },
                 {
                     "speaker": "PS1EP",
-                    "text": "bathroom.",
+                    "text": "En-suite bathroom.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7357,7 +7357,7 @@
                 },
                 {
                     "speaker": "PS1EP",
-                    "text": "Could have an bathroom.",
+                    "text": "Could have an en-suite bathroom.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12851,7 +12851,7 @@
                 },
                 {
                     "speaker": "PS1ET",
-                    "text": "But usually for Barry doesn't he Er that.",
+                    "text": "But what's-a-name usually for Barry doesn't he Er that.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

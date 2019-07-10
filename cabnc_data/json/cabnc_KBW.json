@@ -6149,7 +6149,7 @@
         },
         {
             "dialogue_id": "KBWRE001",
-            "num_utterances": 683,
+            "num_utterances": 684,
             "utterances": [
                 {
                     "speaker": "PS087",
@@ -6517,7 +6517,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Now then or yogurt Christopher.",
+                    "text": "Now then Ice-cream or yogurt Christopher.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6531,7 +6531,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "or yogurt dear.",
+                    "text": "Ice-cream or yogurt dear.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6594,14 +6594,14 @@
                 },
                 {
                     "speaker": "PS088",
-                    "text": "It's too much I want to have an an I want to have an.",
+                    "text": "It's too much I want to have an an ice-cream I want to have an ice-cream.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Now listen to have yogurt and you have to have some fruit okay And what's more.",
+                    "text": "Now listen to have yogurt and ice-cream you have to have some fruit okay And what's more.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6650,14 +6650,21 @@
                 },
                 {
                     "speaker": "PS088",
-                    "text": "Yeah.",
+                    "text": "Yeah Ice-cream.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS087",
+                    "text": "Ice-cream.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS088",
-                    "text": "with that.",
+                    "text": "Ice-cream with that.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7931,7 +7938,7 @@
                 },
                 {
                     "speaker": "PS089",
-                    "text": "Can I have some then.",
+                    "text": "Can I have some ice-cream then.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8008,7 +8015,7 @@
                 },
                 {
                     "speaker": "PS088",
-                    "text": "Ah ah only Is there any please.",
+                    "text": "Ah ah only ice-cream Is there any ice-cream please.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8022,14 +8029,14 @@
                 },
                 {
                     "speaker": "PS088",
-                    "text": "the same Same one.",
+                    "text": "the same ice-cream Same one.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS087",
-                    "text": "It's the same that we had before yeah At least it would be if I could get into it.",
+                    "text": "It's the same ice-cream that we had before yeah At least it would be if I could get into it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8134,7 +8141,7 @@
                 },
                 {
                     "speaker": "PS08A",
-                    "text": "You might Eating all that.",
+                    "text": "You might Eating all that ice-cream.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -13549,7 +13556,7 @@
                 },
                 {
                     "speaker": "KBWPSUN",
-                    "text": "extra half hour early cos heard the clock.",
+                    "text": "extra half hour early cos no-one heard the clock.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -17494,7 +17501,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Well you've got and you've got.",
+                    "text": "Well you've got le- and you've got li-.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27286,7 +27293,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "That's a bit seven.",
+                    "text": "That's a bit anti-social seven.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27503,14 +27510,14 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "I consider that very.",
+                    "text": "I consider that very anti-social.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS08A",
-                    "text": "I thought you knew I was.",
+                    "text": "I thought you knew I was anti-social.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27867,14 +27874,14 @@
                 },
                 {
                     "speaker": "PS08A",
-                    "text": "That's a bit mummy.",
+                    "text": "That's a bit anti-social mummy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Very dear and I love it.",
+                    "text": "Very anti-social dear and I love it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -28833,7 +28840,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "There's no second to that there's a question of council members I there's about seven How we doing we're a week in advance though aren't we here.",
+                    "text": "There's no second non-related to that there's a question of council members I there's about seven How we doing we're a week in advance though aren't we here.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -31009,7 +31016,7 @@
                 },
                 {
                     "speaker": "KBWPSUN",
-                    "text": "Well he's not a really.",
+                    "text": "Well he's not a party-goer really.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -34443,7 +34450,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Okay right thanks anyway erm Calpol please.",
+                    "text": "Okay right thanks anyway erm sugar-free Calpol please.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -34646,7 +34653,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Try this one oh no Look a bit don't they these tomatoes.",
+                    "text": "Try this one oh no Look a bit moth-eaten don't they these tomatoes.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -34779,7 +34786,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "somebody there was yeah There was a ladder sort of standing there so they must be the Rice Krispies.",
+                    "text": "somebody there was yeah There was a ladder sort of standing there so they must be re-filling the Rice Krispies.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -41737,7 +41744,7 @@
         },
         {
             "dialogue_id": "KBWRE00P",
-            "num_utterances": 371,
+            "num_utterances": 372,
             "utterances": [
                 {
                     "speaker": "PS088",
@@ -43897,7 +43904,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Okay I'll just go round the other side and get the.",
+                    "text": "Okay I'll just go round the other side and get the ice-cream.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -43989,6 +43996,13 @@
                 {
                     "speaker": "PS088",
                     "text": "Daddy yours.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS088",
+                    "text": "ice-cream.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -44449,14 +44463,14 @@
                 },
                 {
                     "speaker": "PS08A",
-                    "text": "Very.",
+                    "text": "Very anti-social.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS08A",
-                    "text": "I'm against things I'm afraid.",
+                    "text": "I'm against anti-social things I'm afraid.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -47067,7 +47081,7 @@
                 },
                 {
                     "speaker": "PS089",
-                    "text": "Instead of that horrible stuff and will pick that will they That's a nice thing Mm.",
+                    "text": "Instead of that horrible stuff and no-one will pick that will they That's a nice thing Mm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -49931,7 +49945,7 @@
         },
         {
             "dialogue_id": "KBWRE00T",
-            "num_utterances": 41,
+            "num_utterances": 42,
             "utterances": [
                 {
                     "speaker": "PS0XK",
@@ -49992,6 +50006,13 @@
                 {
                     "speaker": "PS087",
                     "text": "At least not just now.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0XJ",
+                    "text": "Right-y-o.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -50529,7 +50550,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "in her new capacity as head of department erm in the school They're starting a thing.",
+                    "text": "in her new capacity as head of department erm in the school They're starting a pre-prep thing.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -50571,7 +50592,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "And erm they're starting this thing in September and she's gon na be in charge of it I mean that.",
+                    "text": "And erm they're starting this pre-prep thing in September and she's gon na be in charge of it I mean that.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -50636,7 +50657,7 @@
         },
         {
             "dialogue_id": "KBWRE00V",
-            "num_utterances": 651,
+            "num_utterances": 652,
             "utterances": [
                 {
                     "speaker": "PS088",
@@ -52243,7 +52264,7 @@
                 },
                 {
                     "speaker": "PS089",
-                    "text": "You don't see bunnies with do you You don't see ducks with a on.",
+                    "text": "You don't see bunnies with do you You don't see ducks with a bow-tie on.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -52264,7 +52285,7 @@
                 },
                 {
                     "speaker": "PS089",
-                    "text": "You see ducks with on Mum have you ever seen a duck with a on.",
+                    "text": "You see ducks with bow-ties on Mum have you ever seen a duck with a bow-tie on.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -52278,7 +52299,7 @@
                 },
                 {
                     "speaker": "PS089",
-                    "text": "ducks with a on do you And a dog with a.",
+                    "text": "ducks with a bow-tie on do you And a dog with a.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -52810,14 +52831,14 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "It's known as a on this one.",
+                    "text": "It's known as a hippo-bath-day on this one.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS08A",
-                    "text": "Is it.",
+                    "text": "Is it Hippo-bath.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -53097,7 +53118,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "Three sachets.",
+                    "text": "Forget-me-nots Three sachets.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -53105,6 +53126,13 @@
                 {
                     "speaker": "PS088",
                     "text": "These is not gon na be enough.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS089",
+                    "text": "Forget-me-not.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -56509,7 +56537,7 @@
                 },
                 {
                     "speaker": "PS0XR",
-                    "text": "Thankyou.",
+                    "text": "Thankyou right-y-o.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -57103,7 +57131,7 @@
                 },
                 {
                     "speaker": "PS0XR",
-                    "text": "He's called Fred So apparently last night he came knocking on the door To see if she was alright So she'd been out all day to this cousin's at Blakely She goes on a Monday now Oh he said do you go every week Oh he said I'll bring you a leaflet You could get a.",
+                    "text": "He's called Fred So apparently last night he came knocking on the door To see if she was alright So she'd been out all day to this cousin's at Blakely She goes on a Monday now Oh he said do you go every week Oh he said I'll bring you a leaflet You could get a dial-a-ride.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -57222,7 +57250,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "They do a in Redditch.",
+                    "text": "They do a dial-a-ride in Redditch.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -57299,7 +57327,7 @@
                 },
                 {
                     "speaker": "PS0XR",
-                    "text": "So he he as I was talking to her last night on the phone the front door bell's going and it's our Fred from next door right looking after her and bringing forms for her to fill in to get I thought jolly nice isn't it.",
+                    "text": "So he he as I was talking to her last night on the phone the front door bell's going and it's our Fred from next door right looking after her and bringing forms for her to fill in to get dial-a-ride I thought jolly nice isn't it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -72391,7 +72419,7 @@
                 },
                 {
                     "speaker": "PS087",
-                    "text": "she's started Liam they're having a school at Durham choir boys whatever it is cos he's from school apparently the locality of demanding six year olds and under so they and another la labouring school.",
+                    "text": "she's started Liam they're having a pre-packed school at Durham choir boys whatever it is cos he's from school apparently the locality of demanding six year olds and under so they and another la labouring school.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -79259,7 +79287,7 @@
                 },
                 {
                     "speaker": "PS0Y4",
-                    "text": "And now the second verse is who she's as generous as Robin Hood and all his merry men she's as kind as Florence Nightingale and then as kind again right super mum she has ray vision she can.",
+                    "text": "And now the second verse is who she's as generous as Robin Hood and all his merry men she's as kind as Florence Nightingale and then as kind again right super mum she has x- ray vision she can.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -79280,7 +79308,7 @@
                 },
                 {
                     "speaker": "KBWPSUG",
-                    "text": "She's as generous as Robin Hood and all his merry men she's as kind as Florence Nightingale and then as kind again right super mum she has vision she can see through me with a voice or rival calm when she called me in for tea.",
+                    "text": "She's as generous as Robin Hood and all his merry men she's as kind as Florence Nightingale and then as kind again right super mum she has x-ray vision she can see through me with a voice or rival calm when she called me in for tea.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -87737,7 +87765,7 @@
         },
         {
             "dialogue_id": "KBWRE01U",
-            "num_utterances": 655,
+            "num_utterances": 656,
             "utterances": [
                 {
                     "speaker": "PS087",
@@ -88099,6 +88127,13 @@
                 {
                     "speaker": "PS088",
                     "text": "I want cream cheese all by itself.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS087",
+                    "text": "Right-y-ho.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -92032,7 +92067,7 @@
                 },
                 {
                     "speaker": "PS0XR",
-                    "text": "there's none left you see That's ooh Oh You He's missed mum.",
+                    "text": "there's none left you see That's ooh Oh You Mary-Ann He's missed mum.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

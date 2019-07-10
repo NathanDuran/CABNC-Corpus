@@ -34,7 +34,7 @@ PS1GE|No.
 PSUN|What time we knocking off.
 PS1GF|What time is it please.
 PS1GF|Janet is my favourite Jasper Carrot.
-PS1GE|Chubby Checker.
+PS1GE|along-side Chubby Checker.
 PS1GF|She does.
 PS1GE|bollocks.
 PS1GF|as far as I'm concerned yeah.

@@ -1,5 +1,5 @@
-PS1GE|Quelle heure old boy.
-PSUN|past.
+PS1GE|Quelle heure est-il old boy.
+PSUN|twenty-five past.
 PSUN|Third time.
 PSUN|Yeah but they're nothing but a bunch of wankers speak.
 PSUN|Don't know.

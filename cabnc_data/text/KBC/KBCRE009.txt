@@ -386,7 +386,7 @@ PS1A9|I will do and then I can pay you.
 PS1A9|Right Yeah Okay I'll do that.
 PS1A9|That's lovely Okay thanks very.
 PS1A9|Right Thank you.
-PS1A9|much I've only just put it out er Rosie but I'll just put it in the microwave for a minute.
+PS1A9|much Bye-bye I've only just put it out er Rosie but I'll just put it in the microwave for a minute.
 KBCPSUN|Oh right Right.
 PS1A9|Okay.
 KBCPSUN|Yeah Yeah Did you have a good time at your party.
@@ -561,8 +561,8 @@ PS1A9|And she's just.
 PS1A9|this minute gone.
 PS1A9|No so.
 KBCPSUN|You'll be fed up then having me at home.
-PS1A9|He was a job he really is Int he Gordon.
-PS1AA|Oh yeah A job.
+PS1A9|He was a full-time job he really is Int he Gordon.
+PS1AA|Oh yeah A full-time job.
 KBCPSUN|I bet he is He's a proper little boy now isn't he.
 PS1A9|Oh yes.
 PS1AA|Yeah Talks a lot.
@@ -598,7 +598,7 @@ PS1A9|which is most unusual.
 KBCPSUN|Mm mm.
 PS1A9|and I erm my brother didn't and we said well there must be something wrong.
 KBCPSUN|Yeah Yeah.
-PS1A9|So I left it for a while and I thought I will phone her and find out And when I got through I knew immediately by the tone of her voice that she was there was something wrong So I said I asked her what was the matter and she said well I feel as though er that you've er you and Arthur have ignored me I said but we haven't You know and er she said well I feel as though you have And she was going on So I said oh well I said er if you we really want to get the I said you know we didn't receive a Christmas card from you I said but we sent them to you So she said er no I know you didn't she said because I didn't send you one So I said oh I said well you know if that's how you feel I said but I will tell you I said I'm now a grandma and I said and er Carl is getting married to Rosie.
+PS1A9|So I left it for a while and I thought I will phone her and find out And when I got through I knew immediately by the tone of her voice that she was there was something wrong So I said I asked her what was the matter and she said well I feel as though er that you've er you and Arthur have ignored me I said but we haven't You know and er she said well I feel as though you have And she was going on So I said oh well I said er if you we really want to get the nitty-gritties I said you know we didn't receive a Christmas card from you I said but we sent them to you So she said er no I know you didn't she said because I didn't send you one So I said oh I said well you know if that's how you feel I said but I will tell you I said I'm now a grandma and I said and er Carl is getting married to Rosie.
 KBCPSUN|Mm.
 PS1A9|And so she said oh right And I knew that was the end of the conversation.
 KBCPSUN|Oh.

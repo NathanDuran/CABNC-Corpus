@@ -24,7 +24,7 @@ PS101|That's that You can't freeze that one I'll have to make the sandwiches wit
 PS05X|Yes.
 PS101|I then can't freeze it for sandwiches.
 PS05X|It's not capable of being frozen again you mean or what.
-PS101|Yes you mustn't things so I try to make the sandwiches.
+PS101|Yes you mustn't re-freeze things so I try to make the sandwiches.
 PS05X|You have a sandwich making sesh do you.
 PS101|and then put them in it's so much to ease my mind in the morning is all I've got to do is take them out and they're pretty they're fresh they'll defrost by lunchtime and.
 PS05X|Yep.

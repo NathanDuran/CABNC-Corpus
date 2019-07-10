@@ -143,3 +143,5 @@ PS01C|Margaret's just doing some shopping for.
 PS01A|Fair enough See you later then.
 PS01H|Yeah.
 PS01C|Yeah.
+PS01A|Ta-ta.
+PS01C|Ta-ta.

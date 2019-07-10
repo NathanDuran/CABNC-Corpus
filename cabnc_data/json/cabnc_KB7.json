@@ -1224,7 +1224,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "I've seen people caned Saw one one lad was really really sort of well okay he wasn't clever by any stretch of the imagination but he just was just a you know a sort of and he he riled one teacher up very very badly one day cos he didn't do his homework or he was pratting about or he was you know And he got this he got a ca no it wasn't a cane but it was a quite a big stick It wasn't a sort of a sort of a thin cane it was quite a big stick he whacked him a couple of times across the backside And he really and he really did belt him one You know Cor but he got him so riled and you know.",
+                    "text": "I've seen people caned Saw one one lad was really really sort of well okay he wasn't clever by any stretch of the imagination but he just was just a you know a sort of no-hoper and he he riled one teacher up very very badly one day cos he didn't do his homework or he was pratting about or he was you know And he got this he got a ca no it wasn't a cane but it was a quite a big stick It wasn't a sort of a sort of a thin cane it was quite a big stick he whacked him a couple of times across the backside And he really and he really did belt him one You know Cor but he got him so riled and you know.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1812,7 +1812,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "He's been in detention again What you tell her for Huh You oh you're too goody goody you never get Over exuberant that's what they put on Jonathan's report school report.",
+                    "text": "He's been in detention again Tell-tale What you tell her for Huh You telly-tale oh you're too goody goody you never get Over exuberant that's what they put on Jonathan's report school report.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2749,7 +2749,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Because there wasn't a tall slim chap in.",
+                    "text": "Because there wasn't a tall slim ginger-haired chap in.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4217,7 +4217,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "So it's Gateway Gateway or blooming Rainbow Suppose we could go down the Rainbow and have a look at that microwave But I'll have to go into town first Cos I don't think they'll give me the shopping for nothing and there's no bank down Rainbow Well there is a bank but I don't think they'll let me have some money out of it.",
+                    "text": "So it's Gateway Gateway or blooming Rainbow Suppose we could go down the Rainbow and have a look at that microwave But I'll have to go into town first Cos I don't think they'll give me the shopping for nothing and there's no bank down Rainbow Well there is a Co-op bank but I don't think they'll let me have some money out of it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4315,7 +4315,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "She was to Salvation Army Ever so small little lady or something I can remember her kids and I can't remember her name Terrible Hazel and Terry 's brother Terry fire officer at Wisbech it's his laws And she died not more than a few months ago.",
+                    "text": "She was to Salvation Army Ever so small little lady or something I can remember her kids and I can't remember her name Terrible Hazel and Terry mother-in-law's brother Terry fire officer at Wisbech it's his mother-in-law laws And she died not more than a few months ago.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4749,7 +4749,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Two bed second floor flat Living room kitchen bathroom twelve months two seventy five unfurnished.",
+                    "text": "Two bed second floor self-contained flat Living room kitchen bathroom twelve months two seventy five unfurnished.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4791,7 +4791,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Norfolk Street principally first floor flat two bedrooms furnished two eighty.",
+                    "text": "Norfolk Street self-contained principally first floor flat two bedrooms furnished two eighty.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5001,7 +5001,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "Furniture wasn't that posh but then er but the only thing I thought about it was safe and it was clean Needed a bit of personalizing but it was it was furniture but it was polished It was clean Had a reasonable carpet on the floor and and so on.",
+                    "text": "Furniture wasn't that posh but then er but the only thing I thought about it was safe and it was clean Needed a bit of personalizing but it was it was old-fashioned furniture but it was polished It was clean Had a reasonable carpet on the floor and and so on.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11325,7 +11325,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Fridge up there or against that window couldn't you Have it away from that.",
+                    "text": "Fridge fridge-freezer up there or against that window couldn't you Have it away from that.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11591,7 +11591,7 @@
                 },
                 {
                     "speaker": "PS02K",
-                    "text": "You're are you.",
+                    "text": "You're wheel-less are you.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18074,7 +18074,7 @@
         },
         {
             "dialogue_id": "KB7RE00B",
-            "num_utterances": 963,
+            "num_utterances": 964,
             "utterances": [
                 {
                     "speaker": "PS02G",
@@ -21691,6 +21691,13 @@
                 {
                     "speaker": "PS02G",
                     "text": "You're in the lead.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS6TB",
+                    "text": "Whoops-a-daisy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27079,7 +27086,7 @@
                 },
                 {
                     "speaker": "PS6TB",
-                    "text": "Oh this is a real this one right So if that thing will shoot off and hit that yes I have Yes I know.",
+                    "text": "Oh this is a real balls-up this one right So if that thing will shoot off and hit that yes I have Yes I know.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27611,7 +27618,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Oh now what do I do.",
+                    "text": "Oh Fiddle-dee-dee now what do I do.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -37843,7 +37850,7 @@
                 },
                 {
                     "speaker": "PS02X",
-                    "text": "Can have fish and in the.",
+                    "text": "Can have fish and in the Co-Op.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -47612,7 +47619,7 @@
                 },
                 {
                     "speaker": "PS02X",
-                    "text": "I just don't know what was wrong with it I've work Jason said Ja we a subject turned to what he wore in bed Ja and Jason said nothing right but he said when it's winter I wear my and the pants and I cuddle up to my glow worm and we was all taking the mickey out of his glow worm right so I've come home and I read the paper and I'll see glow worm in it so I cut it out and give it to him and he stuck it up in the factory So every time everybody goes past and goes how's your glow worm boy today and takes the mickey out of him.",
+                    "text": "I just don't know what was wrong with it I've work Jason said Ja we a subject turned to what he wore in bed Ja and Jason said nothing right but he said when it's winter I wear my t-shirt and the pants and I cuddle up to my glow worm and we was all taking the mickey out of his glow worm right so I've come home and I read the paper and I'll see glow worm in it so I cut it out and give it to him and he stuck it up in the factory So every time everybody goes past and goes how's your glow worm boy today and takes the mickey out of him.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -57341,7 +57348,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "That'll do two points to mother Ann's question Is it possible to re to traverse under the North Pole in.",
+                    "text": "That'll do two points to mother Ann's question Is it possible to re to traverse under the North Pole in mid-winter.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -57565,14 +57572,14 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Which are the only group of islands made from Granite.",
+                    "text": "Which are the only mid-ocean group of islands made from Granite.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "Mm group of islands made of granite.",
+                    "text": "Mm mid-ocean group of islands made of granite.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -57600,7 +57607,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "That's only a blooming guess I don't know of any bloody islands.",
+                    "text": "That's only a blooming guess I don't know of any mid-ocean bloody islands.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -59455,7 +59462,7 @@
                 },
                 {
                     "speaker": "PS02L",
-                    "text": "Yeah it's actually so I don't think you should get that.",
+                    "text": "Yeah it's sub-arctic actually so I don't think you should get that.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -62342,7 +62349,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Have a little.",
+                    "text": "Have a little drinky-poos.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -67575,7 +67582,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "No erm might as well continue now half way round do a.",
+                    "text": "No erm might as well continue now half way round do a u-turn.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -67750,7 +67757,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "I shall have to be looking out for a second hand just for the occasional trip into town without getting Stuey out of bed so I be a bit more independent than just bothering you all time if I just wan na pop anywhere.",
+                    "text": "I shall have to be looking out for a second hand bike-y just for the occasional trip into town without getting Stuey out of bed so I be a bit more independent than just bothering you all time if I just wan na pop anywhere.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -74661,7 +74668,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "That's definitely this is the raw bit and that's a bit of the end of the probably have the landing or something can use the rest of it through.",
+                    "text": "That's definitely this is the raw bit and that's a bit of the end of the cut-off probably have the landing or something can use the rest of it through.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -75919,7 +75926,7 @@
                 },
                 {
                     "speaker": "PS6TB",
-                    "text": "Yeah dad would say not enough garlic in there that could do with a bit of in there and I will you.",
+                    "text": "Yeah dad would say not enough garlic in there that could do with a bit of cauli-head in there and I will you.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -79250,7 +79257,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "I think looking at the market you can you can get a erm detached sort of one you know one bedroom I suppose.",
+                    "text": "I think looking at the market you can you can get a erm detached semi-detached sort of one you know one bedroom I suppose.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -79292,7 +79299,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "What that's ten minutes slow Just done all your paper work on them teams.",
+                    "text": "What that's ten minutes slow Just a-f-bout done all your paper work on them teams.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -79941,7 +79948,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "Oh I don't know cos there's a hell of a lot of people parking same cars in that in there.",
+                    "text": "Oh I don't know cos there's a hell of a lot of people parking same cars in that multi-storey in there.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -80493,7 +80500,7 @@
                 },
                 {
                     "speaker": "PS02G",
-                    "text": "awful cos I'm I usually get I'm the the lucky person who hangs his head over a sink and sends him home again.",
+                    "text": "awful cos I'm first-aided I usually get I'm the the lucky person who hangs his head over a sink and sends him home again.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -82227,7 +82234,7 @@
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "Ok.",
+                    "text": "Ok right-y-oh.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -82492,14 +82499,14 @@
             "utterances": [
                 {
                     "speaker": "PS02G",
-                    "text": "belt on Stuart.",
+                    "text": "Seat-y belt on Stuart.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS02H",
-                    "text": "better put her belt on then hadn't she In case mister man decides to stop us and say why haven't you put your belt on Mrs M Mrs woman Sorry sir It's your responsibility to ensure that your passengers have got their safety belt on Cos that would be nice wouldn't it To be fined twelve quid for not having a safety belt on and on top of the ninety quid and the forty quid and one thing and another.",
+                    "text": "better put her seat-y belt on then hadn't she In case mister police-y man decides to stop us and say why haven't you put your seat-y belt on Mrs M Mrs woman Sorry sir It's your responsibility to ensure that your passengers have got their safety belt on Cos that would be nice wouldn't it To be fined twelve quid for not having a safety belt on and on top of the ninety quid and the forty quid and one thing and another.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

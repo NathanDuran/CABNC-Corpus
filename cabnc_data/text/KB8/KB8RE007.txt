@@ -109,9 +109,9 @@ PS15C|What are you doing.
 PS14B|I I'll I'll cut that in two Wait a minute I'll cut it in two It's too big.
 PS15C|With a bit of luck.
 PS14B|Here you are Sit on your chair There's a piece of stottie for you And there's a piece of stottie for you.
-PS15C|Wave to Ann now.
-PS14P|Ann.
-PS14B|Richard Bye Amy.
+PS15C|Wave bye-bye to Ann now.
+PS14P|Bye-bye Ann.
+PS14B|Bye-bye Richard Bye Amy.
 PS15C|Bye.
 PS14B|Bye Andrea.
 PS15C|Thank you.
@@ -351,7 +351,7 @@ PS14M|Oh look.
 PS14D|going somewhere because.
 PS14B|I think.
 PS14D|it's twenty past four now.
-PS14B|Mm Yes Well it's quarter past already Why are you eating this Bryony You don't eat And Richard's decided to be after all this time Well that is daddy's isn't it.
+PS14B|Mm Yes Well it's quarter past already Why are you eating left-handed this Bryony You don't eat left-handed And Richard's decided to be right-handed after all this time Well that is daddy's isn't it.
 PS14P|I'm not spilling it too I'm not spilling too.
 PS14B|No you're not spilling it You're being very careful.
 PS14P|Yes.

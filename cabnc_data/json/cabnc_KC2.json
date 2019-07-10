@@ -1836,7 +1836,7 @@
         },
         {
             "dialogue_id": "KC2RE002",
-            "num_utterances": 209,
+            "num_utterances": 210,
             "utterances": [
                 {
                     "speaker": "PS09T",
@@ -3268,6 +3268,13 @@
                 },
                 {
                     "speaker": "PS09T",
+                    "text": "re-arranged.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS09T",
                     "text": "you see I met an old work mate of mine he said they were at Grantham.",
                     "ap_label": "",
                     "da_label": "",
@@ -4415,7 +4422,7 @@
                 },
                 {
                     "speaker": "PS0A1",
-                    "text": "Can we play a game after.",
+                    "text": "Can we play a game after din-dins.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4828,7 +4835,7 @@
                 },
                 {
                     "speaker": "PS0A1",
-                    "text": "after.",
+                    "text": "after din-dins.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4842,7 +4849,7 @@
                 },
                 {
                     "speaker": "PS0A1",
-                    "text": "dinner and.",
+                    "text": "dinner and din-dins.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18625,7 +18632,7 @@
                 },
                 {
                     "speaker": "PS09U",
-                    "text": "Yeah.",
+                    "text": "Yeah right-oh.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20866,7 +20873,7 @@
                 },
                 {
                     "speaker": "PS09U",
-                    "text": "No I want the green I want the garden chair I was thinking of getting a big garden chair and stick it in one of those.",
+                    "text": "No I want the green I want the garden chair I was thinking of getting a big garden chair and stick it in one of those lean-to.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -21411,7 +21418,7 @@
                 },
                 {
                     "speaker": "PS09X",
-                    "text": "Yeah And it's about that wide So they've got to the foundations and everything.",
+                    "text": "Yeah And it's about that wide So they've got to re-do the foundations and everything.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -23826,7 +23833,7 @@
                 },
                 {
                     "speaker": "PS09X",
-                    "text": "when he does his his er chimney sweeping You know erm he charges oh fifteen pounds for labour And he a funeral parlour Fantastic job so he must be doing good work But for him to go will cost him more money than doing it on the bl black market So he doesn't go.",
+                    "text": "when he does his his er chimney sweeping You know erm he charges oh fifteen pounds for labour And he a funeral parlour Fantastic job so he must be doing good work But for him to go self-employed will cost him more money than doing it on the bl black market So he doesn't go self-employed.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -23868,7 +23875,7 @@
                 },
                 {
                     "speaker": "PS09X",
-                    "text": "Yeah that was The the the house is in such a position erm it's it's in a well the road goes up this There's a house at the end And you can see.",
+                    "text": "Yeah that was The the the house is in such a position erm it's it's in a cul-de-sac well the road goes up this There's a house at the end And you can see.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25009,7 +25016,7 @@
                 },
                 {
                     "speaker": "PS09Y",
-                    "text": "Oh then.",
+                    "text": "Oh right-oh then.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25808,7 +25815,7 @@
         },
         {
             "dialogue_id": "KC2RE00U",
-            "num_utterances": 875,
+            "num_utterances": 876,
             "utterances": [
                 {
                     "speaker": "PS09T",
@@ -26623,6 +26630,13 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS09V",
+                    "text": "Right-oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS09Y",
                     "text": "Well he won't be long unless he sees anybody to talk to He's like you for that.",
                     "ap_label": "",
@@ -27149,7 +27163,7 @@
                 },
                 {
                     "speaker": "PS09X",
-                    "text": "It's about twenty four degrees I was sweltering I was wearing a and they were out you know with jumpers on and all sorts They wear pyjamas at night and all sorts they do.",
+                    "text": "It's about twenty four degrees I was sweltering I was wearing a t-shirt and they were out you know with jumpers on and all sorts They wear pyjamas at night and all sorts they do.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27576,14 +27590,14 @@
                 },
                 {
                     "speaker": "PS09W",
-                    "text": "She's saying no one of me.",
+                    "text": "She's saying no don't-a take-a one of me.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS09W",
-                    "text": "the camera off.",
+                    "text": "Switch-a the camera off.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27891,7 +27905,7 @@
                 },
                 {
                     "speaker": "PS09W",
-                    "text": "Do you remember Eleanor She was a little curly girl Beautiful curly dark hair she had She was a little tiny dot.",
+                    "text": "Do you remember Eleanor She was a little dark-haired curly girl Beautiful curly dark hair she had She was a little tiny dot.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -28822,7 +28836,7 @@
                 },
                 {
                     "speaker": "PS09W",
-                    "text": "They don't half eat though Good grief I mean you got dinnertimes it was erm typical pasta with her spaghetti sauce and parmesan cheese great big plateful and loads of meat on the side And then at night egg and chips cos she knows Tony likes chips or chops and ooh Said didn't I I'm gon na put loads of weight on.",
+                    "text": "They don't half eat though Good grief I mean you got dinnertimes it was erm typical pasta with her home-made home-made spaghetti sauce and parmesan cheese great big plateful and loads of meat on the side And then at night egg and chips cos she knows Tony likes chips or chops and ooh Said didn't I I'm gon na put loads of weight on.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -29032,14 +29046,14 @@
                 },
                 {
                     "speaker": "PS09W",
-                    "text": "Ooh look at me there look I think I'd had a few few wines.",
+                    "text": "Ooh look at me there look I think I'd had a few few home-made wines.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS09W",
-                    "text": "Look at this wine Look what they've got here the bottles.",
+                    "text": "Look at this home-made wine Look what they've got here the bottles.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -29249,7 +29263,7 @@
                 },
                 {
                     "speaker": "PS09W",
-                    "text": "Oh there's Sally playing again.",
+                    "text": "Oh there's Sally playing peep-o again.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -29809,7 +29823,7 @@
                 },
                 {
                     "speaker": "PS09X",
-                    "text": "The other one's absolutely.",
+                    "text": "The other one's absolutely chock-a-block.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

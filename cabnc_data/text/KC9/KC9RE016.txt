@@ -275,7 +275,7 @@ PS0CH|That's the only thing about that house that I don't really like that's the
 PS0CG|You haven't got as much at the front as I have.
 PS0CH|No.
 PS0CG|I meant to put a lot more bulbs in over the I've still got time actually.
-PS0CH|Well we dug the lot up they're all growing like mad and I I've got an idea that once you've moved them they don't they don't very well.
+PS0CH|Well we dug the lot up they're all growing like mad and I I've got an idea that once you've moved them they don't they don't re-settle very well.
 PS0CG|Oh I thought you can move bulbs any time when they were dormant.
 PS0CH|Well they're not all there all their roots are growing.
 PS0CG|Yeah.

@@ -248,8 +248,8 @@ PS101|Fashion.
 PS103|Mm.
 PS101|Beauty.
 PS103|Mm.
-PS103|Yeah theatrical.
-PS05X|Theatrical really.
+PS103|Yeah theatrical make-up.
+PS05X|Theatrical make-up really.
 PS103|Theatrical erm period costumes.
 PS05X|Millenary had a lovely old fashion rings.
 PS101|Do you only see the girls on model.

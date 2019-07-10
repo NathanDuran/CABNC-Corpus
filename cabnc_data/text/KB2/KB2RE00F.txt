@@ -11,7 +11,7 @@ PS01V|looking.
 PS01U|Er yeah.
 PS01V|and erm it were a long play and it were hundred and twenty nine pound video.
 PS01U|Was it.
-PS01V|Yeah Ooh I said you ought to go get one of these She says oh I see enough bloody telly without recording Because that's where I got Angela's from.
+PS01V|Yeah Ooh I said you ought to go get one of these She says oh I see enough bloody telly without recording Because that's where I got Angela's hi-fi from.
 PS01U|Yeah.
 PS01V|You know.
 PS01U|Yeah you did yeah.
@@ -440,7 +440,7 @@ PS01U|No they're up the er back of beyond you never see a soul.
 PS01V|Don't you.
 PS01U|No They're all like yo like it's it's a biggish estate but they're all new houses.
 PS01V|Oh.
-PS01U|but they're all in little You know there's only.
+PS01U|but they're all in little cul-de-sacs You know there's only.
 PS01V|Oh.
 PS01U|like there's one two three four five six and then like seven.
 PS01V|Mm.
@@ -1527,6 +1527,7 @@ PS01V|so.
 PS01U|See you again love.
 PS01T|Tarrah.
 PS01V|No.
+PS01U|Ta-ta.
 PS01T|See you next week.
 PS01U|Yeah.
 PS01V|Urgh Urgh.

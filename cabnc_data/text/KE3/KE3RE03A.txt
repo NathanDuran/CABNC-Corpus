@@ -178,7 +178,7 @@ PS0V4|How long is a piece of string Five and a half days.
 PS0V7|They can get it immediately get it immediately.
 KE3PSUN|That's what I was quoted last week.
 PS0V4|Right.
-KE3PSUN|When I asked the question He said five and a half days He hasn't.
+KE3PSUN|When I asked the self-same question He said five and a half days He hasn't.
 PS0V7|The last time.
 PS0V4|I I would I would have thought it could have could take it could easily take ten days.
 KE3PSUN|Yeah Two weeks.

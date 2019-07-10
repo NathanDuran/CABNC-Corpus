@@ -67,10 +67,10 @@ PS1BL|You like that did ya.
 PS1BP|I like that.
 PS1BL|Did you record it.
 PS1BP|No I've got to tape that.
-PS1BL|See he's got all this bloody one thousand quid bloody hasn't got a double deck.
+PS1BL|See he's got all this bloody one thousand quid bloody hi-fi hasn't got a double deck.
 PS1BP|Single one holds that.
 PS1BL|Yeah but you can't record then.
-PS1BP|So what when you're paying that much for the you don't expect sound quality you'll get from a tape to tape it's thought the sound quality is so crap you might as well just do it on a shit thing.
+PS1BP|So what when you're paying that much for the hi-fi you don't expect sound quality you'll get from a tape to tape it's thought the sound quality is so crap you might as well just do it on a shit thing.
 PS1BL|Did you follow this saying.
 PS1BN|No I ain't got a clue what he said then.
 PS1BP|Look when you when you tape tape to tape.
@@ -391,7 +391,7 @@ KBMPSUN|you are given very much more freedom or independence would be a better w
 PS1BL|Shit.
 KBMPSUN|you'd be expected to to do a lot of work by yourself and that's reflecting the fact that erm you'll probably have four or five lessons in each of your three subjects but most people would choose three subjects for A level and that means that er when you're not having lessons you've got a lot of time that is not accountable for you will have been or going to a general studies period and stuff like that but there will be a fair number of private study periods erm there are some people I think who who go overboard and you've got such a different approach erm from er the lower sixth people don't use the time that they have erm what I'm really saying is that if you go into the sixth form and you spend less school time in the sixth form you don't need to be prepared.
 PS1BL|Well what's.
-KBMPSUN|to to make wise use of your.
+KBMPSUN|to to make wise use of your non-teaching.
 KBMPSUN|time erm presumably going into a library quite a lot You would also be expected to for example to prepare for.
 PS1BL|Eh I'm not going into a library fuck that.
 KBMPSUN|for certain lessons I just give you an example with literature it would work with erm science and er other things as well you might be told in the next lesson we are going to discuss for example the first act of a particular play or we're going to discuss which particular scientific experiment or the cause of whatever it is.

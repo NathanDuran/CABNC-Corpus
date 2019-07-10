@@ -36,7 +36,7 @@
                 },
                 {
                     "speaker": "PS08Y",
-                    "text": "An.",
+                    "text": "An off-licence.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3757,7 +3757,7 @@
                 },
                 {
                     "speaker": "PS095",
-                    "text": "er er said to me have you ever thought about I said I'm past that my dear.",
+                    "text": "what's-a-name er er said to me have you ever thought about I said I'm past that my dear.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -17627,7 +17627,7 @@
                 },
                 {
                     "speaker": "KC0PSUN",
-                    "text": "No but erm my 's going to do erm.",
+                    "text": "No but erm my sister-in-law's going to do erm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22902,7 +22902,7 @@
                 },
                 {
                     "speaker": "PS093",
-                    "text": "is to the shoe so that er it just misses.",
+                    "text": "is to re-balance the shoe so that er it just misses.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -24820,7 +24820,7 @@
                 },
                 {
                     "speaker": "PS093",
-                    "text": "it.",
+                    "text": "Re-shape it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -24848,7 +24848,7 @@
                 },
                 {
                     "speaker": "PS092",
-                    "text": "yeah and then re it to shoe.",
+                    "text": "yeah and then re re-used it to shoe.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27767,7 +27767,7 @@
                 },
                 {
                     "speaker": "PS093",
-                    "text": "aren't we.",
+                    "text": "self-effacing aren't we.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

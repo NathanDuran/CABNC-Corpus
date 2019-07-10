@@ -61,7 +61,7 @@ PS01A|They're not wrapped.
 PS01B|No.
 PS01A|No.
 PS01B|The double wrap.
-KB1PSUN|Get it picked then you.
+KB1PSUN|Get it picked then you Kit-Kat.
 PS01E|What's that with new top on.
 PS01B|Mm.
 PS01E|There in orange.
@@ -503,7 +503,7 @@ PS01D|But you put that you put a bag in.
 PS01D|now put your filter in it just it lids your bag but your bag splits because there's no room for your bag.
 PS01B|There.
 PS01A|Yeah.
-PS01E|They should be bags shouldn't they.
+PS01E|They should be dome-shaped bags shouldn't they.
 PS01D|Yeah.
 PS01E|Then they'd work.
 PS01D|They'd go down bottom wouldn't they.

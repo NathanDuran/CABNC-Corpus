@@ -1840,7 +1840,7 @@
                 },
                 {
                     "speaker": "PS0BY",
-                    "text": "Well whatever it is don't seem to want it.",
+                    "text": "Well whatever it is no-one don't seem to want it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2007,7 +2007,7 @@
                 },
                 {
                     "speaker": "KC8PSUN",
-                    "text": "if he thought there was something up he would of sent you for an or.",
+                    "text": "if he thought there was something up he would of sent you for an x-ray or.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2077,7 +2077,7 @@
                 },
                 {
                     "speaker": "KC8PSUN",
-                    "text": "yeah she ain't got a minute has she I said I want them back today and I said erm this morning cos I said er I want them to put my cakes in oh she said oh well are you going anywhere So I said no so I'd better get on with my cooking so she said oh she said done it on pur colour I'm a bit more colour than that I was yesterday I had a.",
+                    "text": "yeah she ain't got a minute has she I said I want them back today and I said erm this morning cos I said er I want them to put my cakes in oh she said oh well are you going anywhere So I said no so I'd better get on with my cooking so she said oh she said done it on pur colour co-ordinated I'm a bit more colour co-ordinated than that I was yesterday I had a.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2266,7 +2266,7 @@
                 },
                 {
                     "speaker": "PS0BY",
-                    "text": "Oh then I can just go up to.",
+                    "text": "Oh then I can just go up to Co-Op.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2385,14 +2385,14 @@
                 },
                 {
                     "speaker": "KC8PSUN",
-                    "text": "Yeah but you see it says you see.",
+                    "text": "Yeah but you see it says Co-Op you see.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS0BY",
-                    "text": "Oh I'm thinking of Rainbow why am I thinking of Rainbow is that as well.",
+                    "text": "Oh I'm thinking of Rainbow why am I thinking of Rainbow is that Co-Op as well.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3203,7 +3203,7 @@
                 },
                 {
                     "speaker": "PS0BY",
-                    "text": "Pair of or something.",
+                    "text": "Pair of bi-focals or something.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3245,7 +3245,7 @@
                 },
                 {
                     "speaker": "PS0BY",
-                    "text": "Are they I think with the half brim bits.",
+                    "text": "Are they I think bi-focals with the half brim bits.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3608,7 +3608,7 @@
                 },
                 {
                     "speaker": "PS0C4",
-                    "text": "so I had it disconnected had it disconnected and so I've asked for it to be they can't do it until twenty seventh December.",
+                    "text": "so I had it disconnected had it disconnected and so I've asked for it to be re-connected they can't do it until twenty seventh December.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5482,7 +5482,7 @@
                 },
                 {
                     "speaker": "PS0BY",
-                    "text": "and erm I went up to mum's and she's got a load of Unique and she said if there's anything in that bag you want it you'd better have it so I said.",
+                    "text": "and erm I went up to mum's and she's got a load of Unique make-up and she said if there's anything in that bag you want it you'd better have it so I said.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -9868,7 +9868,7 @@
                 },
                 {
                     "speaker": "PS0BY",
-                    "text": "right will you just sit there for a minute while mummy gets to pick the tomatoes oh oh don't panic 's going to run off with you.",
+                    "text": "right will you just sit there for a minute while mummy gets to pick the tomatoes oh oh don't panic no-one's going to run off with you.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10799,7 +10799,7 @@
                 },
                 {
                     "speaker": "KC8PSUN",
-                    "text": "Yeah she's Katie she bought what were her chances of it you know.",
+                    "text": "Yeah she's Katie she bought what were her chances of re-ordering it you know.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

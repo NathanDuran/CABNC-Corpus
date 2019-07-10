@@ -21,7 +21,7 @@ PS05B|I think that's the only one oh more here.
 PS05J|Ready.
 PS05E|Weeee there.
 PS05J|Grandpa.
-PS05E|Come here don mind where you're walking.
+PS05E|Come here don mind where you're walking sweetie-pops.
 PS05H|Go on you show me.
 PS05E|Climb up and show Grandpa Charlotte.
 PS05B|Go on love Charlotte.
@@ -154,4 +154,4 @@ PS05E|Oh the two oh the two of them.
 PS05B|Yes.
 PS05E|Yeah.
 PS05B|Come in the lounge.
-PS05E|Come on then mm.
+PS05E|Come on then sweetie-pops mm.

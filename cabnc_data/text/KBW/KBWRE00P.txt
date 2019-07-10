@@ -306,7 +306,7 @@ PS08A|Mm.
 PS089|but Rosie said come on fast And the pony went fast and it overtakes.
 PS08A|Does it.
 PS089|it on the way home.
-PS087|Okay I'll just go round the other side and get the.
+PS087|Okay I'll just go round the other side and get the ice-cream.
 PS089|We keep doing this.
 PS088|I'm having a lot.
 PS087|Are you.
@@ -320,6 +320,7 @@ PS087|Right That's that's daddy's.
 PS088|Who's is Daddy's I'll just get.
 PS087|Do you want to take that to daddy.
 PS088|Daddy yours.
+PS088|ice-cream.
 PS08A|Thank you.
 PS088|it is.
 PS08A|It's a chocolate.

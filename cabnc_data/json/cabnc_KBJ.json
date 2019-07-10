@@ -1331,7 +1331,7 @@
                 },
                 {
                     "speaker": "PS1DP",
-                    "text": "Oh Where's the erm the for the curtains in your bedroom.",
+                    "text": "Oh Where's the erm the tie-backs for the curtains in your bedroom.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1345,7 +1345,7 @@
                 },
                 {
                     "speaker": "PS1DP",
-                    "text": "The for the curtains in your bedroom.",
+                    "text": "The tie-backs for the curtains in your bedroom.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1625,7 +1625,7 @@
         },
         {
             "dialogue_id": "KBJRE003",
-            "num_utterances": 32,
+            "num_utterances": 33,
             "utterances": [
                 {
                     "speaker": "PS1DP",
@@ -1812,6 +1812,13 @@
                 {
                     "speaker": "PS1DR",
                     "text": "Where's my arm Tt That's my arm you're standing on.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1DP",
+                    "text": "Ni-night.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4623,7 +4630,7 @@
                 },
                 {
                     "speaker": "PS1DP",
-                    "text": "Mm How long has er 's never been in erm.",
+                    "text": "Mm How long has er Co-op's never been in erm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4728,14 +4735,14 @@
                 },
                 {
                     "speaker": "PS1DS",
-                    "text": "it says a.",
+                    "text": "it says a mini-series.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS1DP",
-                    "text": "No Be on twice I should imagine It's what they mean by a series.",
+                    "text": "No Be on twice I should imagine It's what they mean by a mini- series.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

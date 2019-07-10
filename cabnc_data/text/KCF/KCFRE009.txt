@@ -59,7 +59,7 @@ PS1ER|He was there in the hotel because.
 PS1EN|What mum what do you want.
 PS1EP|Stuart.
 PS1ER|He was celebrating because he'd just had a.
-PS1EP|Do you wan na lolly ice mum It's the last one Are you gon na take it out me mouth Now I'm mister won't it Mister.
+PS1EP|Do you wan na lolly ice mum It's the last one Are you gon na take it out me mouth Now I'm mister topsy-turvy won't it Mister topsy-turvy.
 PS1ES|Other way.
 PS1EN|Well he won't have much to do with the greengages the night he's going.
 PS1ES|Hey I'll be the soul of discretion.
@@ -90,5 +90,5 @@ PS1ER|Your fantastic mother has got this tape player on here.
 PS1EN|Yes Well if you.
 PS1ER|Isn't she a wonderful mother.
 PS1EN|If you'd tape it for me you wouldn't have I wouldn't have to have.
-PS1ER|Isn't she such a wonderful What a wonderful I have got I have got Isn't she absolutely wonderful Just going to the toilet mother Won't be long Okay yah.
+PS1ER|Isn't she such a wonderful mother-in-law What a wonderful mother-in-law I have got I have got Isn't she absolutely wonderful Just going to the toilet mother Won't be long Okay yah.
 PS1EN|come here love.

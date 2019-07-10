@@ -160,7 +160,7 @@ PS0SX|I mean ten years ago maybe twenty years ago I wouldn't have known anyone a
 PS0SY|No.
 PS0SX|Yes.
 PS0SY|That's right.
-PS0SX|The and the rabble But I mean now they do They're ordinary people.
+PS0SX|The riff-raff and the rabble But I mean now they do They're ordinary people.
 PS0SX|Well that's.
 PS0SY|Mm.
 PS0SX|Yeah But they are ordinary people.
@@ -442,7 +442,7 @@ PS0SY|Didn't ask how you were.
 PS0SX|No oh oh oh No I just tonic Dave.
 PS0SY|You sure.
 PS0SX|Yes.
-PS0SX|Don't you want a.
+PS0SX|Don't you want a little-un.
 PS0SX|No oh no I'm alright.
 PS0SX|Little port.
 PS0SX|thank you.

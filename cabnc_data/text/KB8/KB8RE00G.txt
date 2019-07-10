@@ -66,7 +66,7 @@ PS14B|Right Is it raining.
 PS14C|I suppose it is I don't know if it is.
 PS14B|Well the back wall looks wet.
 PS14C|Well th there was no rain on it when I came came here Must have su must have suddenly started.
-PS14B|It is raining I got the washing nearly all dry anyway All the shirts I didn't it was so bright and windy so I put another lot in after that lot came out it'll be only be I'll have in the dryer when they finish off.
+PS14B|It is raining I got the washing nearly all dry anyway All the shirts I didn't it was so bright and windy so I put another lot in after that lot came out it'll be only be T-shirts I'll have in the dryer when they finish off.
 PS14C|Well these poor blighters who got flooded who could do with the wind to dry the houses out couldn't they.
 PS14B|Yeah.
 PS14C|The er.
@@ -305,7 +305,7 @@ PS14B|products plant and cake stalls Suitable for wheelchairs.
 PS14C|Well that's what I was thinking.
 PS14B|Toilet for disabled.
 PS14C|Yeah.
-PS14B|Tea with scones and cakes Open from one till five.
+PS14B|Tea with home-baked scones and cakes Open from one till five.
 PS14C|Mhm.
 PS14B|It still isn't a lot of time if you finish work at quarter past three and you're not home till.
 PS14C|I'm I'm a half day I finish at twelve.
@@ -497,7 +497,7 @@ PS14B|I met her erm.
 PS14C|On holiday.
 PS14B|Yes I don't know if she's gone alone or with some or with a friend but er she said she wanted to she'd never been to California and she wanted to go before she was too old and crotchety to get there because David's he's in no fit state to go anywhere any more.
 PS14C|So why what.
-PS14B|So she asked she asked if sh her cos Sheila's living er near her daughter.
+PS14B|So she asked she asked if sh her sister-in-law cos Sheila's living er near her daughter.
 PS14C|And did er.
 PS14B|Well so.
 PS14C|Near Berwick or something.

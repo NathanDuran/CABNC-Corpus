@@ -17,7 +17,7 @@ PS0WR|but you know what Ashley's like.
 PS0WN|No I don't know what Ashley's like What is Ashley like.
 PS0WR|Well Ashley is annoying.
 PS0WN|Is she.
-PS0WR|Ashley wants to do everything that the do.
+PS0WR|Ashley wants to do everything that the grown-ups do.
 PS0WN|Mhm.
 PS0WR|Er er like a mum And she wants to do the same things as us.
 PS0WN|What age is Ashley.

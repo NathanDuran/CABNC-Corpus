@@ -26,7 +26,7 @@ PS0EA|Shall I take two.
 PS0E9|Well er tissues anyway.
 PS0EA|I think that tissue paper's thick.
 PS0E9|Unclear.
-PS0E8|p.
+PS0E8|Eighty-one p.
 PS0E9|Well I think I don't think there'll be enough for you for a week Er I should take a box.
 PS0EA|Yes it will.
 PS0E9|You won't have all that much.

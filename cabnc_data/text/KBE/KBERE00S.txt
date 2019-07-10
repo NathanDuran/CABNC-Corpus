@@ -156,7 +156,7 @@ KBEPSUN|My but.
 KBEPSUN|Put a note in there a bit smaller please.
 KBEPSUN|please.
 KBEPSUN|Er order a rich moisturiser skin supplement facial oil.
-KBEPSUN|Free Mary yeah.
+KBEPSUN|Free make-up Mary yeah.
 KBEPSUN|aftershave look at my.
 KBEPSUN|How much is the aftershave Betty.
 KBEPSUN|Well I've sent for my gold ring haven't I.
@@ -236,7 +236,7 @@ KBEPSUN|She opened her window and screamed and erm of course the neighbours come
 KBEPSUN|When was this.
 KBEPSUN|It was on Radio Bristol and and er.
 KBEPSUN|When did that happen.
-KBEPSUN|Oh Pam come down and she said do you know where it is she said it's they young.
+KBEPSUN|Oh Pam come down and she said do you know where it is she said it's so-so they young.
 KBEPSUN|Ah.
 KBEPSUN|sold it now different people got it and they've gone to Amer going to America yeah that was them ever so nice girl she is and her children two lovely girls and a boy of about sixteen I suppose lovely girl she was and they were frightened to go anywhere.
 KBEPSUN|I know they were.
@@ -810,6 +810,7 @@ KBEPSUN|Yeah I done the dish yeah.
 KBEPSUN|Got the corned beef.
 KBEPSUN|What you want Half a pound of margarine and a packet of flour.
 KBEPSUN|Flour.
+KBEPSUN|Self-raising.
 KBEPSUN|Eh just any margarine Don't have to be Flora any margarine.
 KBEPSUN|The cheapest margarine they got.
 KBEPSUN|Yeah the cheapest.

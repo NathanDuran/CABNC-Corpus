@@ -529,7 +529,7 @@ KC0PSUN|general nurse.
 PS08Y|Yes.
 KC0PSUN|were you Mm.
 PS08Y|Mhm Yes Oh it's a great life a I think anyway.
-KC0PSUN|No but erm my 's going to do erm.
+KC0PSUN|No but erm my sister-in-law's going to do erm.
 PS090|My sister says over there.
 KC0PSUN|she'd be.
 PS08Y|Yeah.

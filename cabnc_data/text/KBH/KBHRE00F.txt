@@ -146,7 +146,7 @@ PS05E|do do do do do do do.
 PS05B|I like the pear.
 PS05J|What that pear.
 PS05B|So that's pear.
-PS05J|Mm not very is it.
+PS05J|Mm not very kiddy-fied is it.
 PS05B|Well what wo oh that's nice.
 PS05J|What.
 PS05B|That rabbit.

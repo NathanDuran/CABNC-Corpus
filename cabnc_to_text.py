@@ -8,7 +8,7 @@ data_dir = "cabnc_data/text"
 utterance_only_flag = False
 
 # Excluded characters for ignoring i.e. '=='
-excluded_chars = {'<', '>', '-', '#', '&', '|', '=', '@', '', '[', ']'}
+excluded_chars = {'<', '>', '#', '&', '|', '=', '@', '', '[', ']'}
 strip_chars = [':', '⌊', '⌋', '⌈', '⌉', '“', '”', '"', '(', ')', '◉']
 
 # Get a list of all the dialogue directories

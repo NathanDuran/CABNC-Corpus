@@ -2805,7 +2805,7 @@
                 },
                 {
                     "speaker": "PS0SX",
-                    "text": "What his.",
+                    "text": "What his ex-wife.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2819,14 +2819,14 @@
                 },
                 {
                     "speaker": "PS0SX",
-                    "text": "Or or what.",
+                    "text": "Or ex-girlfriend or what.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS0SW",
-                    "text": "Tiffany the daughter.",
+                    "text": "Ex-wife Tiffany the daughter.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5910,7 +5910,7 @@
                 },
                 {
                     "speaker": "PS0SX",
-                    "text": "The and the rabble But I mean now they do They're ordinary people.",
+                    "text": "The riff-raff and the rabble But I mean now they do They're ordinary people.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7884,7 +7884,7 @@
                 },
                 {
                     "speaker": "PS0SX",
-                    "text": "Don't you want a.",
+                    "text": "Don't you want a little-un.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11572,7 +11572,7 @@
                 },
                 {
                     "speaker": "PS0T1",
-                    "text": "When you go along a just before you turn round as if a you're going towards Lumsbury they're two pairs of I was born in.",
+                    "text": "When you go along a just before you turn round as if a you're going towards Lumsbury they're two pairs of semi-detached I was born in.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11600,7 +11600,7 @@
                 },
                 {
                     "speaker": "PS0T1",
-                    "text": "I was born in one of the but I don't know which one it was it must have been one of the.",
+                    "text": "I was born in one of the semi-detached but I don't know which one it was it must have been one of the.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11635,7 +11635,7 @@
                 },
                 {
                     "speaker": "PS0T1",
-                    "text": "But it's just two pairs of.",
+                    "text": "But it's just two pairs of semi-det.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12370,7 +12370,7 @@
                 },
                 {
                     "speaker": "PS0SX",
-                    "text": "Oh yeah the results of your ray.",
+                    "text": "Oh yeah the results of your X- ray.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -15653,7 +15653,7 @@
                 },
                 {
                     "speaker": "PS0SX",
-                    "text": "and her is an actor but Mrs doesn't know who he is what his name is.",
+                    "text": "and her son-in-law is an actor but Mrs doesn't know who he is what his name is.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16157,7 +16157,7 @@
                 },
                 {
                     "speaker": "PS0SX",
-                    "text": "When he had in.",
+                    "text": "When he had roly-polys in.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19668,7 +19668,7 @@
                 },
                 {
                     "speaker": "PS0T4",
-                    "text": "The woman might get kicked out by the or your boyfriend or.",
+                    "text": "The woman might get kicked out by the ex-wife or your boyfriend or.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20921,7 +20921,7 @@
                 },
                 {
                     "speaker": "PS0T4",
-                    "text": "I live in I live in a three bedroom house.",
+                    "text": "I live in I live in a three bedroom semi-detached house.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25041,7 +25041,7 @@
                 },
                 {
                     "speaker": "PS0T0",
-                    "text": "a a Eric the half a bee How does the last verse go That's my favourite.",
+                    "text": "a tweedley-dum a tweedley-dee Eric the half a bee How does the last verse go That's my favourite.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25062,7 +25062,7 @@
                 },
                 {
                     "speaker": "KE0PSUN",
-                    "text": "carnally Cyril Connolly No carnally Cyril Connolly.",
+                    "text": "carnally semi-carnally Cyril Connolly No semi- carnally Cyril Connolly.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25503,14 +25503,14 @@
                 },
                 {
                     "speaker": "PS0SW",
-                    "text": "and Wesley were lovers Will wanted to give Wes something warm as a special present an officer's red uniform He saw a sign for a shuttle race officer prizes red He couldn't find Wes in his room so to his mother said bom bom bom bom tell Wesley I love him tell Wesley I need him tell Wesley I may be late I've something to do that can not wait He took a shuttle to the asteroid belt he was the highest ranker there they started the race to the belt they drove at a deadly pace knows what happened that star date but we always knew poor Wes would have to wait as they pulled Will from the smoking wreck they heard him say in a terrible state bom bom bom bom tell Wesley I love him bom bom bom bom tell Wesley I need him tell Wesley not to my love for him is never weak.",
+                    "text": "and Wesley were lovers Will wanted to give Wes something warm as a special present an officer's red uniform He saw a sign for a shuttle race officer prizes red He couldn't find Wes in his room so to his mother said bom bom bom bom tell Wesley I love him tell Wesley I need him tell Wesley I may be late I've something to do that can not wait He took a shuttle to the asteroid belt he was the highest ranker there they started the race to the belt they drove at a deadly pace no-one knows what happened that star date but we always knew poor Wes would have to wait as they pulled Will from the smoking wreck they heard him say in a terrible state bom bom bom bom tell Wesley I love him bom bom bom bom tell Wesley I need him tell Wesley not to my love for him is never weak.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "KE0PSUN",
-                    "text": "Will wanted to give Wes something warm as a special present an officer's red uniform He saw a sign for a shuttle race officer ship red He couldn't find Wes in his room so to his mother said bom bom bom bom tell Wesley I love him tell Wesley I need him tell Wesley I may be late I've something to do that can not wait He took a shuttle to the asteroid belt he was the highest ranker there they started the race to the belt they drove at a deadly pace knows what happened that star date but we always knew poor Wes would have to wait As they pulled Will from the smoking wreck they heard him say in a terrible state bom bom bom bom tell Wesley I love him bom bom bom bom tell Wesley I need him tell Wesley not to my love for him is never weak.",
+                    "text": "Will wanted to give Wes something warm as a special present an officer's red uniform He saw a sign for a shuttle race officer ship red He couldn't find Wes in his room so to his mother said bom bom bom bom tell Wesley I love him tell Wesley I need him tell Wesley I may be late I've something to do that can not wait He took a shuttle to the asteroid belt he was the highest ranker there they started the race to the belt they drove at a deadly pace no-one knows what happened that star date but we always knew poor Wes would have to wait As they pulled Will from the smoking wreck they heard him say in a terrible state bom bom bom bom tell Wesley I love him bom bom bom bom tell Wesley I need him tell Wesley not to my love for him is never weak.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

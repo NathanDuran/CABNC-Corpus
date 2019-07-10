@@ -103,7 +103,7 @@ PS0T4|Oh yeah Yeah.
 PS0SW|and passed out.
 PS0T4|Er marriage break up is one cause.
 PS0T3|Oh yeah Mm.
-PS0T4|The woman might get kicked out by the or your boyfriend or.
+PS0T4|The woman might get kicked out by the ex-wife or your boyfriend or.
 PS0SW|Yeah Mm.
 PS0T4|the husband.
 PS0SW|People with.
@@ -282,7 +282,7 @@ PS0SW|Forty three.
 PS0T0|Do you live in a big house or what kind of house.
 PS0T4|No.
 PS0T0|do you live in.
-PS0T4|I live in I live in a three bedroom house.
+PS0T4|I live in I live in a three bedroom semi-detached house.
 PS0SW|Have you got a family.
 PS0T4|on the outskirts of London.
 PS0SW|Have you got any family.

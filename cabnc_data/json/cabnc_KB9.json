@@ -2722,7 +2722,7 @@
                 },
                 {
                     "speaker": "PS1D1",
-                    "text": "Pale peach material or some erm tt braid and that cheap and edge your.",
+                    "text": "Pale peach material or some erm tt braid and that cheap and edge your tie-backs.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3533,7 +3533,7 @@
                 },
                 {
                     "speaker": "PS1CY",
-                    "text": "No it was one of the.",
+                    "text": "No it was one of the cast-offs.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5197,7 +5197,7 @@
             "utterances": [
                 {
                     "speaker": "PS1CX",
-                    "text": "Do you want your Becky where's your Eh Er there horrible aha Becky do you want your on.",
+                    "text": "Do you want your jim-jams Becky where's your jim-jams Eh Er there horrible aha Becky do you want your jim-jams on.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5897,7 +5897,7 @@
                 },
                 {
                     "speaker": "PS1CX",
-                    "text": "There you go sweetheart ah.",
+                    "text": "There you go sweetheart ah cuddly-duddly.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8899,7 +8899,7 @@
                 },
                 {
                     "speaker": "PS1D1",
-                    "text": "Yeah she can't obviously talk to her husband about it because George is her and he.",
+                    "text": "Yeah she can't obviously talk to her husband about it because George is her ex-husband and he.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -9541,7 +9541,7 @@
                 },
                 {
                     "speaker": "KB9PSUN",
-                    "text": "It's Tracy's.",
+                    "text": "It's Tracy's sister-in-law.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10182,7 +10182,7 @@
                 },
                 {
                     "speaker": "KB9PSUN",
-                    "text": "And then you can always take out the extra insurance with er no but it isn't very much for a for five years and there's no problems that way Absolutely none.",
+                    "text": "And then you can always take out the extra insurance with er no but it isn't very much for a tumble-drier for five years and there's no problems that way Absolutely none.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11735,7 +11735,7 @@
         },
         {
             "dialogue_id": "KB9RE00N",
-            "num_utterances": 40,
+            "num_utterances": 41,
             "utterances": [
                 {
                     "speaker": "PS1D1",
@@ -11796,6 +11796,13 @@
                 {
                     "speaker": "PS1CX",
                     "text": "Poor lass What a shame.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1D2",
+                    "text": "Bye-bye.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12073,7 +12080,7 @@
             "utterances": [
                 {
                     "speaker": "PS1CX",
-                    "text": "It's a pity he couldn't stick to something like that cos I mean can get jobs like that no trouble can't they And I mean somewhere like Asda is a better place to work than most.",
+                    "text": "It's a pity he couldn't stick to something like that cos I mean ex-policemen can get jobs like that no trouble can't they And I mean somewhere like Asda is a better place to work than most.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12570,7 +12577,7 @@
                 },
                 {
                     "speaker": "PS1CX",
-                    "text": "Yeah You're a cheeky.",
+                    "text": "Yeah You're a cheeky bab-bab.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12584,7 +12591,7 @@
                 },
                 {
                     "speaker": "PS1CX",
-                    "text": "Aren't you Yeah Don't we know what a cheeky you are.",
+                    "text": "Aren't you Yeah Don't we know what a cheeky baba-ba you are.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -14479,7 +14486,7 @@
                 },
                 {
                     "speaker": "KB9PSUN",
-                    "text": "Bye.",
+                    "text": "Bye Bye-bye.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -15627,7 +15634,7 @@
         },
         {
             "dialogue_id": "KB9RE017",
-            "num_utterances": 209,
+            "num_utterances": 210,
             "utterances": [
                 {
                     "speaker": "PS1CX",
@@ -16353,6 +16360,13 @@
                 {
                     "speaker": "PS1D1",
                     "text": "It's that woman.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1CX",
+                    "text": "Whoops-a-daisy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20205,7 +20219,7 @@
                 },
                 {
                     "speaker": "PS1D1",
-                    "text": "Ah There it is nine zero.",
+                    "text": "Ah There it is Multi-purpose nine zero.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20380,7 +20394,7 @@
                 },
                 {
                     "speaker": "PS1D1",
-                    "text": "Well what happens when you want to was it a.",
+                    "text": "Well what happens when you want to re-sell was it a.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -21745,7 +21759,7 @@
                 },
                 {
                     "speaker": "PS1KS",
-                    "text": "You don't The end aren't they On your your sander if you go for black pack of three I think they're about three ninety odd that's what they were se selling them to the er.",
+                    "text": "You don't The end aren't they On your your multi-purpose sander if you go for black pack of three I think they're about three ninety odd that's what they were se selling them to the er.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

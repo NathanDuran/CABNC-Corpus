@@ -68,7 +68,7 @@ PS03T|I can't breathe whe when you don't open the window at night.
 PS03S|What good's a.
 PS03T|Sorry the egg's a bit er.
 PS03S|what did.
-PS03T|er th the eggs stuck together I think I'll have to get a new pan It's supposed to be but it's not It's sticking It got a bit bent when I dropped it So your egg broke.
+PS03T|er th the eggs stuck together I think I'll have to get a new pan It's supposed to be non-stick but it's not It's sticking It got a bit bent when I dropped it So your egg broke.
 PS03S|Tomatoes are cold.
 PS03T|Surely not.
 PS03S|Have they been in the fridge.

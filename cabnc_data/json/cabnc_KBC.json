@@ -400,7 +400,7 @@
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "Yes it was an for half these people.",
+                    "text": "Yes it was an eye-opener for half these people.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2821,7 +2821,7 @@
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "See you Margaret.",
+                    "text": "See you Bye-bye Margaret.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2830,7 +2830,7 @@
         },
         {
             "dialogue_id": "KBCRE002",
-            "num_utterances": 16,
+            "num_utterances": 17,
             "utterances": [
                 {
                     "speaker": "PS1A9",
@@ -2938,6 +2938,13 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS1A9",
+                    "text": "Bye-bye.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS1AC",
                     "text": "Bye.",
                     "ap_label": "",
@@ -2948,7 +2955,7 @@
         },
         {
             "dialogue_id": "KBCRE003",
-            "num_utterances": 1000,
+            "num_utterances": 1001,
             "utterances": [
                 {
                     "speaker": "PS1A9",
@@ -3736,7 +3743,7 @@
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "anyhow See you.",
+                    "text": "anyhow See you Bye-bye.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4849,7 +4856,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "But I don't have you see They don't have ups You have to have.",
+                    "text": "But I don't have lace-ups you see They don't have lace- ups You have to have lace-ups.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4884,14 +4891,14 @@
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "Well we can't have can you They don't look right.",
+                    "text": "Well we can't have slip-ons can you They don't look right.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "No you don't normally have some people say you should have.",
+                    "text": "No you don't normally have some people say you should have slip-ons.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4905,7 +4912,7 @@
                 },
                 {
                     "speaker": "PS1AA",
-                    "text": "Well unless everybody had.",
+                    "text": "Well unless everybody had slip-ons.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4926,7 +4933,7 @@
                 },
                 {
                     "speaker": "PS1AA",
-                    "text": "You know But you can't have some with and.",
+                    "text": "You know But you can't have some with slip-ons and.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5346,7 +5353,14 @@
                 },
                 {
                     "speaker": "PS1AG",
-                    "text": "We did see one a beigey like erm a what do you call whatever.",
+                    "text": "We did see one a beigey like erm a what do you call Fleur-de whatever.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1AD",
+                    "text": "Fleur-de-lys.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -9735,7 +9749,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "Well I'm just saying see th it's a shame you can't get something you know to prop up to like an piece of wood.",
+                    "text": "Well I'm just saying see th it's a shame you can't get something you know to prop up to like an L-shaped piece of wood.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10308,7 +10322,7 @@
                 },
                 {
                     "speaker": "PS1AG",
-                    "text": "that a.",
+                    "text": "that a one-off.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10322,14 +10336,14 @@
                 },
                 {
                     "speaker": "PS1AA",
-                    "text": "It's a.",
+                    "text": "It's a one-off.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "that was just That was just Well there's murders.",
+                    "text": "that was just one-off That was just one-off Well there's murders.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11645,7 +11659,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "Yeah And a bloke from work his plays for them as well.",
+                    "text": "Yeah And a bloke from work his son-in-law plays for them as well.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11869,7 +11883,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "it's just we're a very small type club.",
+                    "text": "it's just we're a very small old-fashioned type club.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12520,7 +12534,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "the first.",
+                    "text": "the under-eights first.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12534,7 +12548,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "That's what we start off.",
+                    "text": "That's what we start off under-eights.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12548,7 +12562,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "yeah.",
+                    "text": "Under-eights yeah.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12562,7 +12576,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "We have.",
+                    "text": "We have under-eights.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12632,7 +12646,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "club at the first.",
+                    "text": "club at the under-sevens first.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12674,7 +12688,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "is the youngest we have.",
+                    "text": "Under-eights is the youngest we have.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12737,7 +12751,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "Erm and a lot clubs don't have that A lot of clubs start at.",
+                    "text": "Erm and a lot clubs don't have that A lot of clubs start at under-thirteens.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -14291,7 +14305,7 @@
                 },
                 {
                     "speaker": "PS1AD",
-                    "text": "Wigan Widnes they play rugby league You get paid for playing er you don't ha or you have very few scores you don't have and basically you tackle about a hundred million times a game So basically you just run at them all the time.",
+                    "text": "Wigan Widnes they play rugby league You get paid for playing er you don't ha or you have very few scores you don't have line-outs and basically you tackle about a hundred million times a game So basically you just run at them all the time.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -15950,7 +15964,7 @@
                 },
                 {
                     "speaker": "PS1AG",
-                    "text": "Yeah Thank God time.",
+                    "text": "Yeah Thank God Part- time.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18420,7 +18434,7 @@
                 },
                 {
                     "speaker": "PS1AH",
-                    "text": "No But Cleveleys was absolutely this afternoon.",
+                    "text": "No But Cleveleys was absolutely jam-packed this afternoon.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20478,7 +20492,7 @@
                 },
                 {
                     "speaker": "PS1AH",
-                    "text": "You di you did the.",
+                    "text": "You di you did the vol-au-vents.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20492,7 +20506,7 @@
                 },
                 {
                     "speaker": "PS1AH",
-                    "text": "I said she's always doing It's.",
+                    "text": "I said she's always doing vol- au-vents It's.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20555,7 +20569,7 @@
                 },
                 {
                     "speaker": "PS1AH",
-                    "text": "saying er have you had a Audrey Oh yes I've had another of course.",
+                    "text": "saying er have you had a vol-au-vent Audrey Oh yes I've had another vol-au-vent of course.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -26550,7 +26564,7 @@
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "much I've only just put it out er Rosie but I'll just put it in the microwave for a minute.",
+                    "text": "much Bye-bye I've only just put it out er Rosie but I'll just put it in the microwave for a minute.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27775,14 +27789,14 @@
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "He was a job he really is Int he Gordon.",
+                    "text": "He was a full-time job he really is Int he Gordon.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS1AA",
-                    "text": "Oh yeah A job.",
+                    "text": "Oh yeah A full-time job.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -28034,7 +28048,7 @@
                 },
                 {
                     "speaker": "PS1A9",
-                    "text": "So I left it for a while and I thought I will phone her and find out And when I got through I knew immediately by the tone of her voice that she was there was something wrong So I said I asked her what was the matter and she said well I feel as though er that you've er you and Arthur have ignored me I said but we haven't You know and er she said well I feel as though you have And she was going on So I said oh well I said er if you we really want to get the I said you know we didn't receive a Christmas card from you I said but we sent them to you So she said er no I know you didn't she said because I didn't send you one So I said oh I said well you know if that's how you feel I said but I will tell you I said I'm now a grandma and I said and er Carl is getting married to Rosie.",
+                    "text": "So I left it for a while and I thought I will phone her and find out And when I got through I knew immediately by the tone of her voice that she was there was something wrong So I said I asked her what was the matter and she said well I feel as though er that you've er you and Arthur have ignored me I said but we haven't You know and er she said well I feel as though you have And she was going on So I said oh well I said er if you we really want to get the nitty-gritties I said you know we didn't receive a Christmas card from you I said but we sent them to you So she said er no I know you didn't she said because I didn't send you one So I said oh I said well you know if that's how you feel I said but I will tell you I said I'm now a grandma and I said and er Carl is getting married to Rosie.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

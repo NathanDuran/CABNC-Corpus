@@ -101,14 +101,14 @@ PS0CJ|Yeah.
 PS0CG|Take care.
 PS0CJ|How much money have you got on you.
 PS0CG|About one pound.
-PS0CJ|How much do you think a is.
-PS0CG|Oh gosh that's good for you you know it's good for your.
+PS0CJ|How much do you think a yo-yo is.
+PS0CG|Oh gosh that's good for you you know it's good for your co-ordination.
 PS0CJ|Cos I asked in here a few weeks ago and they said.
 PS0CG|My friend in here.
 PS0CJ|If they're gon na be anywhere they're gon na be around here.
 PS0CG|Ten twenty forty fi hello love.
 PS0CL|Hello love.
-PS0CG|Have you got any 's in yet.
+PS0CG|Have you got any yo-yo's in yet.
 PS0CL|No we haven't were.
 PS0CG|Oh.
 PS0CL|waiting for them to come in.
@@ -133,6 +133,7 @@ PS0CL|So that's all I've got with me after I've been to.
 PS0CJ|Well you've anyway so.
 PS0CG|If they're more than eighty I I can't have it anyway.
 PS0CJ|So you want to keep.
+PS0CK|Yo-yo.
 PS0CJ|Oh.
 PS0CG|I'm all ready if I got my handbag but when I start walking because of the cars being broken into I don't carry a handbag you see I just carry money in my pocket.
 PS0CK|Oh there's a lot had their cars broken into.
@@ -166,7 +167,7 @@ PS0CG|Used to be I bought it in here.
 PS0CK|Yeah.
 PS0CG|remember the.
 PS0CK|yeah.
-PS0CG|purses on on a.
+PS0CG|shoulder-less purses on on a.
 PS0CK|yeah yeah.
 PS0CG|well they are now my daughter now has a proper bum bag but this was just a school purse for school just for break time.
 PS0CK|Oh yeah yeah.

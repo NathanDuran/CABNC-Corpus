@@ -156,7 +156,7 @@ PS09U|and you you pick it up.
 PS09T|It's obviously.
 PS0A1|Squircle.
 PS0A2|What.
-PS0A1|Can we play a game after.
+PS0A1|Can we play a game after din-dins.
 PS0A0|Lindard.
 PS0A2|What's that.
 PS0A1|Oh.
@@ -215,9 +215,9 @@ PS0A2|Yes when we're finished.
 PS09T|Good idea rotation plot.
 PS0A1|Cluedo We're gon na play a game of Cluedo.
 PS09T|What now.
-PS0A1|after.
+PS0A1|after din-dins.
 PS09T|I can't play it.
-PS0A1|dinner and.
+PS0A1|dinner and din-dins.
 PS09T|I can't play Cluedo after all these roast potatoes.
 PS09U|I've only ever guessed that right once a day over at Marion's once and that'll be break.
 PS09T|Did you work it out or was it a guess.

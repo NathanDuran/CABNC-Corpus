@@ -71,7 +71,7 @@
                 },
                 {
                     "speaker": "PS125",
-                    "text": "She played Rita in the er Nigel Ibbotson film.",
+                    "text": "She played Rita Sackville-West in the er Nigel Ibbotson film.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1876,7 +1876,7 @@
             "utterances": [
                 {
                     "speaker": "PS0H7",
-                    "text": "of June has never rained.",
+                    "text": "twenty-ninth of June has never rained.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10398,7 +10398,7 @@
                 },
                 {
                     "speaker": "PS125",
-                    "text": "Well in a sense I can understand it probably it was you know the big the big thing and many other bands they they couldn't have really get yeah.",
+                    "text": "Well in a sense I can understand it probably it was you know the big the big re-election thing and many other bands they they couldn't have really get yeah.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19127,7 +19127,7 @@
                 },
                 {
                     "speaker": "PS0H7",
-                    "text": "Isn't one the sort of the young expensive No You only take established Eh.",
+                    "text": "Isn't one the sort of the young up-coming expensive No You only take established Eh.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20099,7 +20099,7 @@
                 },
                 {
                     "speaker": "PS0H7",
-                    "text": "Ah I see But he's a writer Three hundred and Where is it.",
+                    "text": "Ah I see But he's a writer Three hundred and ninety-nine Where is it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20567,7 +20567,7 @@
                 },
                 {
                     "speaker": "PS0H7",
-                    "text": "Wait a minute Looks like Hmm.",
+                    "text": "Wait a minute eighty-seven Looks like Hmm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

@@ -38,7 +38,8 @@ PS04X|She said she didn't start getting erm high marks and a commended when she 
 PS04U|Fifteen sixteen before she got a highly.
 PS04W|And how old are you Eleven.
 PS04U|Exactly Eleven years old and you're in elementary now.
-PS04U|yeah Look at Vicky You're not much lower than Vicky And Vicky's nearly fifteen.
+PS04X|Pre-elementary.
+PS04U|Pre-element yeah Look at Vicky You're not much lower than Vicky And Vicky's nearly fifteen.
 PS04W|Yeah You'll get better than all of them You'll be teaching them all soon.
 PS04U|You like Tracey said she had to.
 PS04X|I'm teaching already.

@@ -102,8 +102,9 @@ PS0DP|Goodnight.
 PS0DM|locked in n it.
 PS0DR|That's all done love.
 PS0DM|Oh lovely thanks.
+PS0DR|Ta-ta.
 PS0DP|Goodnight.
-KCAPSUG|Tom.
+KCAPSUG|Ta-ta Tom.
 PS0DP|Goodnight.
 PS0DR|Don't lose track keep track cos I tell you what I was.
 PS0DR|I got ta be honest with you I'm a bit bashful now.
@@ -112,10 +113,11 @@ PS0DR|I tell you something else as well if you want me to take you out any time 
 PS0DN|Oh.
 PS0DM|Oh thanks Tom.
 PS0DP|Goodnight.
-PS0DM|Tom.
+PS0DM|Ta-ta Tom.
 PS0DN|Goodnight.
 PS0DR|Goodnight God bless.
 PS0DM|Goodnight.
+PS0DP|Ta-ta.
 PS0DM|It's still on.
 PS0DP|Turn it off now.
 PS0DM|N no leave it on I got ta use the bloody tapes up Oh I couldn't use it up with the kids you know.
@@ -288,7 +290,7 @@ PS0DN|Why.
 PS0DP|He's just not well he's just really not well with this flu.
 PS0DL|Oh.
 PS0DP|we've had it went he went back to the doctors today and she said it could take up to six to eight weeks to get out your system He hasn't been back to work since Christmas He'd''ve had really well this is the he goes back on Monday and he've had a month off been off for a month.
-KCAPSUN|How you managing then.
+KCAPSUN|How you managing then money-wise.
 PS0DP|We're not Just in n it.
 KCAPSUN|He'll get sick won't he.
 PS0DN|The thing is.

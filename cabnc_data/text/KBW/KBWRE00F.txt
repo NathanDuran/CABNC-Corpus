@@ -178,7 +178,7 @@ PS087|To do what.
 PS08A|Attend a meeting at eighto'clock.
 PS087|Eighto'clock.
 PS08A|I know.
-PS087|That's a bit seven.
+PS087|That's a bit anti-social seven.
 PS08A|I know.
 PS087|fifteen.
 PS08A|No.
@@ -209,8 +209,8 @@ PS089|Mummy.
 PS08A|well done mummy.
 PS089|Erm the yellow Have I got the most I think daddy's got the most.
 PS087|Oh daddy.
-PS087|I consider that very.
-PS08A|I thought you knew I was.
+PS087|I consider that very anti-social.
+PS08A|I thought you knew I was anti-social.
 PS089|You've got four in there.
 PS087|I know I'm back to four little pieces.
 PS089|Green.
@@ -261,8 +261,8 @@ PS08A|Didn't say yeah.
 PS087|No.
 PS08A|He's not normally as bad as this.
 PS087|Oh Yellow and blue oh good daddy come on yellow and blue please.
-PS08A|That's a bit mummy.
-PS087|Very dear and I love it.
+PS08A|That's a bit anti-social mummy.
+PS087|Very anti-social dear and I love it.
 PS088|Now daddy's got the smallest caterpillar.
 PS087|And so he deserves.
 PS088|No and.
@@ -399,7 +399,7 @@ PS087|There's loads of stuff in there that been given to you.
 PS08A|Was there Oh well.
 PS087|Stuff for the agm and stuff for the room at the agm er minutes from something or other to you from June what would that be.
 PS08A|I don't know actually.
-PS087|There's no second to that there's a question of council members I there's about seven How we doing we're a week in advance though aren't we here.
+PS087|There's no second non-related to that there's a question of council members I there's about seven How we doing we're a week in advance though aren't we here.
 PS08A|There's another week to go.
 PS087|You alright Do you want another lie down on the settee You've done very well for an hour or so.
 PS08A|Yeah very well.

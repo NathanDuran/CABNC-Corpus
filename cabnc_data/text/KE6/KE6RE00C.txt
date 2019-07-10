@@ -190,7 +190,7 @@ PS0X8|Oh is it.
 PS0X9|Yeah.
 PS0X8|Oh drinking chocolate.
 PS0X9|Mhm they are nice I'll have that one.
-PS0X8|Well we still haven't got one I know we've got the but we still haven't got bits to pick have we.
+PS0X8|Well we still haven't got one I know we've got the Kit-Kats but we still haven't got bits to pick have we.
 PS0X9|Well we didn't have but we have now mm.
 PS0X8|We didn't have do you want tea now.
 PS0X9|Mm please.

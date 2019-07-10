@@ -2745,7 +2745,7 @@
                 },
                 {
                     "speaker": "PS051",
-                    "text": "Oh Level four attainment target two it'll be Oh oh I du n no You get looking at all those dockets.",
+                    "text": "Oh Level four attainment target two it'll be Oh oh I du n no You get gobble-eyed looking at all those dockets.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -9938,7 +9938,7 @@
         },
         {
             "dialogue_id": "KBGRE006",
-            "num_utterances": 870,
+            "num_utterances": 871,
             "utterances": [
                 {
                     "speaker": "PS051",
@@ -14113,6 +14113,13 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS055",
+                    "text": "Right-y-oh.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS051",
                     "text": "It'll go in there won't it.",
                     "ap_label": "",
@@ -15591,7 +15598,7 @@
                 },
                 {
                     "speaker": "PS051",
-                    "text": "Black hands Here you are Put your hands put your arms in Oh hang on.",
+                    "text": "Black hands Here you are Becky-Boops Put your hands put your arms in Oh hang on.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16808,7 +16815,7 @@
                 },
                 {
                     "speaker": "PS052",
-                    "text": "Er they're they're all sort of in into erm yes they're all though aren't they Carl.",
+                    "text": "Er they're they're all sort of in into erm inter-rela yes they're all inter-related though aren't they Carl.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16829,7 +16836,7 @@
                 },
                 {
                     "speaker": "PS051",
-                    "text": "Well yeah like you say they're all related.",
+                    "text": "Well yeah like you say they're all inter- related.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -17207,7 +17214,7 @@
                 },
                 {
                     "speaker": "PS052",
-                    "text": "Just put a little sunfrock and and that hat on which I know she won't keep on.",
+                    "text": "Just put a little sunfrock and T-shirt and that hat on which I know she won't keep on.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19253,7 +19260,7 @@
         },
         {
             "dialogue_id": "KBGRE008",
-            "num_utterances": 107,
+            "num_utterances": 110,
             "utterances": [
                 {
                     "speaker": "PS052",
@@ -19704,8 +19711,15 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS053",
+                    "text": "Andrew-wa.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS052",
-                    "text": "I didn't know we had anyone called did you.",
+                    "text": "Andrew-wa I didn't know we had anyone called Andrew-wa did you.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19719,7 +19733,7 @@
                 },
                 {
                     "speaker": "PS052",
-                    "text": "He's been a bit er green hasn't he I think.",
+                    "text": "Andrew-wa He's been a bit er green hasn't he I think.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19781,8 +19795,22 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS052",
+                    "text": "Andrew-wa.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS055",
                     "text": "Pardon.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS052",
+                    "text": "Andrew-wa.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

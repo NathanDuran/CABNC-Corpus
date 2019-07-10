@@ -102,7 +102,7 @@ PS0WN|Go on then up you go.
 PS0WR|tonight.
 PS0WN|Cos if not it'll soon be time for bed.
 PS0WR|Okay I'll just go and get my shower then.
-PS0WN|Okay then Hurry up and get it then Don't about.
+PS0WN|Okay then Hurry up and get it then Don't diddle-daddle about.
 PS0WR|Okay Mum can I have a bath.
 PS0WN|Whatever you want.
 PS0WR|Okay then.
@@ -118,4 +118,5 @@ PS0WN|Mhm You have.
 PS0WS|Mm I've not had one for ages.
 PS0WN|Oh you have Well are you going up to get ready for your bed as well.
 PS0WS|Yeah.
-PS0WN|Right okay then then David.
+PS0WN|Right okay then Night-night then David.
+PS0WS|Night-night.

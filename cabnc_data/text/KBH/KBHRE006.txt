@@ -124,7 +124,7 @@ PS05F|No Well my fingers get swelling as well so I thought it wouldn't do any ha
 PS05E|Well I have finished.
 PS05B|Well they're all up there.
 PS05E|O K Well I could not ask you before.
-PS05B|Well yeah if you look ooh I can't think where I think there's a up there and I think some of them the patterns are out of the magazine and they're just in a rack I think If you go up there just leave them as they are don't leave them all over the place put them back.
+PS05B|Well yeah if you look ooh I can't think where I think there's a book-rack up there and I think some of them the patterns are out of the magazine and they're just in a rack I think If you go up there just leave them as they are don't leave them all over the place put them back.
 PS05F|Are you making something.
 PS05B|Depends how much time I've got.
 PS05E|Yeah.
@@ -195,9 +195,9 @@ PS05F|The killer is when you've got to go out to a special occasion isn't it.
 PS05B|Yes.
 PS05F|And you know you've got to.
 PS05F|Yeah I bought this really expensive one you know I was can't remember a wedding or something so I had to buy something Finished your discussion.
-PS05B|You enjoyed your did you.
+PS05B|You enjoyed your non-smoking did you.
 PS05D|Sorry.
-PS05B|You enjoyed your did you.
+PS05B|You enjoyed your non-smoking did you.
 PS05F|Is it cold out.
 KBHPSUN|No mild It's a bit nippy round the gills.
 PS05F|Mm Mm.

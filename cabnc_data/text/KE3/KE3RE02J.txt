@@ -304,9 +304,9 @@ PS0V4|Yeah we'll go over and have a look.
 PS0V9|Yeah.
 PS0V8|Yeah.
 PS0V5|But that's the point.
-PS0V9|His brought a cowboy down for him.
+PS0V9|His sister-in-law brought a cowboy down for him.
 PS0V4|Hm Video tapes Hm that's good.
-PS0V8|About twelve I'm not speaking to my no more.
+PS0V8|About twelve I'm not speaking to my sister-in-law no more.
 PS0V8|Cowboy was on at half past two this morning.
 PS0V4|Yeah.
 PS0V4|Dad we'd better go.
@@ -514,7 +514,7 @@ PS0V8|You've got lots of lights on this one Christine So that whenever.
 PS0V6|Oh yeah.
 PS0V4|They always seem to do a lot just here.
 PS0V8|Oh yeah.
-PS0V4|This little shop it's lovely It's only a sort of a electrical goods place It's only a little shop and yet it always seems to have lovely decorations.
+PS0V4|This little shop it's lovely It's only a sort of a hi-fi electrical goods place It's only a little shop and yet it always seems to have lovely decorations.
 PS0V5|Tony you know you're prepping Monday and Tuesday.
 PS0V4|Yeah when.
 PS0V5|Sorry.

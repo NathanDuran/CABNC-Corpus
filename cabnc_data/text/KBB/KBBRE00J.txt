@@ -277,6 +277,7 @@ PS03T|in through the box don't we Here comes It's a light blue car that isn't it
 PS03S|Oh yeah.
 PS03T|Yeah Well.
 PS03S|puts puts it on.
+PS03T|mid-blue.
 PS03S|Puts it on the drive now it's er.
 PS03T|Mm.
 PS03S|so perhaps he feel it.

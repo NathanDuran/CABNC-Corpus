@@ -97,7 +97,7 @@ PS003|I R C and that's that's like oh no we can have it it's all set up this wil
 PS007|Good.
 PS003|dos Goodness a lot of files on there It would of been better.
 PS007|If you'd done a P.
-PS003|No slash P Oh marvellous I think we'll call it that Let's ring Erm how do we get it to load high that's what I want to know.
+PS003|No sub-directory slash P Oh marvellous I think we'll call it that Let's ring Erm how do we get it to load high that's what I want to know.
 PS007|Mm just erm.
 PS003|erm.
 PS007|I haven't got his work number on the memory so I'll.
@@ -181,21 +181,21 @@ PS003|No It runs the whole the lot.
 PS007|Oh.
 PS003|Don't matter.
 PS007|Well that's more what I'm used to.
-PS003|Xtree's more pretty in this isn't it Where's the directory There's er what's known as Handle and then in I think the sub dire we don't want the Gem.
+PS003|Xtree's more pretty in this isn't it Where's the directory There's er what's sub-directory known as Handle and then sub-directory in D-base I think the sub dire we don't want the Gem.
 PS007|No.
 PS003|Cos I haven't sorted them out yet.
 PS007|Mm.
-PS003|Er I'm gon na sit down quietly and do it one day erm it's and make a That's for storing Can you scroll that down a bit Oh Hang on.
+PS003|Er I'm gon na sit down quietly and do it one day erm it's and make a sub-directory That's for storing Can you scroll that down a bit Oh Hang on.
 PS007|Further.
-PS003|No just as bit more yeah Leave your directory as utils Yeah and I want to make the so that can Make a directory as Make as as wp papers It's gon na take as long as I thought cos I have to format it and install it Make a as Wordperfect fifty one.
-PS007|Actually that is that a or a main one.
-PS003|It's a of the root directory it's alright.
+PS003|No just as bit more yeah Leave your sub- directory as utils Yeah and I want to make the sub-directories so that can Make a sub- directory as Make as sub-directory as wp papers It's gon na take as long as I thought cos I have to format it and install it Make a sub-directory as Wordperfect fifty one.
+PS007|Actually that is that a sub-directory or a main one.
+PS003|It's a sub-directory of the root directory it's alright.
 PS007|I see.
-PS003|And that's it And you've got a which says docs.
+PS003|And that's it And you've got a sub-directory which says docs.
 PS007|Yes what.
 PS003|Have you ever used that.
 PS007|I don't think I have used it.
-PS003|Well you can always make no I don't need to make the rest because erm oh yes graphics Make a directory as graphics.
+PS003|Well you can always make no I don't need to make the rest because erm oh yes graphics Make a sub- directory as graphics.
 PS007|Macros Do I need one for that.
 PS003|Oh yeah You have macros don't you.
 PS007|Yes.
@@ -283,13 +283,13 @@ PS003|No but er I can't just do this with it.
 PS007|No Where are you going.
 PS003|Just wan na look at those I mean Autoroute's only about three files Only got.
 PS007|Yeah.
-PS003|three discs so that won't take very long is what Five at the moment You know it says book forty do you have to know which books you want to go into.
+PS003|three discs so that won't take very long D-base is what Five at the moment You know it says book forty do you have to know which books you want to go into.
 PS007|Yes erm er it's on a file somewhere.
 PS003|Oh No is it It's not the easiest thing to.
 PS007|No that's one of the.
 PS007|reasons why I've made little use of it Erm.
 PS003|Never mind.
-PS007|I could probably them.
+PS007|I could probably re-name them.
 PS003|To make it easier to remember except it maybe it refers to it maybe it uses book something to refer to them You might have to write the whole programme again to do that.
 PS007|Oh well maybe I'd better not try then There's some coffee here.
 PS003|Sorry I've nearly finished this I'd like to get it done before I.

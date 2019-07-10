@@ -2304,7 +2304,7 @@
         },
         {
             "dialogue_id": "KB8RE003",
-            "num_utterances": 594,
+            "num_utterances": 597,
             "utterances": [
                 {
                     "speaker": "PS14B",
@@ -3134,7 +3134,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Go straight in cos they've just gone in.",
+                    "text": "Go straight in cos they've just gone in Bye-bye.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4807,7 +4807,7 @@
                 },
                 {
                     "speaker": "PS14L",
-                    "text": "Give us a kiss.",
+                    "text": "Give us a kiss bye-bye.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4919,7 +4919,7 @@
                 },
                 {
                     "speaker": "PS14L",
-                    "text": "Right well give us a kiss then.",
+                    "text": "Right well give us a kiss bye-bye then.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4960,6 +4960,13 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS14L",
+                    "text": "Bye-bye.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS14C",
                     "text": "Come and see what Ann's got.",
                     "ap_label": "",
@@ -4974,6 +4981,13 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS14H",
+                    "text": "Bye-bye.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS14B",
                     "text": "door is being stuffed.",
                     "ap_label": "",
@@ -4982,7 +4996,7 @@
                 },
                 {
                     "speaker": "PS14C",
-                    "text": "mummy.",
+                    "text": "Ta-ta mummy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5017,7 +5031,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Come and say to mummy look cos she's in a hurry.",
+                    "text": "Come and say bye-bye to mummy look cos she's in a hurry.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5052,7 +5066,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Well pu i alright put it in the bin quickly then come and say to mummy Hurry up Hurry up Hurry up Diddle ee dee dee That's it.",
+                    "text": "Well pu i alright put it in the bin quickly then come and say bye-bye to mummy Hurry up Hurry up Hurry up Diddle ee dee dee That's it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5101,7 +5115,7 @@
                 },
                 {
                     "speaker": "PS14C",
-                    "text": "mummy.",
+                    "text": "Bye-bye mummy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5130,6 +5144,13 @@
                 {
                     "speaker": "PS14C",
                     "text": "Tarrah mummy.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS14L",
+                    "text": "Bye-bye.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8556,21 +8577,21 @@
                 },
                 {
                     "speaker": "PS15C",
-                    "text": "Wave to Ann now.",
+                    "text": "Wave bye-bye to Ann now.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS14P",
-                    "text": "Ann.",
+                    "text": "Bye-bye Ann.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Richard Bye Amy.",
+                    "text": "Bye-bye Richard Bye Amy.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10250,7 +10271,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Mm Yes Well it's quarter past already Why are you eating this Bryony You don't eat And Richard's decided to be after all this time Well that is daddy's isn't it.",
+                    "text": "Mm Yes Well it's quarter past already Why are you eating left-handed this Bryony You don't eat left-handed And Richard's decided to be right-handed after all this time Well that is daddy's isn't it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -13321,7 +13342,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "We need to oh no we don't I need to go to the and Iceland What shall I get for your mother I'll get her some chocolate biscuits or something You would think she would put on a lot of weight wouldn't you.",
+                    "text": "We need to oh no we don't I need to go to the Co-op and Iceland What shall I get for your mother I'll get her some chocolate biscuits or something You would think she would put on a lot of weight wouldn't you.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -13615,7 +13636,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Cheaper than the shop up Brady's.",
+                    "text": "Cheaper than the do-it-yourself shop up Brady's.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -14721,7 +14742,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "just grown up again And those that are called blue ball and are supposed to have brilliant blue flowers they're coming out with erm tiny pinkey purpley flowers.",
+                    "text": "just grown up again And those forget-me-nots that are called blue ball and are supposed to have brilliant blue flowers they're coming out with erm tiny pinkey purpley flowers.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -15038,7 +15059,7 @@
         },
         {
             "dialogue_id": "KB8RE00A",
-            "num_utterances": 103,
+            "num_utterances": 104,
             "utterances": [
                 {
                     "speaker": "PS14B",
@@ -15286,8 +15307,15 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS14C",
+                    "text": "Co-op.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS14B",
-                    "text": "Okay.",
+                    "text": "Co-op Okay.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18261,7 +18289,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "we used to have I used to make big pan of broth you could get gorgeous bacon bones with plenty bacon on in the in those days it were wi it was when they they did all the boning in the shops and you could go get good meaty bones and I used to.",
+                    "text": "we used to have I used to make big pan of broth you could get gorgeous bacon bones with plenty bacon on in the Co-op in those days it were wi it was when they they did all the boning in the shops and you could go get good meaty bones and I used to.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19792,7 +19820,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Well Dorothy got er some to knit something for Bryony and she actually got too much so if I do run out if I haven't enough to finish this er er vest summer top whatever it's called she'll have some.",
+                    "text": "Well Dorothy got er some to knit something for Bryony and she actually got too much so if I do run out if I haven't enough to finish this er er vest T-shirt summer top whatever it's called she'll have some.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20072,7 +20100,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "with her cholesterol that they actually she was so sick of turkey and chicken and fish and er she's had no cream cakes What else does she have She uses milk.",
+                    "text": "with her cholesterol that they actually she was so sick of turkey and chicken and fish and er she's had no cream cakes What else does she have She uses semi-skimmed milk.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -21050,7 +21078,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "It is raining I got the washing nearly all dry anyway All the shirts I didn't it was so bright and windy so I put another lot in after that lot came out it'll be only be I'll have in the dryer when they finish off.",
+                    "text": "It is raining I got the washing nearly all dry anyway All the shirts I didn't it was so bright and windy so I put another lot in after that lot came out it'll be only be T-shirts I'll have in the dryer when they finish off.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22723,7 +22751,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Tea with scones and cakes Open from one till five.",
+                    "text": "Tea with home-baked scones and cakes Open from one till five.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -24067,7 +24095,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "So she asked she asked if sh her cos Sheila's living er near her daughter.",
+                    "text": "So she asked she asked if sh her sister-in-law cos Sheila's living er near her daughter.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -24408,7 +24436,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "I've got a under this.",
+                    "text": "I've got a T-shirt under this.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25800,7 +25828,7 @@
                 },
                 {
                     "speaker": "PS167",
-                    "text": "So oh Sunderland's playing this afternoon.",
+                    "text": "So oh Sunderland's playing this afternoon semi-final.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -30049,7 +30077,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "I can remember when Gareth did his initial Para training even though that that they wear vest and a and one of those thick army shirts.",
+                    "text": "I can remember when Gareth did his initial Para training even though that that they wear vest and a T-shirt and one of those thick army shirts.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -30426,7 +30454,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Oh yeah oh keep together everyone I'm the colonel I'm the Haven't we got a lance corporal.",
+                    "text": "Oh yeah oh keep together everyone I'm the colonel I'm the commander-in-chief Haven't we got a lance corporal.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -31313,7 +31341,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "and I was telling her that that was the of Mrs who lived there before.",
+                    "text": "and I was telling her that that was the daughter-in-law of Mrs who lived there before.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -31383,7 +31411,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "It just says where is it soil plus large quantities of peat or leaf mould Some shade during the heat of the day Er it doesn't get any Erm when the sun's at the hottest anyway it's sheltered it only gets oh and the other thing is you er it it doesn't say here but you're supposed to it's supposed to be somewhere where they'll be sheltered from the early morning sun if there's been.",
+                    "text": "It just says where is it Lime-free soil plus large quantities of peat or leaf mould Some shade during the heat of the day Er it doesn't get any Erm when the sun's at the hottest anyway it's sheltered it only gets oh and the other thing is you er it it doesn't say here but you're supposed to it's supposed to be somewhere where they'll be sheltered from the early morning sun if there's been.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -32412,7 +32440,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "You mean if they haven't got any I'll have to make a model I bought him one Christmas years and oh hey we were just married and I ordered him an extending ladder from the.",
+                    "text": "You mean if they haven't got any I'll have to make a model I bought him one Christmas years and oh hey we were just married and I ordered him an extending ladder from the Co-op.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -32608,7 +32636,7 @@
                 },
                 {
                     "speaker": "PS15U",
-                    "text": "he said there's been a lot of erm talk about his daughter and erm having a stall and is one of the markets where he intends to trade in and erm he thinks.",
+                    "text": "he said there's been a lot of erm talk about his daughter and erm son-in-law having a stall and is one of the markets where he intends to trade in and erm he thinks.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -33427,7 +33455,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "well James especially the the tiniest.",
+                    "text": "well James especially the the tiniest Baby-gro.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -34127,7 +34155,7 @@
                 },
                 {
                     "speaker": "PS15U",
-                    "text": "Well I've got three because sometimes they they haven't got milk in the and they haven't got milk in the in Iceland.",
+                    "text": "Well I've got three because sometimes they they haven't got milk in the Co-op and they haven't got milk in the in Iceland.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -39667,7 +39695,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "it was for the er cat scanner and it was run by the it was it was just.",
+                    "text": "it was for the er cat scanner and it was run by the Co-Op it was it was just.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -39681,7 +39709,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "outside the.",
+                    "text": "outside the Co-Op.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -40800,7 +40828,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Yes we had a at at He would not stop hitting slapping Richard across the face.",
+                    "text": "Yes we had a carry-on at at dinner-time He would not stop hitting slapping Richard across the face.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -41248,7 +41276,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "He finishes at tomorrow I think.",
+                    "text": "He finishes at quarter-to-one tomorrow I think.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -41892,7 +41920,7 @@
                 },
                 {
                     "speaker": "PS15B",
-                    "text": "I got nineteen out of.",
+                    "text": "I got nineteen out of twenty-five.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -42424,7 +42452,7 @@
                 },
                 {
                     "speaker": "PS14C",
-                    "text": "Yes at seven.",
+                    "text": "Yes at half-past seven.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -42634,7 +42662,7 @@
                 },
                 {
                     "speaker": "PS17G",
-                    "text": "Well the last the last time when Sunderland got to the Final in er there were five of us in the in my house and I'd made red and white rosettes.",
+                    "text": "Well the last the last time when Sunderland got to the Final in seventy-three er there were five of us in the in my house and I'd made red and white rosettes.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -42949,7 +42977,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Jim will you go and g what time does the shut.",
+                    "text": "Jim will you go and g what time does the off-licence shut.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -43334,7 +43362,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Er fort well if you if you manage to get to Victoria Wines in time er get me erm er twenty erm no get me forty er Emb what do they call them Elite please If you've got ta go to the just get me twenty of whatever's there is.",
+                    "text": "Er fort well if you if you manage to get to Victoria Wines in time er get me erm er twenty erm no get me forty er Emb what do they call them Elite please If you've got ta go to the Co-op just get me twenty of whatever's there is.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -43516,7 +43544,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "and he couldn't a job and then I me I mean he tried for apprenticeships all over the place and other jobs and he just couldn't get one When his father died when he was one he took over the erm taxi business Well it was private hire but most of the work came from Northgate Hospital.",
+                    "text": "and he couldn't a job and then I me I mean he tried for apprenticeships all over the place and other jobs and he just couldn't get one When his father died when he was twenty- one he took over the erm taxi business Well it was private hire but most of the work came from Northgate Hospital.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -44131,7 +44159,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "Well he puts a got ta when he goes.",
+                    "text": "Well he puts a krook-lo got ta krook-lok when he goes.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -46809,7 +46837,7 @@
                 },
                 {
                     "speaker": "PS14B",
-                    "text": "You want to see the birds Well in that case no there Richard Richard means the birds in the park in the aviary We we can't go and see Listen Yes that's what kind's that one Bryony Bryony says she can see one in the sky What is it can you remember That's right it's a seagull There's another seagull That's a gull that one.",
+                    "text": "You want to see the birds Well in that case no there Richard Richard means the birds in the park in the aviary We we can't go and see Listen Yes that's what kind's that one Bryony Bryony says she can see one in the sky What is it can you remember That's right it's a seagull There's another seagull That's a black-headed gull that one.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

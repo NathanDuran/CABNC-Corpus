@@ -114,6 +114,7 @@ PS09W|See what his village is like.
 PS09Y|If dad starts looking through there he'll never get down the street.
 PS09W|Well he he's gon na look at the rest when he comes back.
 PS09Y|See them when you come back.
+PS09V|Right-oh.
 PS09Y|Well he won't be long unless he sees anybody to talk to He's like you for that.
 PS09V|Er did you want anything else.
 PS09W|No thanks dad.
@@ -189,7 +190,7 @@ PS09W|Erm there's erm.
 PS09T|Mm.
 PS09X|Yeah oh yeah It's boiling there though they're walking round in er woolly jumpers.
 PS09T|Were they really.
-PS09X|It's about twenty four degrees I was sweltering I was wearing a and they were out you know with jumpers on and all sorts They wear pyjamas at night and all sorts they do.
+PS09X|It's about twenty four degrees I was sweltering I was wearing a t-shirt and they were out you know with jumpers on and all sorts They wear pyjamas at night and all sorts they do.
 PS09W|there's Carbi Resorta and his village itself is called Viapechio something like that I can't really say it.
 PS09T|No.
 PS09W|That's their dog Sally.
@@ -250,8 +251,8 @@ KC2PSUN|Mm.
 PS09X|Erm it's bad You know it's really dirty water.
 PS09W|Lovely little villages though I mean you can see how they live I mean look at the roads Ever such a job to get our car up there That's Philomena walking up the street.
 PS09Y|Oh.
-PS09W|She's saying no one of me.
-PS09W|the camera off.
+PS09W|She's saying no don't-a take-a one of me.
+PS09W|Switch-a the camera off.
 PS09U|photos.
 PS09T|Yeah Oh these are the actual.
 PS09W|You walk down the road erm Marje it's really funny And it's hey Mario.
@@ -295,7 +296,7 @@ PS09W|The grapes are all along here see behind the washing.
 PS09Y|Yeah.
 PS09W|And she's got kiwi fruits and peppers and all sorts of things growing in the garden There's Eleanor.
 PS09Y|to grow them Climate for it.
-PS09W|Do you remember Eleanor She was a little curly girl Beautiful curly dark hair she had She was a little tiny dot.
+PS09W|Do you remember Eleanor She was a little dark-haired curly girl Beautiful curly dark hair she had She was a little tiny dot.
 PS09X|Aubergines little aubergines they're like this You know they're the little ones she says All fresh picks them when she wants them They're all at er Monte Casino There was a big battle there The er the Germans bombed the monastery.
 PS09T|Oh yeah.
 PS09X|And er the Italian government rebuilt it.
@@ -428,7 +429,7 @@ PS09W|He used to talk to her in English with an Italian accent It used to crack 
 PS09W|And she and she used to.
 PS09Y|You doing potatoes by the bucketful.
 PS09W|Well there was a lot of us for dinner.
-PS09W|They don't half eat though Good grief I mean you got dinnertimes it was erm typical pasta with her spaghetti sauce and parmesan cheese great big plateful and loads of meat on the side And then at night egg and chips cos she knows Tony likes chips or chops and ooh Said didn't I I'm gon na put loads of weight on.
+PS09W|They don't half eat though Good grief I mean you got dinnertimes it was erm typical pasta with her home-made home-made spaghetti sauce and parmesan cheese great big plateful and loads of meat on the side And then at night egg and chips cos she knows Tony likes chips or chops and ooh Said didn't I I'm gon na put loads of weight on.
 PS09X|Ha.
 PS09W|Ate loads.
 PS09W|That's a that's a fresh fig off a tree You can walk the roads and pick them.
@@ -458,8 +459,8 @@ PS09T|Yeah it's.
 PS09W|I've never been anywhere like that to drive through.
 PS09Y|The the travelling you know.
 PS09X|We did fifty what was it Fifty three tunnels.
-PS09W|Ooh look at me there look I think I'd had a few few wines.
-PS09W|Look at this wine Look what they've got here the bottles.
+PS09W|Ooh look at me there look I think I'd had a few few home-made wines.
+PS09W|Look at this home-made wine Look what they've got here the bottles.
 PS09X|Think it was fi Eileen how many tunnels was it Fifty odd wasn't it.
 PS09W|Er tunnel no it was se fif.
 PS09X|Seven.
@@ -489,7 +490,7 @@ PS09X|sad.
 PS09W|He got sad old Tone though Every time I write a letter to him now I say keep smiling turn them corners up cos they all go on at him.
 PS09T|Oh there's them cows.
 PS09X|Yeah.
-PS09W|Oh there's Sally playing again.
+PS09W|Oh there's Sally playing peep-o again.
 PS09X|There were loads of them.
 PS09W|That's one of the houses in the village look.
 PS09Y|What does he do.
@@ -569,7 +570,7 @@ PS09Y|Very nice.
 PS09W|And that was Monte casino on that one.
 PS09Y|That's a nice box for photographs in n it.
 PS09W|Oh this one ain't much good actually This one ain't much good It's a nuisance.
-PS09X|The other one's absolutely.
+PS09X|The other one's absolutely chock-a-block.
 PS09W|I'm keeping them together in their little bits because I've got them all sorted where they belong so.
 PS09W|Have you seen these.
 PS09U|No.

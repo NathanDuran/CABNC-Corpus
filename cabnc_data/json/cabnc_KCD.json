@@ -511,7 +511,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "I think you're supposed to wear a.",
+                    "text": "I think you're supposed to wear a T-shirt.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3558,7 +3558,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "Three pounds Can we afford one of those Hmm.",
+                    "text": "Three pounds twenty-six Can we afford one of those Hmm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3886,7 +3886,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "p.",
+                    "text": "Eighty-one p.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7124,7 +7124,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "I think they mean a back pack warm jacket or coat camera and film I think they mean a back pack You could of had a shoulder bag.",
+                    "text": "I think they mean a back pack warm jacket or coat in-expensive camera and film I think they mean a back pack You could of had a shoulder bag.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8943,7 +8943,7 @@
                 },
                 {
                     "speaker": "PS0EA",
-                    "text": "Be the percussion instrument or animal noises to accompany tape being played the animals sound like are delightful to young ears while the percussion band will appeal to older children who wish to begin beating time more accurately.",
+                    "text": "Be the percussion instrument or animal noises to accompany tape being played the animals sound like are delightful to young ears while the percussion band will appeal to older children who wish to begin beating time more acc- accurately.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -9845,7 +9845,7 @@
                 },
                 {
                     "speaker": "PS0E9",
-                    "text": "Well I'm pretty.",
+                    "text": "Well I'm pretty su-.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11265,7 +11265,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "What oh no there aren't Haven't got any other Early Learning Centre ones.",
+                    "text": "What maga- oh no there aren't Haven't got any other Early Learning Centre ones.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12803,7 +12803,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "I'd really rather you got a bit better.",
+                    "text": "I'd really rather you wo- got a bit better.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12844,7 +12844,7 @@
             "utterances": [
                 {
                     "speaker": "PS0E8",
-                    "text": "I think you've only got to leave it till it's melted has it melted.",
+                    "text": "I sh- think you've only got to leave it till it's melted has it melted.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16715,7 +16715,7 @@
                 },
                 {
                     "speaker": "PS6ST",
-                    "text": "Your such a lazy you come on the bicycles.",
+                    "text": "Your such a lazy so-and-so you come on the bicycles.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18733,7 +18733,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "Oh yeah.",
+                    "text": "Oh ding-a-ling yeah.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22112,7 +22112,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "No I'll put that back I mean I thought she'd had something but she's don't want anything Didn't have a cup of tea a cup of tea on its own She was quite pleased with her Seen it.",
+                    "text": "No I'll put that back I mean I thought she'd had something but she's don't want anything Didn't have a cup of tea a cup of tea on its own She was quite pleased with her t-shirt Seen it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22203,7 +22203,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "No I mean I think you just leave it there and let come around again I don't know how much gets sold it's all a bit of a I mean there's no room it's only a very small isn't it.",
+                    "text": "No I mean I think you just leave it there and let come around again I don't know how much gets sold it's all a bit of a I mean there's no room it's only a very small anti-room isn't it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25818,7 +25818,7 @@
                 },
                 {
                     "speaker": "PS6ST",
-                    "text": "Gary's off the.",
+                    "text": "Ga- Gary's off the.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -26047,7 +26047,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "No Don't want to come down too hard on her She misses it on Monday cos she goes to flute she misses it she she sees it on Tuesday cos Chris takes Amy to ballet she was she misses it on Wednesday cos she goes skiing she misses it on Thursday because we have to take Amy to uhum Brownies she misses it on Friday cos of Amy's swimming.",
+                    "text": "No Don't want to come down too hard on her She misses it on Monday cos she goes to flute she misses it she wa- she sees it on Tuesday cos Chris takes Amy to ballet she was she misses it on Wednesday cos she goes skiing she misses it on Thursday because we have to take Amy to uhum Brownies she misses it on Friday cos of Amy's swimming.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27187,7 +27187,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "You have a Shakespeare play you had Silas Marner I think I quite liked that one I had one of uhum oh I can't remember his name another play George Bernard Shaw.",
+                    "text": "You have a Shakespeare play you had Silas Marner I think I quite liked that one I had one of J- uhum oh I can't remember his name another play George Bernard Shaw.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -27687,7 +27687,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "Oh well there've just had a whole new bedroom suite.",
+                    "text": "Oh well there've just had a whole new di- bedroom suite.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -28060,7 +28060,7 @@
                 },
                 {
                     "speaker": "PS0E8",
-                    "text": "the door way I think Width of the door And I don't can see where your going to have a strip the width of the room and add on the width of the door on the end So they cut it off and it.",
+                    "text": "the door way I think Width of the door And I don't can see where your going to have a strip the width of the room and add on the width of the door on the end So they cut it off and re-join it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

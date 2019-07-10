@@ -1268,7 +1268,7 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "I don't know why they don't just keep the.",
+                    "text": "I don't know why they don't just keep the to- bloody-gether.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2466,7 +2466,7 @@
         },
         {
             "dialogue_id": "KB1RE004",
-            "num_utterances": 366,
+            "num_utterances": 367,
             "utterances": [
                 {
                     "speaker": "PS01B",
@@ -2478,6 +2478,13 @@
                 {
                     "speaker": "KB1PSUN",
                     "text": "Oh yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS01B",
+                    "text": "Chock-a-block.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3415,7 +3422,7 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "And I said aye up I don't mean in I says on a I said you know she can't leave her home now I said she can't manage to put coal on fire and she can't manage to get up up to eat and drink and that I said I don't mind dropping off and taking me turn on the but I mean but it's hard it's hard with me with kids every night.",
+                    "text": "And I said aye up I don't mean in day-time I says on a night-time I said you know she can't leave her home now I said she can't manage to put coal on fire and she can't manage to get up up to eat and drink and that I said I don't mind dropping off and taking me turn on the night-time but I mean but it's hard it's hard with me with kids every night.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4115,14 +4122,14 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "She has queer ways me mother Karen I I'm and I can't work me mother out so no chance for you working her out few years you've known her.",
+                    "text": "She has queer ways me mother Karen I I'm forty-seven and I can't work me mother out so no chance for you working her out few years you've known her.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "No no I I I mean she's always been alright with me really I mean y you know she's not not at all she's not.",
+                    "text": "No no I I I mean she's always been alright with me really I mean y you know she's not not at all mother-in-law she's not.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5034,7 +5041,7 @@
         },
         {
             "dialogue_id": "KB1RE006",
-            "num_utterances": 896,
+            "num_utterances": 899,
             "utterances": [
                 {
                     "speaker": "KB1PSUN",
@@ -5192,7 +5199,7 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "He borrowed money from his.",
+                    "text": "He borrowed money from his father-in-law.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5969,14 +5976,14 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "now.",
+                    "text": "Thirty-five now.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "Is it.",
+                    "text": "Is it thirty-five.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6900,7 +6907,7 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "George your birthday's not ain't it.",
+                    "text": "George your birthday's not twenty-first ain't it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7131,7 +7138,7 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "exactly older than me First and.",
+                    "text": "exactly older than me First and twenty-first.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7285,7 +7292,7 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "To be quite honest without talking like a school on a fence They're not very happy they ain't been happy for a while but it's getting worse wh is what is them now is you know I say things to Colin and Co I mean Colin'll tell me like you know you know over there and er he's latest thing is they built this little office You know when you go into on the right er a and a house ain't there.",
+                    "text": "To be quite honest without talking like a school on a fence They're not very happy they ain't been happy for a while but it's getting worse wh is what is them now is you know I say things to Colin and Co I mean Colin'll tell me like you know you know over there and er he's latest thing is they built this little office You know when you go into on the right er a coal-house and a wash- house ain't there.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7299,7 +7306,7 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "The part it's is quite wide now we've done it big but altered.",
+                    "text": "The coal-house part it's is quite wide now we've done it big coal-house but altered.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7761,7 +7768,7 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "She's how old am I so she's Same age as our Kim.",
+                    "text": "She's how old am I twenty-two so she's twenty-nine Same age as our Kim.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7796,7 +7803,7 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "He's really this year.",
+                    "text": "He's really forty-three this year.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7810,7 +7817,7 @@
                 },
                 {
                     "speaker": "PS01F",
-                    "text": "He'll be this year and she'll be thirty this year.",
+                    "text": "He'll be forty-three this year and she'll be thirty this year.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7984,6 +7991,13 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS01A",
+                    "text": "Fifty-three.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS01B",
                     "text": "Four.",
                     "ap_label": "",
@@ -7991,29 +8005,43 @@
                     "slots": {}
                 },
                 {
-                    "speaker": "PS01A",
-                    "text": "I'm.",
+                    "speaker": "PS01F",
+                    "text": "Fifty-three.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "Your next birthday you're only a couple of months off.",
+                    "text": "Fifty-four.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS01A",
-                    "text": "Well I'm.",
+                    "text": "I'm fifty-three.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS01B",
+                    "text": "Your fifty-four next birthday you're only a couple of months off.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS01A",
+                    "text": "Well I'm fifty-three.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS01G",
-                    "text": "He's.",
+                    "text": "He's fifty-three.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8447,7 +8475,7 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "Angie how long's me mother been in there I'm this year me mum must have been in there nearly fifty year.",
+                    "text": "Angie how long's me mother been in there I'm forty-eight this year me mum must have been in there nearly fifty year.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10071,7 +10099,7 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "But you know but she talks to him like like nobody Well she'll say to him put kettle on and butter some bread and he'll sit there and he's smoking and he's continuing what he's doing you know and she'll go and do what she's doing and she have you flicking you to do and you know any it just goes in that ear comes out'ther ear and just sallies on and don't take blind bit of notice.",
+                    "text": "But you know but she talks to him like like nobody Well she'll say to him put kettle on and butter some bread and he'll sit there and he's smoking and he's continuing what he's doing you know and she'll go and do what she's doing and she have you flicking arse-hole you to do and you know any it just goes in that ear comes out'ther ear and just sallies on and don't take blind bit of notice.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10631,7 +10659,7 @@
                 },
                 {
                     "speaker": "KB1PSUN",
-                    "text": "Now why don't ya why don't ya go to middle Page.",
+                    "text": "Now why don't ya why don't ya go to middle Page twenty-one.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11142,7 +11170,7 @@
                 },
                 {
                     "speaker": "PS01A",
-                    "text": "You paying me in'and and Dennis is paying me in'and and I'll a er thousand pound a week the way that I keep getting these job offers.",
+                    "text": "You paying me in'and and Dennis is paying me in'and and I'll a er thousand pound a week the way that I keep getting these job offers Back-handers.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11626,7 +11654,7 @@
         },
         {
             "dialogue_id": "KB1RE008",
-            "num_utterances": 145,
+            "num_utterances": 147,
             "utterances": [
                 {
                     "speaker": "PS01A",
@@ -12639,6 +12667,20 @@
                 {
                     "speaker": "PS01C",
                     "text": "Yeah.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS01A",
+                    "text": "Ta-ta.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS01C",
+                    "text": "Ta-ta.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -14586,7 +14628,7 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "Is it department scan department.",
+                    "text": "Is it X-Ray department scan department.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16076,7 +16118,7 @@
                 },
                 {
                     "speaker": "PS01A",
-                    "text": "They always budget for April Not unless he's putting a in Before election To see how good he is to the people.",
+                    "text": "They always budget for April Not unless he's putting a mini-budget in Before election To see how good he is to the people.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16965,7 +17007,7 @@
                 },
                 {
                     "speaker": "PS01A",
-                    "text": "They were having a right other day.",
+                    "text": "They were having a right ding-dong other day.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16986,7 +17028,7 @@
                 },
                 {
                     "speaker": "PS01A",
-                    "text": "Somebody were a having a right other day when we were here They were a having a right other day.",
+                    "text": "Somebody were a having a right ding-dong other day when we were here They were a having a right ding-dong other day.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18400,7 +18442,7 @@
                 },
                 {
                     "speaker": "PS01B",
-                    "text": "We're going yeah.",
+                    "text": "We're going yeah Bye-bye.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -19120,7 +19162,7 @@
                 },
                 {
                     "speaker": "KB1PSUN",
-                    "text": "Get it picked then you.",
+                    "text": "Get it picked then you Kit-Kat.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22214,7 +22256,7 @@
                 },
                 {
                     "speaker": "PS01E",
-                    "text": "They should be bags shouldn't they.",
+                    "text": "They should be dome-shaped bags shouldn't they.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

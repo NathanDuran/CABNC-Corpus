@@ -295,7 +295,7 @@
                 },
                 {
                     "speaker": "PS0AA",
-                    "text": "computer systems One as it were to pick out addresses one to pick out groups one to pick out motor cars one to pick out number of bedrooms one to pick out whatever and trivially or or superficially everyone says the same thing a database it's on the database now.",
+                    "text": "computer systems One as it were to pick out addresses one to pick out socio-economic groups one to pick out motor cars one to pick out number of bedrooms one to pick out whatever and trivially or or superficially everyone says the same thing a database it's on the database now.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -323,7 +323,7 @@
                 },
                 {
                     "speaker": "PS0AA",
-                    "text": "and the way in which you do what you do with it depends on what you put in If you only put people in who are then you will not have all the information all the people who are in rented accommodation.",
+                    "text": "and the way in which you do what you do with it depends on what you put in If you only put people in who are owner-occupiers then you will not have all the information all the people who are in rented accommodation.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -589,7 +589,7 @@
                 },
                 {
                     "speaker": "PS0AA",
-                    "text": "Well an an an and I it seems to me that the the er I mean you go you go to the er to the M S Society and you find just about everybody there you know you find people who who are in wheelchairs you find people who are walking around you find people who are er controlling their diet you find people who are obs s taking extreme dietary precautions no not precautions no they are taking extreme care of their diet er er I mean on diets and you know what that means.",
+                    "text": "Well an an an and I it seems to me that the the er I mean you go you go to the er to the M S Society and you find just about everybody there you know you find people who who are in wheelchairs you find people who are walking around you find people who are er controlling their diet you find people who are obs s taking extreme dietary precautions no not precautions no they are taking extreme care of their diet er er I mean on gluten-free diets and you know what that means.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1736,7 +1736,7 @@
                 },
                 {
                     "speaker": "PS0AA",
-                    "text": "She really has this er attitude which I can not understand because erm a a as I think it was Al Reeve said you know erm some people can't bear children we can't but we like them but if you have actually borne children you are in other words a mother you've got ta have a attitude not only to children in general but to your children in particular which is very very difficult for er a male to understand and a it's gon na be very very difficult cos I personally don't have any children at all and therefore it is very very difficult for me to even comprehend but given that I can erm I can sympathize with something I do not comprehend it must be monumentally difficult for her.",
+                    "text": "She really has this er attitude which I can not understand because erm a a as I think it was Al Reeve said you know erm some people can't bear children we can't but we like them but if you have actually borne children you are in other words a mother you've got ta have a attitude not only to children in general but to your children in particular which is very very difficult for er a male to understand and a non-father it's gon na be very very difficult cos I personally don't have any children at all and therefore it is very very difficult for me to even comprehend but given that I can erm I can sympathize with something I do not comprehend it must be monumentally difficult for her.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1967,7 +1967,7 @@
                 },
                 {
                     "speaker": "PS0AA",
-                    "text": "Oh she's erm tt she is the brighter spark on the horizon I suppose you know It makes me cough a bit because when I came on the scene he was the one academically everything and she was the one who was academically rather disadvantaged but she she was you know no not having the greatest of of of success but erm it was said that she wouldn't be able to be a student nurse because she wasn't bright enough but you know she clocked up the O levels and A levels like guide badges and she went off on this course in South Notts you know and she was in and out of the Queens on a course and people and you know and she said I don't know all the answers but I've a rough idea about some of the questions I want to be a nurse and off she went to to to Walsall and I'm not saying she's a brilliant student nurse but erm absolutely clear that she's better than some of the others And er you know that's negative if you will but it's fact.",
+                    "text": "Oh she's erm tt she is the brighter spark on the horizon I suppose you know It makes me cough a bit because when I came on the scene he was the one academically everything and she was the one who was academically rather disadvantaged but she she was you know no not having the greatest of of of success but erm it was said that she wouldn't be able to be a student nurse because she wasn't bright enough but you know she clocked up the O levels and A levels like guide badges and she went off on this pre-nursing course in South Notts you know and she was in and out of the Queens on a course and people and you know and she said I don't know all the answers but I've a rough idea about some of the questions I want to be a nurse and off she went to to to Walsall and I'm not saying she's a brilliant student nurse but erm absolutely clear that she's better than some of the others And er you know that's negative if you will but it's fact.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2121,7 +2121,7 @@
                 },
                 {
                     "speaker": "PS0AA",
-                    "text": "and er er er er the situation is that you can in in some of these nursing schools where they have taught you and it is their letterhead that's on your they still aren't in a position to say oh well there's a job of course because you don't need to have passed out top you know to be guaranteed a job there ain't no jobs guaranteed for no one And er I just don't know what to do California and Saudi Arabia are two of the you know destinations that come to mind but erm I don't know about that either you know if she doesn't.",
+                    "text": "and er er er er the situation is that you can in in some of these nursing schools where they have taught you and it is their letterhead that's on your pass-out they still aren't in a position to say oh well there's a job of course because you don't need to have passed out top you know to be guaranteed a job there ain't no jobs guaranteed for no one And er I just don't know what to do California and Saudi Arabia are two of the you know destinations that come to mind but erm I don't know about that either you know if she doesn't.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4541,7 +4541,7 @@
                 },
                 {
                     "speaker": "PS0AD",
-                    "text": "the.",
+                    "text": "the see-saw.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4569,14 +4569,14 @@
                 },
                 {
                     "speaker": "PS0AD",
-                    "text": "No drugs no three lettered words and no oh yeah there was alcohol No there was some wine Erm.",
+                    "text": "No drugs no three lettered words and no oh yeah there was alcohol No there was some non-alcoholic wine Erm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS0AC",
-                    "text": "wine.",
+                    "text": "Non-alcoholic wine.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4835,7 +4835,7 @@
                 },
                 {
                     "speaker": "PS0AD",
-                    "text": "you know how they strip they have they undo the top half but then they s they erm have velcro down the seams so they pull the rest off and then they slip the sort of.",
+                    "text": "you know how they strip they have they undo the top half but then they s they erm have velcro down the seams so they pull the rest off and then they slip the T-shirt sort of.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -9887,7 +9887,7 @@
                 },
                 {
                     "speaker": "PS0AC",
-                    "text": "so Malcolm just went in to see if there'd be any tickets for the afternoon performance on the and they were putting on an extra matinee performance so lo and behold those two went to see Phantom of the Opera.",
+                    "text": "so Malcolm just went in to see if there'd be any tickets for the afternoon performance on the off-chance and they were putting on an extra matinee performance so lo and behold those two went to see Phantom of the Opera.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -15598,7 +15598,7 @@
                 },
                 {
                     "speaker": "PS0AB",
-                    "text": "and I I never saw anybody else My my she w had to go in just before Christmas had to rather suddenly she's was diagnosed in the summer as having diverticulitis and they planned a sort of diet out to keep her really well and she was in terrible pain and they rushed her off for a scan and er she goes privately cos Vernon I think actually his is bupa that he's in he joined when it first came out and she wrote to me and she said oh I'm I just feel so lonely there's nobody to talk to I've got nobody to see or anything and she felt a bit cos she wasn't really that ill.",
+                    "text": "and I I never saw anybody else My my sister- in-law she w had to go in just before Christmas had to rather suddenly she's was diagnosed in the summer as having diverticulitis and they planned a sort of diet out to keep her really well and she was in terrible pain and they rushed her off for a scan and er she goes privately cos Vernon I think actually his is bupa that he's in he joined when it first came out and she wrote to me and she said oh I'm I just feel so lonely there's nobody to talk to I've got nobody to see or anything and she felt a bit cos she wasn't really that ill.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -15724,7 +15724,7 @@
                 },
                 {
                     "speaker": "PS0AC",
-                    "text": "Well that does go.",
+                    "text": "Well that bluey-green does go.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -15969,7 +15969,7 @@
                 },
                 {
                     "speaker": "PS0AB",
-                    "text": "It's alright for the young ones Yes It's alright when you're young to have a a one Mm Think it was last was it last Monday when I was next door for coffee I don't know what brought it up Norah said something about her is she allowed on the settee now I said oh goodness yes that's why they bought a leather one so she could go on it.",
+                    "text": "It's alright for the young ones Yes It's alright when you're young to have a a sink-into one Mm Think it was last was it last Monday when I was next door for coffee I don't know what brought it up Norah said something about her is she allowed on the settee now I said oh goodness yes that's why they bought a leather one so she could go on it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -18378,7 +18378,7 @@
                 },
                 {
                     "speaker": "PS0A8",
-                    "text": "below which I below which I.",
+                    "text": "below which I age-wise below which I.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

@@ -62,9 +62,10 @@ PS052|Yeah Get over.
 PS051|Well I'm fairly discomknockerated if the truth be told.
 PS052|How dare you use such a northern expression.
 PS052|in the middle of the east.
-PS052|I didn't know we had anyone called did you.
+PS053|Andrew-wa.
+PS052|Andrew-wa I didn't know we had anyone called Andrew-wa did you.
 PS051|Andrew double U.
-PS052|He's been a bit er green hasn't he I think.
+PS052|Andrew-wa He's been a bit er green hasn't he I think.
 PS051|You what.
 PS052|I think he's been a bit green today.
 PS051|Andrew.
@@ -73,7 +74,9 @@ PS052|Funny that in n it.
 PS051|Andrew.
 PS052|Well well sort out what's like worried him I never rememb what did we buy Andrew for his birthday I can't remember now.
 PS051|Ask him.
+PS052|Andrew-wa.
 PS055|Pardon.
+PS052|Andrew-wa.
 PS055|Yeah.
 PS052|What did we get you for your birthday last year I can't remember.
 PS055|Erm.

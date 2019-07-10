@@ -50,6 +50,7 @@ PS087|And I said yes please Would you like a tomato.
 PS088|No.
 PS087|Well that's alright then.
 PS088|I want cream cheese all by itself.
+PS087|Right-y-ho.
 PS0XR|Er the tomatoes.
 PS087|Do you want to sit in your place.
 PS0XR|were they left in your er car.
@@ -611,7 +612,7 @@ PS0XR|Oh well she'll like that then Here whe're whe're you going with that Put t
 PS088|Where does this go.
 PS0XR|put that in there.
 PS088|Yeah.
-PS0XR|there's none left you see That's ooh Oh You He's missed mum.
+PS0XR|there's none left you see That's ooh Oh You Mary-Ann He's missed mum.
 PS087|Just leave those there Tim.
 PS0XR|I'll just have to find the box He wants to know.
 PS088|Why.

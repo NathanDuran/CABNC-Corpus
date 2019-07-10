@@ -41,7 +41,7 @@ PS1GF|where you off to.
 PSUN|Gon na.
 PS1GF|Yeah.
 PS1GE|yeah.
-PS1GF|Oh just in time for nineteen.
+PS1GF|Oh just in time for nineteen ninety-two.
 PS1GE|Oh yeah.
 PS1GF|yeah good luck good luck see you later.
 PSUN|see you later Mark alright.
@@ -101,6 +101,8 @@ PS1GF|Well most of them they saying are six contracts now they say say six month
 PSUN|Goal.
 PS1GF|couple of months he said he it could be a couple of years it depends on how quick it get work gets done and how long they think they need you.
 PSUN|What time is it.
+PS1GF|forty-eight.
+PSUN|Forty-eight.
 PSUN|Does they put.
 PSUN|Well maybe thirteenth.
 PSUN|What time is it now.

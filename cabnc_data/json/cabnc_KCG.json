@@ -234,7 +234,7 @@
         },
         {
             "dialogue_id": "KCGRE001",
-            "num_utterances": 166,
+            "num_utterances": 167,
             "utterances": [
                 {
                     "speaker": "PS19L",
@@ -1344,14 +1344,21 @@
                 },
                 {
                     "speaker": "PS19L",
-                    "text": "right wave.",
+                    "text": "right wave ni-night ni-night.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS19N",
-                    "text": "night night.",
+                    "text": "ni-night night night.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS19L",
+                    "text": "ni-night.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1372,7 +1379,7 @@
                 },
                 {
                     "speaker": "PS19L",
-                    "text": "and Stacey you can lay down and listen to the story come on put your stuff away and lay down good night.",
+                    "text": "ni-night and Stacey you can lay down and listen to the story come on put your stuff away and lay down good night.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1483,7 +1490,7 @@
                 },
                 {
                     "speaker": "PS19M",
-                    "text": "Go to sleep Michael go to time.",
+                    "text": "Go to sleep Michael go to bo-bos bo-bos time.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3223,7 +3230,7 @@
                 },
                 {
                     "speaker": "PS19L",
-                    "text": "he he was a treat before just used to take him up give him a cuddle say and that was it.",
+                    "text": "he he was a treat before just used to take him up give him a cuddle say night-night and that was it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6495,7 +6502,7 @@
                 },
                 {
                     "speaker": "PS19M",
-                    "text": "you're thinking yeah I can do this and then when it a gentleman's agreement and then it comes to paper and when that paper's signed you're stuck with it.",
+                    "text": "you're thinking long-term yeah I can do this and then when it a gentleman's agreement and then it comes to paper and when that paper's signed you're stuck with it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8124,7 +8131,7 @@
                 },
                 {
                     "speaker": "PS19L",
-                    "text": "I don't know if you remember but ages ago round about October time she borrowed some stuff for the Brownies for erm for Sian Sian was going camping and she hadn't got shorts or anything so she borrowed it off me I was thinking of Stacey starting I wanted the t I'm not bothered about the shorts but I want the and I'm just gon na get Stacey the culottes and she can wear her shorts and the cardigan with it buy when she first starts and then we could Deana's moving up to Guides this so she can have that sweatshirt of er I mean they're nine pound.",
+                    "text": "I don't know if you remember but ages ago round about October time she borrowed some stuff for the Brownies for erm for Sian Sian was going camping and she hadn't got shorts or anything so she borrowed it off me I was thinking of Stacey starting I wanted the t I'm not bothered about the shorts but I want the T-shirt and I'm just gon na get Stacey the culottes and she can wear her shorts and the cardigan with it buy when she first starts and then we could Deana's moving up to Guides this so she can have that sweatshirt of er I mean they're nine pound.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8445,7 +8452,7 @@
                 },
                 {
                     "speaker": "PS19P",
-                    "text": "so I'm just looking for er a or something for Lisa no you can't have the pen it's too sharp yeah you're crafty you are aren't you you can get zips open now mm.",
+                    "text": "so I'm just looking for er a T-shirt or something for Lisa no you can't have the pen it's too sharp yeah you're crafty you are aren't you you can get zips open now mm.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

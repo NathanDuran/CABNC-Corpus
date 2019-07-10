@@ -50,9 +50,9 @@ PS08A|I've got three cherries.
 PS087|So's Christopher.
 PS08A|Three cherries.
 PS089|I didn't never have.
-PS087|Now then or yogurt Christopher.
+PS087|Now then Ice-cream or yogurt Christopher.
 PS088|It's too much.
-PS087|or yogurt dear.
+PS087|Ice-cream or yogurt dear.
 PS088|too much.
 PS087|Just a minute We're not ready yet for you.
 PS089|yogurt.
@@ -61,16 +61,17 @@ PS089|Yogurt.
 PS088|Mummy it's too much.
 PS089|finished that.
 PS087|I know.
-PS088|It's too much I want to have an an I want to have an.
-PS087|Now listen to have yogurt and you have to have some fruit okay And what's more.
+PS088|It's too much I want to have an an ice-cream I want to have an ice-cream.
+PS087|Now listen to have yogurt and ice-cream you have to have some fruit okay And what's more.
 PS088|It's too much.
 PS087|and what's more you have to have more than that Tim Look I've put some banana in for you There.
 PS088|Take one of those away Take one of these away.
 PS087|That one there.
 PS088|Yeah.
 PS087|Right Is that alright now Are you happy with that.
-PS088|Yeah.
-PS088|with that.
+PS088|Yeah Ice-cream.
+PS087|Ice-cream.
+PS088|Ice-cream with that.
 PS08A|Ooh ho ho ho ho.
 PS088|I want that.
 PS08A|Ho ho ho ho ho ho.
@@ -252,7 +253,7 @@ PS089|Can I have some frozen yogurt with it.
 PS087|Well you could if there was any.
 PS089|But is there any.
 PS087|No.
-PS089|Can I have some then.
+PS089|Can I have some ice-cream then.
 PS087|Er you can do if there is any Would you like to pass your bowl over.
 PS088|Oh.
 PS087|please Tim are you wanting any fruit.
@@ -263,10 +264,10 @@ PS088|No.
 PS087|Are you sure.
 PS088|Mm It's empty You can't have any more You can't allowed.
 PS088|any more Empty No I can't have any more.
-PS088|Ah ah only Is there any please.
+PS088|Ah ah only ice-cream Is there any ice-cream please.
 PS088|People do have some.
-PS088|the same Same one.
-PS087|It's the same that we had before yeah At least it would be if I could get into it.
+PS088|the same ice-cream Same one.
+PS087|It's the same ice-cream that we had before yeah At least it would be if I could get into it.
 PS088|That's funny Your one's empty.
 PS087|It's beginning to melt.
 PS088|Melt.
@@ -281,7 +282,7 @@ PS087|You had loads the first time round.
 PS088|A lot please That's a lot.
 PS087|Pop goes Christopher and Tim.
 PS088|No No We're not gon na go pop.
-PS08A|You might Eating all that.
+PS08A|You might Eating all that ice-cream.
 PS088|We won't.
 PS08A|You might.
 PS088|Like pop goes the weasel.

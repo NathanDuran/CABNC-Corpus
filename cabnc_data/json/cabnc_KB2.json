@@ -391,7 +391,7 @@
                 },
                 {
                     "speaker": "PS01V",
-                    "text": "I'm not gon na take it out again I know what it's gon na be like this one freeze it and it don't you Oh God whatever's that.",
+                    "text": "I'm not gon na take it out again I know what it's gon na be like this one freeze it and re-thaw it don't you Oh God whatever's that.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4966,7 +4966,7 @@
                 },
                 {
                     "speaker": "KB2PSUN",
-                    "text": "A senior citizen is one who was here before the pill before television frozen food credit card and ballpoint pens for us timesharing meant togetherness not computers and a chip meant a piece of wood hardware meant hardware and software wasn't even a word teenagers never wore slacks we were before pantyhose clothes dishwashers clothes driers and electric blankets we got married first and then lived together.",
+                    "text": "A senior citizen is one who was here before the pill before television frozen food credit card and ballpoint pens for us timesharing meant togetherness not computers and a chip meant a piece of wood hardware meant hardware and software wasn't even a word teenagers never wore slacks we were before pantyhose drip-dry clothes dishwashers clothes driers and electric blankets we got married first and then lived together.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8581,7 +8581,7 @@
                 },
                 {
                     "speaker": "PS01U",
-                    "text": "I'm a right me.",
+                    "text": "I'm a right stopper-inner me.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -14494,7 +14494,7 @@
                 },
                 {
                     "speaker": "PS01U",
-                    "text": "Well can't you take it back and get it.",
+                    "text": "Well can't you take it back and get it re-dated.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -14895,7 +14895,7 @@
         },
         {
             "dialogue_id": "KB2RE00F",
-            "num_utterances": 1540,
+            "num_utterances": 1541,
             "utterances": [
                 {
                     "speaker": "KB2PSUN",
@@ -14990,7 +14990,7 @@
                 },
                 {
                     "speaker": "PS01V",
-                    "text": "Yeah Ooh I said you ought to go get one of these She says oh I see enough bloody telly without recording Because that's where I got Angela's from.",
+                    "text": "Yeah Ooh I said you ought to go get one of these She says oh I see enough bloody telly without recording Because that's where I got Angela's hi-fi from.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -17993,7 +17993,7 @@
                 },
                 {
                     "speaker": "PS01U",
-                    "text": "but they're all in little You know there's only.",
+                    "text": "but they're all in little cul-de-sacs You know there's only.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25596,6 +25596,13 @@
                 {
                     "speaker": "PS01V",
                     "text": "No.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS01U",
+                    "text": "Ta-ta.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

@@ -13,7 +13,7 @@ PS1BS|In Thomas the Tank Engine.
 PS1BT|Clay pits Well usually clay.
 PS1BT|clay used to be used for bread making Still is to a certain extent So lots of places like.
 PS1BU|What's clay.
-PS1BT|Burton Stava Broomfleet all had clay pits where they used to dig out the clay and cut it up and make it into bricks Is that what you meant.
+PS1BT|Barton-on-Humber Burton Stava Broomfleet all had clay pits where they used to dig out the clay and cut it up and make it into bricks Is that what you meant.
 PS1BV|Yes And paints Hey look at that lamb.
 PS1BS|Oh yes Look it's finishing off the rest of honeysuckle can you see.
 PS1BT|Here are Chris look.
@@ -168,7 +168,7 @@ PS1BS|Guess can't you.
 PS1BU|She rings the bell she rings And she.
 PS1BS|She co.
 PS1BT|Okay Thanks Chris.
-PS1BS|She's somebody who comes to the door and tries to sell you some and perfume and toys and things.
+PS1BS|She's somebody who comes to the door and tries to sell you some make-up and perfume and toys and things.
 PS1BT|Cosmetics and things David.
 PS1BV|Toys Er see la like er Sega Master System two and one This er and Sega Mast.
 PS1BS|No sort of toys connected like bubble bath and that sort of thing.
@@ -572,7 +572,7 @@ PS1BT|Yes course yo.
 PS1BS|have some bubbles.
 PS1BT|Come on.
 PS1BV|Yippee putting in some bubbles in the bath I'll get.
-PS1BS|Why is two thousand three hundred your favourite number Because when that parcel came from Gwyneth you said that I think probably two thousand three hundred in it.
+PS1BS|Why is two thousand three hundred your favourite number Because when that parcel came from Gwyneth you said that I think probably two thousand three hundred mini-bites in it.
 PS1BU|Ha.
 PS1BV|I don't know why it's funny two thousand three thousand three thousand.
 PS1BT|Are you happy now.
@@ -885,7 +885,7 @@ PS1BV|Mm.
 PS1BU|No that's in the there's this detective erm there's these there's these detective book and th there's a girl detective girl Sam and erm her e the Feeble Five headed by Steve.
 PS1BT|So what's.
 PS1BU|Er.
-PS1BT|that a of the Famous Five.
+PS1BT|that a take-off of the Famous Five.
 PS1BU|I don't know But er and if sh she's in the last book she tells how ugly erm erm Steve was Er but erm she wouldn't bother to she'll be getting her e old age pension before she's finished.
 PS1BT|Mm mm Dave Stop it Come on sit up You've got ta be out in half a second now.
 PS1BU|My shoes are stuck to the.
@@ -969,7 +969,7 @@ PS1BT|Get on with it Come on.
 PS1BV|ah ah ah ah la la.
 PS1BV|Come on dad help me please.
 PS1BT|No do it yourself.
-PS1BU|D I Y just being here.
+PS1BU|D I Y just being here do-it-yourself.
 PS1BT|Just cos you're brain washed with television advertisements Chrissy.
 PS1BU|I'm not Cos you keep going on about it.
 PS1BT|Mm.

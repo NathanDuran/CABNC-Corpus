@@ -515,6 +515,7 @@ PS03R|Yes.
 PS02H|playing for time again.
 PS6TB|Whoa.
 PS02G|You're in the lead.
+PS6TB|Whoops-a-daisy.
 PS02R|Whenever you do that Grace it means a non score.
 PS02R|just rub it in Al I'm sorry.
 PS03R|Lampposts I call them what do you call them.

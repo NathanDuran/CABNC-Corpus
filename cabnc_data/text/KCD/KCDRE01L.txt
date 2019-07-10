@@ -36,7 +36,7 @@ PS0EA|Huh.
 PS0E9|Pardon.
 PS6ST|Wearing your today.
 PS0EA|Please.
-PS6ST|Your such a lazy you come on the bicycles.
+PS6ST|Your such a lazy so-and-so you come on the bicycles.
 PS0EA|No.
 PS0EA|No can't.
 PS0E8|Probably certainly not sending her on her own.

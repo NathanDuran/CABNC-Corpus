@@ -48,7 +48,7 @@ PSUN|No I'm going to go to.
 PSUN|I tell you what I don't suppose you could persuade her.
 PSUN|to get me some contact.
 PSUN|Yes I could.
-PSUN|can't you get contact lenses.
+PSUN|can't you get bi-focal contact lenses.
 PSUN|Yeah yeah I've know that that's been on the market for about a year year and a half now.
 PSUN|I've I've never seen it well I've I've I've only had contact I've had these this last set of contacts for about two years now that's why I want to get some new ones and erm.
 PSUN|How much are they nowadays.
@@ -66,10 +66,10 @@ PSUN|No.
 PSUN|well no I just wondered I mean totally in it.
 PSUN|Yeah but they're not are they.
 PSUN|Those those ones are complete cover over just got the.
-PSUN|No this is one to over.
+PSUN|No this is one to re-cover over.
 PSUN|Yeah I would of thought.
 PSUN|yeah.
-PSUN|you can only get overs.
+PSUN|you can only get re-cover overs.
 PSUN|No I went for contact lenses he he just said look there are lots of ones on the the market but I suggest you have these bloody shape of them.
 PSUN|Yeah you get you get blue ones which make your eyes bluer than.
 PSUN|You can get ones that implant sort of colours.
@@ -138,7 +138,7 @@ PSUN|Ah.
 PSUN|you take the high road and I'll take the long road and I'll be in Scotland.
 PSUN|Ah shit erm Alex.
 PSUN|Yeah.
-PSUN|erm this and er.
+PSUN|erm re-spray this and er.
 PSUN|Do you have any round here.
 PSUN|No.
 PSUN|Yes.

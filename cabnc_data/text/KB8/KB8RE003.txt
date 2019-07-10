@@ -116,7 +116,7 @@ PS14B|Jean usually comes and stands beside me anyway.
 KB8PSUN|Oh yes.
 PS14B|See you later pet.
 KB8PSUN|Give me a kiss.
-PS14B|Go straight in cos they've just gone in.
+PS14B|Go straight in cos they've just gone in Bye-bye.
 KB8PSUN|Have a nice day dear.
 KB8PSUN|Hello.
 PS14B|Hello.
@@ -355,7 +355,7 @@ PS14B|The Three Billy Goats Gruff.
 PS14C|Where will it be.
 PS14B|I don't know where it it should be.
 PS14C|You've got a runny nose Richard.
-PS14L|Give us a kiss.
+PS14L|Give us a kiss bye-bye.
 PS14B|The Three Billy Goats Gruff.
 PS14L|Yeah I know that.
 PS14B|should be with all the books I read it to them yesterday afternoon We practised didn't we.
@@ -371,37 +371,40 @@ PS14L|Well if practise that.
 PS14B|properly in May.
 PS14L|I'll practise them not running off.
 PS14N|I wan na see those.
-PS14L|Right well give us a kiss then.
+PS14L|Right well give us a kiss bye-bye then.
 PS14H|No.
 PS14L|See you tomorrow.
 KB8PSUN|trousers.
 PS14B|Oh no Ja oh.
 PS14C|It's alright cos Ann's.
+PS14L|Bye-bye.
 PS14C|Come and see what Ann's got.
 PS14B|James this ho this hole in the corner near the.
+PS14H|Bye-bye.
 PS14B|door is being stuffed.
-PS14C|mummy.
+PS14C|Ta-ta mummy.
 PS14B|with all kinds of things I bet that's where half my crayons are.
 KB8PSUN|Yes it's in the front room.
 PS14C|Yes it's in the front room.
 PS14B|Look no Richard I don't want things stuffing down that hole Put it in the bin Clever boy.
-PS14B|Come and say to mummy look cos she's in a hurry.
+PS14B|Come and say bye-bye to mummy look cos she's in a hurry.
 PS14H|I want to come with you.
 PS14C|Yes well say tarrah to mummy first then.
 PS14B|Come are you coming to the door.
 PS14H|Well I'll I'll just.
-PS14B|Well pu i alright put it in the bin quickly then come and say to mummy Hurry up Hurry up Hurry up Diddle ee dee dee That's it.
+PS14B|Well pu i alright put it in the bin quickly then come and say bye-bye to mummy Hurry up Hurry up Hurry up Diddle ee dee dee That's it.
 PS14C|go and say tarrah to mummy.
 KB8PSUN|Er no.
 PS14B|Oh ho.
 PS14L|James doesn't Oh ho.
 PS14B|Oh What a polite boy.
 PS14L|I know.
-PS14C|mummy.
+PS14C|Bye-bye mummy.
 PS14L|Go on then give me a.
 KB8PSUN|No.
 PS14L|I've got to open that without that in.
 PS14C|Tarrah mummy.
+PS14L|Bye-bye.
 PS14H|I want Beethoven music We want Beethoven.
 PS14C|You want Beethoven music.
 PS14B|You want Beethov.

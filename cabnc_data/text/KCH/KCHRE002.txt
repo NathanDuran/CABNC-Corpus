@@ -384,7 +384,7 @@ PS1BS|Yes.
 PS1BV|I mum.
 PS1BS|What Which was it Was it Jack was it James and the Giant Peach No it wasn't It was something about.
 PS1BV|Crocodiles.
-PS1BS|No it wasn't It was it was James and the Giant it was about this boy being by these two old ladies that were looking after James I suppose no I I didn't enjoy that one but I could see that Chrissy enjoyed it Thought it was wonderful.
+PS1BS|No it wasn't It was it was James and the Giant it was about this boy being ill-treated by these two old ladies that were looking after James I suppose no I I didn't enjoy that one but I could see that Chrissy enjoyed it Thought it was wonderful.
 PS1BV|Oh mum.
 PS1BS|Yes.
 PS1BV|I thought I thought you were on about a book that.

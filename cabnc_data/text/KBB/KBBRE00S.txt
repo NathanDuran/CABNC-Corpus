@@ -121,14 +121,14 @@ PS03S|oh.
 PS03T|so the weather had better improve I'll just have to buy some more from the milk man.
 PS03S|what bread.
 PS03T|potatoes I'm talking about.
-PS03S|oh I'll got across the for me paper in the morning and get the potatoes from the shop no problem.
+PS03S|oh I'll got across the Co-Op for me paper in the morning and get the potatoes from the shop no problem.
 PS03T|I know but there not very good there about three times as much.
 PS03S|yeah well why ain't they any good then.
 PS03T|well those people have them in stock for a long time.
 PS03S|they seem to sell them don't they.
 PS03T|I don't know most people buy them in bags today those in those across the.
 PS03S|mm.
-PS03T|the other week were horrible.
+PS03T|Co-Op the other week were horrible.
 PS03S|how many have you got another day.
 PS03T|I've got about enough for about two days might be three.
 PS03S|that's alright then.

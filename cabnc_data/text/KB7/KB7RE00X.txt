@@ -122,7 +122,7 @@ PS02H|Thought you might want a lift.
 PS02G|We don't want anything up there.
 PS02H|Shopping.
 PS02L|but er I don't know if you like it see what I mean.
-PS02H|Have a little.
+PS02H|Have a little drinky-poos.
 PS02G|No course not.
 PS02L|I'll ha I'll do it I'll I'll made the shepherds pie.
 PS02H|What with.

@@ -2835,7 +2835,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "No it wasn't It was it was James and the Giant it was about this boy being by these two old ladies that were looking after James I suppose no I I didn't enjoy that one but I could see that Chrissy enjoyed it Thought it was wonderful.",
+                    "text": "No it wasn't It was it was James and the Giant it was about this boy being ill-treated by these two old ladies that were looking after James I suppose no I I didn't enjoy that one but I could see that Chrissy enjoyed it Thought it was wonderful.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4437,7 +4437,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "cos you didn't have to pay tax cos you're a and everybody that went to a building society got it taxed But then they also you can register as a.",
+                    "text": "cos you didn't have to pay tax cos you're a non-taxpayer and everybody that went to a building society got it taxed But then they also you can register as a non-taxpayer.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4451,7 +4451,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "Well you have to be a payer you can't cheat.",
+                    "text": "Well you have to be a non-tax payer you can't cheat.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5102,7 +5102,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "Well alright you child.",
+                    "text": "Well alright you semi-horrible child.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6129,7 +6129,7 @@
                 },
                 {
                     "speaker": "PS1BT",
-                    "text": "Burton Stava Broomfleet all had clay pits where they used to dig out the clay and cut it up and make it into bricks Is that what you meant.",
+                    "text": "Barton-on-Humber Burton Stava Broomfleet all had clay pits where they used to dig out the clay and cut it up and make it into bricks Is that what you meant.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7214,7 +7214,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "She's somebody who comes to the door and tries to sell you some and perfume and toys and things.",
+                    "text": "She's somebody who comes to the door and tries to sell you some make-up and perfume and toys and things.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10042,7 +10042,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "Why is two thousand three hundred your favourite number Because when that parcel came from Gwyneth you said that I think probably two thousand three hundred in it.",
+                    "text": "Why is two thousand three hundred your favourite number Because when that parcel came from Gwyneth you said that I think probably two thousand three hundred mini-bites in it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12233,7 +12233,7 @@
                 },
                 {
                     "speaker": "PS1BT",
-                    "text": "that a of the Famous Five.",
+                    "text": "that a take-off of the Famous Five.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -12821,7 +12821,7 @@
                 },
                 {
                     "speaker": "PS1BU",
-                    "text": "D I Y just being here.",
+                    "text": "D I Y just being here do-it-yourself.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -13121,7 +13121,7 @@
                 },
                 {
                     "speaker": "PS1BT",
-                    "text": "Well you'll have some or summat won't you.",
+                    "text": "Well you'll have some Kit-Kats or summat won't you.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16145,7 +16145,7 @@
         },
         {
             "dialogue_id": "KCHRE00A",
-            "num_utterances": 146,
+            "num_utterances": 147,
             "utterances": [
                 {
                     "speaker": "PS1BS",
@@ -16261,7 +16261,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "No don't take them off it's jud' ya know I had those about two weeks ago.",
+                    "text": "No don't take them off it's jud' ya know I had those re-heeled about two weeks ago.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16310,7 +16310,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "though cos well it's two two pounds fifty six I've just taken another pair today to be I mean all I've done is walk up to the school a couple of times in them.",
+                    "text": "though cos well it's two two pounds fifty six I've just taken another pair today to be re-heeled I mean all I've done is walk up to the school a couple of times in them.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16492,7 +16492,7 @@
                 },
                 {
                     "speaker": "PS1BT",
-                    "text": "so a person going out of here.",
+                    "text": "so a one-legged person going out of here.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16541,7 +16541,7 @@
                 },
                 {
                     "speaker": "PS1BT",
-                    "text": "He's erm he's as Chrissy walks in David can go up to bed he's can do his own teeth get himself in and you know and.",
+                    "text": "He's erm he's self-sufficient as Chrissy walks in David can go up to bed he's can do his own teeth get himself in and you know and.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -16794,6 +16794,13 @@
                 {
                     "speaker": "PS1BS",
                     "text": "Oh that was for yeah the party.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS1BW",
+                    "text": "baby-sitting.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -17108,7 +17115,7 @@
                 },
                 {
                     "speaker": "PS1BT",
-                    "text": "Actually they're all er they are nearly all of them have been broken so they've obviously caught up with the list from the Er er er okay sunshine We'll go now See you ne see you later.",
+                    "text": "Actually they're all er they are nearly all of them have been broken so they've obviously caught up with the list from the Er er er okay sunshine We'll go now See you ne see you later Ni-night.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -20757,7 +20764,7 @@
                 },
                 {
                     "speaker": "PS1BS",
-                    "text": "Chrissy right does your ca your want washing.",
+                    "text": "Chrissy right does your ca your T-shirt want washing.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

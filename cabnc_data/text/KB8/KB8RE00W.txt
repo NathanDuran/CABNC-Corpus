@@ -114,7 +114,7 @@ PS16G|You've cheered up have you You've been a monster today.
 PS14M|No.
 PS14B|You have been James monster.
 PS16G|Have you been a Jimmy monster.
-PS14B|Yes we had a at at He would not stop hitting slapping Richard across the face.
+PS14B|Yes we had a carry-on at at dinner-time He would not stop hitting slapping Richard across the face.
 PS16G|Oh I don't like the sound of that.
 PS14B|So I I made him swap places as er with Bryony and of course he wou he wasn't sitting there He was gon na sit in his own seat I said you can't cos you keep hitting Richard in the face for nothing You won't let him eat his dinner.
 PS16G|Was he was he.
@@ -178,7 +178,7 @@ PS14K|I don't know but.
 PS16G|Happy Birthday for tomorrow if I don't see you.
 PS14C|Oh thank you.
 PS16G|Oh I forgot to bring your card.
-PS14B|He finishes at tomorrow I think.
+PS14B|He finishes at quarter-to-one tomorrow I think.
 PS17G|Jim.
 KB8PSUN|Get your shoes on please Martin.
 PS14C|Where's these children are they going home.
@@ -270,7 +270,7 @@ PS16G|No I'm afraid I'm gon na have to smack your fingers if you do that Richard
 PS14B|It's dangerous.
 PS16G|No.
 PS14L|Good girl.
-PS15B|I got nineteen out of.
+PS15B|I got nineteen out of twenty-five.
 PS16G|You've changed eh Richard.
 PS14B|What was that for.
 PS14L|Merit mark for her.
@@ -346,7 +346,7 @@ PS14B|I can't remember how old he is.
 PS14C|Well the oldest one's.
 PS14B|Ouch.
 PS14B|When I want to sit down and have a cigarette I haven't got any Are you at a meeting tonight.
-PS14C|Yes at seven.
+PS14C|Yes at half-past seven.
 PS14B|Oh.
 PS14C|Do you want me to go up and get you some.
 PS14B|Yes please Oh there's a piece of I should imagine there's bits of puzzles under the chairs anyway Sure to be Oh.
@@ -376,7 +376,7 @@ PS17G|But you you lose out a little bit on the atmosphere.
 PS14B|Yes.
 PS17G|Unless you can create your own atmosphere.
 PS14B|Well that's it I mean you should have all your friends and neighbours in and have a party.
-PS17G|Well the last the last time when Sunderland got to the Final in er there were five of us in the in my house and I'd made red and white rosettes.
+PS17G|Well the last the last time when Sunderland got to the Final in seventy-three er there were five of us in the in my house and I'd made red and white rosettes.
 PS17G|we had our red and white rosettes and when our I was sitting watching the match and when they scored the goal my slippers went up in the air.
 PS17G|And Jim er Bill grabbed the camera that was on the mantlepiece and he got a shot not of me but he got a shot of Pat and her friend and Bryan and er it was er er something I'll never forget.
 PS14B|Mm.
@@ -421,7 +421,7 @@ PS17G|And when I I mean when I I actu actually felt quite emotional cos I'd not 
 PS14C|Oh it's immaculate oh yeah.
 PS17G|Oh it was gorgeous It was in the summer before the season started You haven't you still haven't told me what this is made of.
 PS14C|What oh that's.
-PS14B|Jim will you go and g what time does the shut.
+PS14B|Jim will you go and g what time does the off-licence shut.
 PS14B|The Victoria Wine Cos it's where.
 PS14C|Later isn't it Isn't it later.
 PS14B|it's where I get my cigarettes from the Victoria Wine shop.
@@ -476,7 +476,7 @@ PS17G|over there and you er believe everything they've said.
 PS14B|once it's stuck in their head then it's like reading things in the newspapers.
 PS14C|What what am I going for.
 PS17G|Cigarettes.
-PS14B|Er fort well if you if you manage to get to Victoria Wines in time er get me erm er twenty erm no get me forty er Emb what do they call them Elite please If you've got ta go to the just get me twenty of whatever's there is.
+PS14B|Er fort well if you if you manage to get to Victoria Wines in time er get me erm er twenty erm no get me forty er Emb what do they call them Elite please If you've got ta go to the Co-op just get me twenty of whatever's there is.
 PS14C|Forty Elite.
 PS14B|If you get to the Victoria Wine in time I don't know if he will I don't know if it shuts at fiveo'clock or what they do or if evening staff come on I've never tried to go after fiveo'clock.
 PS17G|Mind you Ann I suppose that's why Pat got thinking about a Tory er vote.
@@ -502,7 +502,7 @@ PS14B|Mm.
 PS17G|but er she's not getting.
 PS14B|No Paul next door left school you know he cou all he wanted to be was a mechanic it's it's all he's ever been he's really good But he's learnt from his father.
 PS17G|Mm mm.
-PS14B|and he couldn't a job and then I me I mean he tried for apprenticeships all over the place and other jobs and he just couldn't get one When his father died when he was one he took over the erm taxi business Well it was private hire but most of the work came from Northgate Hospital.
+PS14B|and he couldn't a job and then I me I mean he tried for apprenticeships all over the place and other jobs and he just couldn't get one When his father died when he was twenty- one he took over the erm taxi business Well it was private hire but most of the work came from Northgate Hospital.
 PS17G|Mm mm.
 PS14B|You know they they ran they took the nurses because the nurses home was a mile or was it a mile or a mile and a half or something from the hospital they had this they took them in the morning and then they took them at lunchtime and then all the different shifts coming on and off they took them and they had the schools run as well And then of course the er they started running down Northgate hospital and they closed down the nurses home So there was half his business worked out wiped out in one go And then erm his schools run was way up into the country quite a long way and then that was changed First of all th the erm registration went up then something else went up and then two of his children from farthest away were moving so he was gon na be paid much less than that Well the ordinary private hire there's so many of them I mean his dad had been doing it for years but there's so many started up.
 PS17G|Yes.

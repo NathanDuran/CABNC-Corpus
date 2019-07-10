@@ -227,12 +227,12 @@ PS089|A frog.
 PS087|Mm.
 PS089|A rabbit.
 PS088|He had the other half.
-PS089|You don't see bunnies with do you You don't see ducks with a on.
+PS089|You don't see bunnies with do you You don't see ducks with a bow-tie on.
 PS088|Just those sharing ones left That's the sharing one.
 PS08A|Yes.
-PS089|You see ducks with on Mum have you ever seen a duck with a on.
+PS089|You see ducks with bow-ties on Mum have you ever seen a duck with a bow-tie on.
 PS087|No.
-PS089|ducks with a on do you And a dog with a.
+PS089|ducks with a bow-tie on do you And a dog with a.
 PS088|Mummy.
 PS087|Mm.
 PS088|Mummy.
@@ -308,8 +308,8 @@ PS087|There on that card When we're in Tesco's we'll have to make sure we've bou
 PS088|Erm mixing the big bits bits bits bits.
 PS087|I'm impressed I don't think I've ever had a card from Keith and Sue before How did they know.
 PS089|Mum to make the eyes mum we could have sultanas To make the eyes.
-PS087|It's known as a on this one.
-PS08A|Is it.
+PS087|It's known as a hippo-bath-day on this one.
+PS08A|Is it Hippo-bath.
 PS089|Mum just one more letter is there.
 PS087|Mhm.
 PS089|No you've finished that.
@@ -349,8 +349,9 @@ PS089|A weeny weeny purse.
 PS087|Foam bath gel.
 PS088|margarine.
 PS089|Gel.
-PS087|Three sachets.
+PS087|Forget-me-nots Three sachets.
 PS088|These is not gon na be enough.
+PS089|Forget-me-not.
 PS087|Three sachets of Woods of Windsor concentrated foam bath gel Empty the contents of one sachet under running hot water and enjoy a fragrant relaxing bath in the luxurious foam with Tim helping you get washed.
 PS08A|I'm sure it.
 PS088|Who.

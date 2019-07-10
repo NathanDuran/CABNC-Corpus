@@ -708,7 +708,7 @@ PS02H|And the other one.
 PS02L|Christianity.
 PS02H|No.
 PS02L|What is it Buddhism.
-PS02H|That'll do two points to mother Ann's question Is it possible to re to traverse under the North Pole in.
+PS02H|That'll do two points to mother Ann's question Is it possible to re to traverse under the North Pole in mid-winter.
 PS02G|Yeah in a in a a submarine.
 PS02H|Yes mother What is the Yucatan Canal.
 PS02L|It's a canal.
@@ -740,12 +740,12 @@ PS02H|Alright.
 PS02L|No I certainly didn't.
 PS02H|And Ann's question.
 PS02L|Not many people know that.
-PS02H|Which are the only group of islands made from Granite.
-PS02G|Mm group of islands made of granite.
+PS02H|Which are the only mid-ocean group of islands made from Granite.
+PS02G|Mm mid-ocean group of islands made of granite.
 PS02G|Seychelles.
 PS02H|Correct.
 PS02L|Good for you Ann.
-PS02G|That's only a blooming guess I don't know of any bloody islands.
+PS02G|That's only a blooming guess I don't know of any mid-ocean bloody islands.
 PS02L|Good for you.
 PS02H|Mother's question.
 PS02L|Very clever very impressed.
@@ -1010,4 +1010,4 @@ PS02L|yes.
 PS02H|What is tundra.
 PS02L|Mm.
 PS02H|It is arctic wasteland erm it is the.
-PS02L|Yeah it's actually so I don't think you should get that.
+PS02L|Yeah it's sub-arctic actually so I don't think you should get that.

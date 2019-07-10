@@ -14,14 +14,14 @@ PS1BS|advantage Sit down.
 PS1BW|I wonder if I.
 PS1BS|You don't mind I'll take you through in a minute I'm just cleaning my shoes.
 PS1BW|Alright I'll take them off.
-PS1BS|No don't take them off it's jud' ya know I had those about two weeks ago.
+PS1BS|No don't take them off it's jud' ya know I had those re-heeled about two weeks ago.
 PS1BW|Did you.
 PS1BS|Look.
 PS1BW|It's well.
 PS1BS|Isn't that awful.
 PS1BW|Well yeah.
 PS1BS|Bit depressing.
-PS1BS|though cos well it's two two pounds fifty six I've just taken another pair today to be I mean all I've done is walk up to the school a couple of times in them.
+PS1BS|though cos well it's two two pounds fifty six I've just taken another pair today to be re-heeled I mean all I've done is walk up to the school a couple of times in them.
 PS1BW|Can hear the sheep.
 PS1BS|Yes They're noisy tonight.
 PS1BS|Oh you brought all your work with you Erm there's all the stuff there There's only biscuits I haven't been able to do any baking.
@@ -47,14 +47,14 @@ PS1BW|Oh right.
 PS1BS|There's the Radio Times there.
 PS1BT|Erm.
 PS1BS|there.
-PS1BT|so a person going out of here.
+PS1BT|so a one-legged person going out of here.
 PS1BS|I'm trying to put my shoes on.
 PS1BT|Right Erm David.
 PS1BS|David He's out there eating again.
 PS1BT|Having his yoghurt His toothbrush is up Judy he's.
 PS1BS|Julie not Judy.
 PS1BT|I said Julie didn't I Oh yes alright.
-PS1BT|He's erm he's as Chrissy walks in David can go up to bed he's can do his own teeth get himself in and you know and.
+PS1BT|He's erm he's self-sufficient as Chrissy walks in David can go up to bed he's can do his own teeth get himself in and you know and.
 PS1BS|He's been.
 PS1BT|if you let him though he'll he'll stay up all night and read to you and things like that but no just send him to bed I don't mind if he reads for a few minutes but that's it Chrissy will come in he might come in bringing Simon and his mum.
 PS1BS|He won't.
@@ -91,6 +91,7 @@ PS1BW|Yeah.
 PS1BS|He cried That was years ago.
 PS1BW|Yeah that was when you were going to Bill's the last time I came.
 PS1BS|Oh that was for yeah the party.
+PS1BW|baby-sitting.
 PS1BS|it's a oh yes the Boston oh yes the fancy.
 PS1BW|Yeah.
 PS1BS|Yes it was.
@@ -135,7 +136,7 @@ PS1BT|I'll see Yeah I can see the drive You seen what they've been doing Putting
 PS1BW|Yeah.
 PS1BT|in the bottom.
 PS1BW|Yeah I saw the cones.
-PS1BT|Actually they're all er they are nearly all of them have been broken so they've obviously caught up with the list from the Er er er okay sunshine We'll go now See you ne see you later.
+PS1BT|Actually they're all er they are nearly all of them have been broken so they've obviously caught up with the list from the Er er er okay sunshine We'll go now See you ne see you later Ni-night.
 PS1BV|Bye.
 PS1BT|Bye Julie.
 PS1BW|Bye.

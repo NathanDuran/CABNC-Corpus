@@ -2068,7 +2068,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "Yeah we got there for teno'clock and we had to wait till they'd finished all the before they'd let the.",
+                    "text": "Yeah we got there for teno'clock and we had to wait till they'd finished all the out-patients before they'd let the in-patients.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -4802,7 +4802,7 @@
         },
         {
             "dialogue_id": "KC9RE00C",
-            "num_utterances": 201,
+            "num_utterances": 202,
             "utterances": [
                 {
                     "speaker": "PS0CG",
@@ -5527,14 +5527,14 @@
                 },
                 {
                     "speaker": "PS0CJ",
-                    "text": "How much do you think a is.",
+                    "text": "How much do you think a yo-yo is.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "Oh gosh that's good for you you know it's good for your.",
+                    "text": "Oh gosh that's good for you you know it's good for your co-ordination.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5576,7 +5576,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "Have you got any 's in yet.",
+                    "text": "Have you got any yo-yo's in yet.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5745,6 +5745,13 @@
                 {
                     "speaker": "PS0CJ",
                     "text": "So you want to keep.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0CK",
+                    "text": "Yo-yo.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -5982,7 +5989,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "purses on on a.",
+                    "text": "shoulder-less purses on on a.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -6352,7 +6359,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "perhaps it was burnt down and or something didn't seem at all tudorish did it.",
+                    "text": "perhaps it was burnt down and re-built or something didn't seem at all tudorish did it.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -11156,7 +11163,7 @@
                 },
                 {
                     "speaker": "PS0CR",
-                    "text": "to the point where my woken up in his room with hilarious giggles which don't take long to ensue.",
+                    "text": "to the point where my father-in-law woken up in his room with hilarious giggles which don't take long to ensue.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -21651,7 +21658,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "Yes what's what's happened if we were at Sandhurst Auction it would go to Reading and then be to Aldershot and then.",
+                    "text": "Yes what's what's happened if we were at Sandhurst Auction it would go to Reading and then be re-directed to Aldershot and then.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22239,14 +22246,14 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "And Dinda said she needed a filling a actually and she said it's the first that she's been to a dentist that she could remember that she didn't notice the needle coming in part she hates is the needle in the gum.",
+                    "text": "And Dinda said she needed a filling a re-filling actually and she said it's the first that she's been to a dentist that she could remember that she didn't notice the needle coming in part she hates is the needle in the gum.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
                 },
                 {
                     "speaker": "PS0CK",
-                    "text": "Yeah me too yeah yeah Well I had that with this little locum but er a South African didn't feel a thing mind you a lot of fillings came out thought just had to go back and have it put in again but she drilled such a small whole that that the dentist I saw another nice young man cos my dentist had gone she's it and going to be alright because her fillings out and it was a bit rough they didn't sort of goes inwards sort of.",
+                    "text": "Yeah me too yeah yeah Well I had that with this little locum but er a South African didn't feel a thing mind you a lot of fillings came out thought just had to go back and have it put in again but she drilled such a small whole that that the dentist I saw another nice young man cos my dentist had gone she's re-filled it and going to be alright because her fillings out and it was a bit rough they didn't sort of goes inwards sort of.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22672,7 +22679,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "brother's and sister's and parents I must have one Sunday in the year when we have Sunday lunch at and not in the evening because you know I get to carol services on And he said oh that's alright mum and dad eat anyway so they only want erm they only want biscuits and cake and maybe a bit of bread and butter what can you do.",
+                    "text": "brother's and sister's and parents I must have one Sunday in the year when we have Sunday lunch at mid-day and not in the evening because you know I get to carol services on And he said oh that's alright mum and dad eat mid-day anyway so they only want erm they only want biscuits and cake and maybe a bit of bread and butter what can you do.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -22826,7 +22833,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "I know I know Brian wouldn't at least three but and this and this wasn't really big enough and they use two side by side whenever they were late or away for a weekend I took over and see to the cats feed they were sweet erm used to come on the porch and meow at me it's my dinner time come on just get not time yet used to come to the porch and tell me they used to know when I wasn't coming home how do they do it Mum wasn't coming so she'd come and fetch me But the two little trays in the middle of that beautifully kitchen with every mod con the whole of the floor was taken up with sheets of news papers two big litter trays and a sack full of The only job I didn't thank god I'm not three of them in and out all day.",
+                    "text": "I know I know Brian wouldn't at least three but and this and this wasn't really big enough and they use two side by side whenever they were late or away for a weekend I took over and see to the cats feed they were sweet erm used to come on the porch and meow at me it's my dinner time come on just get not time yet used to come to the porch and tell me they used to know when I wasn't coming home how do they do it Mum wasn't coming so she'd come and fetch me But the two little trays in the middle of that beautifully re-furbished kitchen with every mod con the whole of the floor was taken up with sheets of news papers two big litter trays and a sack full of The only job I didn't thank god I'm not three of them in and out all day.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25121,7 +25128,7 @@
                 },
                 {
                     "speaker": "PS0CH",
-                    "text": "they had their.",
+                    "text": "they had their hi-fi.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25373,7 +25380,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "and then only had it four years but I used to it was it's such a waste that washing machine I think maybe I've done a few shirts hand washing and all the water whereas in the twin tub I'd of done the light weights heated the water up done the shirts and erm got the put in maybe towels and then I'd put the water if if it wasn't really soiled and I could do either all the dogs stuff or or my dusters.",
+                    "text": "and then only had it four years but I used to it was it's such a waste that washing machine I think maybe I've done a few shirts hand washing and all the water whereas in the twin tub I'd of done the light weights heated the water up done the shirts and erm got the put in maybe towels and then I'd put re-heat the water if if it wasn't really soiled and I could do either all the dogs stuff or or my dusters.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -25408,7 +25415,7 @@
                 },
                 {
                     "speaker": "PS0CG",
-                    "text": "Now now with it the one thing in that's it and all the water's wasted you can't it for anything.",
+                    "text": "Now now with it the one thing in that's it and all the water's wasted you can't re-use it for anything.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -30002,7 +30009,7 @@
                 },
                 {
                     "speaker": "PS0CH",
-                    "text": "Well we dug the lot up they're all growing like mad and I I've got an idea that once you've moved them they don't they don't very well.",
+                    "text": "Well we dug the lot up they're all growing like mad and I I've got an idea that once you've moved them they don't they don't re-settle very well.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

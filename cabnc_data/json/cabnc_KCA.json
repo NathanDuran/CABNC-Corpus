@@ -792,7 +792,7 @@
         },
         {
             "dialogue_id": "KCARE007",
-            "num_utterances": 325,
+            "num_utterances": 327,
             "utterances": [
                 {
                     "speaker": "PS0DR",
@@ -1523,6 +1523,13 @@
                     "slots": {}
                 },
                 {
+                    "speaker": "PS0DR",
+                    "text": "Ta-ta.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
                     "speaker": "PS0DP",
                     "text": "Goodnight.",
                     "ap_label": "",
@@ -1531,7 +1538,7 @@
                 },
                 {
                     "speaker": "KCAPSUG",
-                    "text": "Tom.",
+                    "text": "Ta-ta Tom.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1594,7 +1601,7 @@
                 },
                 {
                     "speaker": "PS0DM",
-                    "text": "Tom.",
+                    "text": "Ta-ta Tom.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -1616,6 +1623,13 @@
                 {
                     "speaker": "PS0DM",
                     "text": "Goodnight.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0DP",
+                    "text": "Ta-ta.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -2826,7 +2840,7 @@
                 },
                 {
                     "speaker": "KCAPSUN",
-                    "text": "How you managing then.",
+                    "text": "How you managing then money-wise.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -7712,7 +7726,7 @@
                 },
                 {
                     "speaker": "PS0DL",
-                    "text": "a.",
+                    "text": "a see-saw.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

@@ -2648,7 +2648,7 @@
         },
         {
             "dialogue_id": "KE4RE002",
-            "num_utterances": 121,
+            "num_utterances": 122,
             "utterances": [
                 {
                     "speaker": "PS0WN",
@@ -3380,7 +3380,7 @@
                 },
                 {
                     "speaker": "PS0WN",
-                    "text": "Okay then Hurry up and get it then Don't about.",
+                    "text": "Okay then Hurry up and get it then Don't diddle-daddle about.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -3492,7 +3492,14 @@
                 },
                 {
                     "speaker": "PS0WN",
-                    "text": "Right okay then then David.",
+                    "text": "Right okay then Night-night then David.",
+                    "ap_label": "",
+                    "da_label": "",
+                    "slots": {}
+                },
+                {
+                    "speaker": "PS0WS",
+                    "text": "Night-night.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -8706,7 +8713,7 @@
                 },
                 {
                     "speaker": "PS0WR",
-                    "text": "Ashley wants to do everything that the do.",
+                    "text": "Ashley wants to do everything that the grown-ups do.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -10567,7 +10574,7 @@
                 },
                 {
                     "speaker": "PS0WN",
-                    "text": "It is Aye Have a look at it.",
+                    "text": "It is Aye Have a look at it Super-duper.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -13811,7 +13818,7 @@
                 },
                 {
                     "speaker": "PS0WN",
-                    "text": "Tt Fergie.",
+                    "text": "Tt Fergie Fergie-Wergie.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}
@@ -14140,7 +14147,7 @@
                 },
                 {
                     "speaker": "PS0WS",
-                    "text": "main meal a biscuit and a drink of Coke a a sweet and a tea one bis a chocolate and a what's that It's a cake a choc ice or a cake and a biscuit Dee da da da da da ba doo ba doo ba ba ba One filling leads to another last ten minutes and acid produces acid attacks The decay which results lasts a lifetime To prevent a child losing his smile Had an accident Broken your teeth Your dentist can sa save your smile How can he save your smile.",
+                    "text": "main meal a biscuit and a drink of Coke a a sweet and a tea one bis a chocolate choc-ice and a what's that It's a cake a choc ice or a cake and a biscuit Dee da da da da da ba doo ba doo ba ba ba One filling leads to another last ten minutes and acid produces acid attacks The decay which results lasts a lifetime To prevent a child losing his smile Had an accident Broken your teeth Your dentist can sa save your smile How can he save your smile.",
                     "ap_label": "",
                     "da_label": "",
                     "slots": {}

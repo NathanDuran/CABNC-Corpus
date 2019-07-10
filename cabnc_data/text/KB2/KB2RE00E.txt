@@ -367,7 +367,7 @@ PS01T|Yeah.
 PS01V|You want your test certificate.
 PS01U|Oh.
 PS01V|it weren't due until about twenty fourth of February Ann.
-PS01U|Well can't you take it back and get it.
+PS01U|Well can't you take it back and get it re-dated.
 PS01V|I don't know.
 PS01U|Whereabouts have they took it to.
 PS01V|I don't know.

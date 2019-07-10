@@ -234,7 +234,7 @@ PS07A|Yeah.
 PS07C|put the dustbin out.
 PS07D|Fifteen two fifteen four fifteen six fifteen eight.
 PS079|Aha.
-PS07C|ever such a well job isn't it.
+PS07C|ever such a well well-paid job isn't it.
 PS07A|Well it is they're queuing up to get.
 PS079|I want three.
 PS07D|I want four please.
@@ -668,7 +668,7 @@ PS07D|No yours.
 PS07C|Mum had a perm this morning.
 PS07A|Did she.
 PS07C|She moaned all the time she hates having her hair cut She was going rough when I pull her and oh.
-PS07C|She's terrible.
+PS07C|She's terrible tender-headed.
 PS07A|Is she.
 PS07C|Well nobody else moans so much.
 PS07A|Oh.
