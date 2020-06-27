@@ -10,8 +10,7 @@ The intent is to create a more machine-readable format for NLP and computational
 cabnc_to_json.py script processes the dialogues from the original .cha format into .json files using the format
 outlined below. Each dialogue set (KB0, KB1 etc) is output as a separate .json file.
 This format is intended to facilitate annotation of the dialogue using the 
-[Conversation Analysis Schema](https://nathanduran.github.io/CA-Schema/)
-and [Dialogue tagger](https://github.com/NathanDuran/CA-Dialogue-Tagger).
+[Conversation Analysis Modelling Schema](https://nathanduran.github.io/Conversation-Analysis-Modelling-Schema/).
 
 cabnc_to_text.py processes the dialogues from the original .cha format into plain text files,
 with one line per-utterance, using the format outlined below.
